@@ -17,7 +17,6 @@ R로 배우는 기초통계 (2019년 UST 대학원 일반강의) https://greenda
 
 
 
-
 ## Publications
 
 SK Kim*, H. Kim*, WC Ahn, KH Park, E Woo, DH Lee, and SG Lee, Efficient Transcriptional Gene Repression by Type V-A CRISPR-Cpf1 from Eubacterium eligens, 10.1021/acssynbio.6b00368, 2017
