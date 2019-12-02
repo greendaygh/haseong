@@ -1,0 +1,11 @@
+rmd_files: ["index.Rmd"]
+book_filename: "haseong"
+repo: https://github.com/greendaygh/haseong/
+output_dir: docs
+delete_merged_file: true
+language:
+  label:
+    fig: "FIGURE"
+    tab: "TABLE"
+  ui:
+    chapter_name: ""
