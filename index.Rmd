@@ -9,17 +9,17 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "This is Haseong's home."
----
-
-## Lectures
-
+--- 
+ 
+# Lectures
+ 
 * R 프로그래밍 (2020년 1학기 UST 대학원 일반강의) https://greendaygh.github.io/Rprog2020/ 
 * 기계학습 x 생물공학 (2019년 12월 생물공학회 워크샵) https://github.com/greendaygh/bioengml * R로 배우는 기초통계 (2019년 2학기 UST 대학원 일반강의) https://greendaygh.github.io/Rstat2019/ 
 * R 프로그래밍 (2019년 1학기 UST 대학원 일반강의) https://greendaygh.github.io/Rprog2019/ 
 
 
 
-## Selected publications
+# Selected publications
 
 SK Kim\*, **H. Kim\***, WC Ahn, KH Park, E Woo, DH Lee, and SG Lee, Efficient Transcriptional Gene Repression by Type V-A CRISPR-Cpf1 from Eubacterium eligens, 10.1021/acssynbio.6b00368, 2017
 
