@@ -13,9 +13,10 @@ description: "This is Haseong's home."
  
 # Lectures
  
-* R 프로그래밍 (2020년 1학기 UST 대학원 일반강의) https://greendaygh.github.io/Rprog2020/ 
-* 기계학습 x 생물공학 (2019년 12월 생물공학회 워크샵) https://github.com/greendaygh/bioengml * R로 배우는 기초통계 (2019년 2학기 UST 대학원 일반강의) https://greendaygh.github.io/Rstat2019/ 
-* R 프로그래밍 (2019년 1학기 UST 대학원 일반강의) https://greendaygh.github.io/Rprog2019/ 
+* R 프로그래밍 (2020년 1학기 UST 대학원 일반강의) https://greendaygh.github.io/Rprog2020/  
+* 기계학습 x 생물공학 (2019년 12월 생물공학회 워크샵) https://github.com/greendaygh/bioengml  
+* R로 배우는 기초통계 (2019년 2학기 UST 대학원 일반강의) https://greendaygh.github.io/Rstat2019/   
+* R 프로그래밍 (2019년 1학기 UST 대학원 일반강의) https://greendaygh.github.io/Rprog2019/  
 
 
 
