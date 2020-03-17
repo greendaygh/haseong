@@ -20,7 +20,7 @@ description: "This is Haseong's home."
 
 # Media
 
-* [2019-12-31] [바이오인사이트] 합성생물학과 생명연구자원  
+* [2019-12-31] [바이오리소스 인사이트 Vol5] [합성생물학과 생명연구자원](https://www.kobis.re.kr/go_document?page_name=publication_bio_insight)
 * [2019-12-04] [바이오인프로] [바이오파운드리 개요 및 현황](https://www.bioin.or.kr/board.do?num=292266&cmd=view&bid=report&cPage=1&cate1=all&cate2=all2)
 * [2019-09-17] [한국경제] [자동화 로봇 기술 덕분에 10년 걸리던 표현형 데이터 수일 內 확보](https://www.hankyung.com/it/article/2019091732761)
 
