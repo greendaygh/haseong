@@ -30,6 +30,10 @@ description: "This is Haseong's home."
 
 # Selected publications
 
+[Full paper list](http://home.kribb.re.kr/haseong/)
+
+**H. Kim ** "AI, big data, and robots for the evolution of biotechnology" GENOM INFORMAT. 17(4) : e44-e44, 2019
+
 SK Kim\*, **H. Kim\***, WC Ahn, KH Park, E Woo, DH Lee, and SG Lee, Efficient Transcriptional Gene Repression by Type V-A CRISPR-Cpf1 from Eubacterium eligens, 10.1021/acssynbio.6b00368, 2017
 
 **H. Kim\***, E. Rha\*, W. Seong, SJ Yeom, DH Lee, S G Lee, A cell-cell communication-based screening system for novel microbes with target enzyme activities, ACS Synthetic Biology, DOI: 10.1021/acssynbio.5b00287, 2016
