@@ -12,7 +12,7 @@ description: "This is Haseong's home."
 --- 
  
 # Lectures
-
+* [2020년 KRIBB 연구데이터 분석과정] [R을 이용한 생명데이터 분석](https://greendaygh.github.io/KRIBBR2020/)
 * [2020년 2학기 UST 대학원 일반강의] [R로 배우는 기초통계](https://greendaygh.github.io/Rstat2020/)
 * [2020년 1학기 UST 대학원 일반강의] [R 프로그래밍과 데이터분석](https://greendaygh.github.io/Rprog2020/)
 * [2019년 12월 생물공학회 교육 워크샵] [기계학습 x 생물공학](https://github.com/greendaygh/bioengml)
