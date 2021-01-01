@@ -21,6 +21,7 @@ description: "This is Haseong's home."
 
 # Media
 
+* [2020-12-17] [전자신문 외 15건] [AI 만난 미생물 바이오센서, 유해물질 95% 식별](https://www.fnnews.com/news/202012161243526206)
 * [2020-7-30] [한국생물공학회] [딥러닝(CNN)기반 DNA 서열분석 가이드](http://www.btnews.or.kr/bbs/board.php?bo_table=bt_news&wr_id=342)
 * [2020-5-1] [바이오리소스 인사이트 Vol5] [합성생물학과 생명연구자원](https://www.kobis.re.kr/go_document?page_name=publication_bio_insight)
 * [2019-12-31] [바이오인에세이] [2019 바이오미래기유망기술의 이야기-유전자회로 공정 예측기술](https://www.bioin.or.kr/board.do?num=292912&cmd=view&bid=essay)
@@ -33,6 +34,8 @@ description: "This is Haseong's home."
 # Selected publications
 
 [Full paper list](http://home.kribb.re.kr/haseong/)
+
+**Haseong Kim **, Wonjae Seong, Eugene Rha, Hyewon Lee, Seong Keun Kim, Kil Koang Kwon, K H Park, Dae-Hee Lee, Seung Goo Lee (2020) "Machine learning linked evolutionary biosensor array for highly sensitive and specific molecular identification" Biosens Bioelectron. 170(0) : 112670-112670.
 
 **H. Kim ** "AI, big data, and robots for the evolution of biotechnology" GENOM INFORMAT. 17(4) : e44-e44, 2019
 
