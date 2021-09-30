@@ -29,12 +29,14 @@ description: "This is Haseong's home."
 * [2020-12-17] [전자신문 외 15건] [AI 만난 미생물 바이오센서, 유해물질 95% 식별](https://www.fnnews.com/news/202012161243526206)
 * [2020-7-30] [한국생물공학회] [딥러닝(CNN)기반 DNA 서열분석 가이드](http://www.btnews.or.kr/bbs/board.php?bo_table=bt_news&wr_id=342)
 * [2020-5-1] [바이오리소스 인사이트 Vol5] [합성생물학과 생명연구자원](https://www.kobis.re.kr/go_document?page_name=publication_bio_insight)
-* [2019-12-31] [바이오인에세이] [2019 바이오미래기유망기술의 이야기-유전자회로 공정 예측기술](https://www.bioin.or.kr/board.do?num=292912&cmd=view&bid=essay)
+* [2020-2-3] [바이오인에세이 감수] [2020 바이오미래기유망기술의 이야기-바이오파운드리](https://www.bioin.or.kr/board.do?num=304334&cmd=view&bid=essay)
+* [2020-2-11] [바이오인 기술 추천 및 기초자료 작성] [2020년 10대 바이오 미래유망기술 바이오파운드리 ](https://www.bioin.or.kr/board.do?num=293995&cmd=view&bid=essay&cPage=1&cate1=all&cate2=all2)
+* [2019-12-31] [바이오인에세이 감수] [2019 바이오미래기유망기술의 이야기-유전자회로 공정 예측기술](https://www.bioin.or.kr/board.do?num=292912&cmd=view&bid=essay)
 * [2019-12-04] [바이오인프로] [바이오파운드리 동향](https://www.bioin.or.kr/board.do?num=292266&cmd=view&bid=report&cPage=1&cate1=all&cate2=all2)
 * [2019-09-17] [한국경제] [자동화 로봇 기술 덕분에 10년 걸리던 표현형 데이터 수일 內 확보](https://www.hankyung.com/it/article/2019091732761)
 * [2016-09-20] [보도자료] [저비용·고효율 맞춤형 미생물 검색 형광 플랫폼 개발](https://www.bioin.or.kr/board.do?num=263870&cmd=view&bid=research)
 * [2015-07-27] [바이오인프로] [합성생물학의 최신 연구동향](https://www.bioin.or.kr/board.do?num=253760&cmd=view&bid=report)
-
+* [2013-02-03] [지능형합성생물학연구단] [합성생물학 부품 표준화 및 설계 정형화에 관한 연구 동향](http://www.syntheticbiology.or.kr/board.php?db=sub0302&no=44&c=view&page=8)
 
 # Selected publications
 
