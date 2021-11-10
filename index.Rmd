@@ -41,7 +41,7 @@ description: "This is Haseong's home."
 
 # Selected publications
 
-[Full paper list](http://home.kribb.re.kr/haseong/)
+[Full paper list](https://oak.kribb.re.kr/researcher-profile?ep=137&type=all&sort_by=dc.date.issued_dt&order=DESC)
 
 **Haseong Kim **, Wonjae Seong, Eugene Rha, Hyewon Lee, Seong Keun Kim, Kil Koang Kwon, K H Park, Dae-Hee Lee, Seung Goo Lee (2020) "Machine learning linked evolutionary biosensor array for highly sensitive and specific molecular identification" Biosens Bioelectron. 170(0) : 112670-112670.
 
