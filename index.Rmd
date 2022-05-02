@@ -1,15 +1,21 @@
 --- 
-#title: "Haseong"
-#author: "Haseong Kim"
-#date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 mainfont: Nanum Myeongjo
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
-description: "This is Haseong's home."
+description: This is Haseong's home.
 --- 
+
+# Intro
+
+* 김하성 (Haseong Kim) 
+* 한국생명공학연구원 합성생물학연구소 책임연구원
+* 과학기술연합대학원대학교 생명공학과 부교수
+
 
 # Lectures
 * [2021년 2학기 UST 대학원 전공강의] [현장연구A](https://greendaygh.github.io/fieldresearch2021-2/)
