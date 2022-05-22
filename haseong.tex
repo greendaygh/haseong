@@ -4,10 +4,10 @@
 %
 \documentclass[
 ]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -34,21 +34,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
-% Correct order of tables after \paragraph or \subparagraph
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
-\makeatother
-% Allow footnotes in longtable head/foot
-\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
-\makesavenoteenv{longtable}
 \usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -65,50 +50,184 @@
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{5}
-\usepackage{booktabs}
-\usepackage[]{natbib}
-\bibliographystyle{apalike}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \author{}
 \date{\vspace{-2.5em}}
 
 \begin{document}
+\frontmatter
 
-{
-\setcounter{tocdepth}{1}
-\tableofcontents
-}
-\hypertarget{lectures}{%
-\section{Lectures}\label{lectures}}
+\mainmatter
+\hypertarget{intro}{%
+\chapter{Intro}\label{intro}}
 
 \begin{itemize}
 \tightlist
 \item
-  R 프로그래밍 (2020년 1학기 UST 대학원 일반강의) \url{https://greendaygh.github.io/Rprog2020/}
+  김하성 (Haseong Kim)
 \item
-  기계학습 x 생물공학 (2019년 12월 생물공학회 워크샵) \url{https://github.com/greendaygh/bioengml} * R로 배우는 기초통계 (2019년 2학기 UST 대학원 일반강의) \url{https://greendaygh.github.io/Rstat2019/}
+  한국생명공학연구원 합성생물학연구소 책임연구원
 \item
-  R 프로그래밍 (2019년 1학기 UST 대학원 일반강의) \url{https://greendaygh.github.io/Rprog2019/}
+  과학기술연합대학원대학교 생명공학과 부교수
+\end{itemize}
+
+\hypertarget{lectures}{%
+\chapter{Lectures}\label{lectures}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}2021년 2학기 UST 대학원 전공강의{]} {[}현장연구A{]}
+\item
+  {[}2021년 KRIBB 연구데이터 분석과정{]}
+  \href{https://greendaygh.github.io/kribbr2021/}{R을 이용한 생명데이터
+  분석}
+\item
+  {[}2021년 1학기 UST 대학원 전공강의{]} {[}현장연구E{]}
+\item
+  {[}2021년 1학기 UST 대학원 일반강의{]}
+  \href{https://greendaygh.github.io/Rprog2021/}{데이터 사이언스를 위한
+  R 프로그래밍}
+\item
+  {[}2020년 KRIBB 연구데이터 분석과정{]}
+  \href{https://greendaygh.github.io/KRIBBR2020/}{R을 이용한 생명데이터
+  분석}
+\item
+  {[}2020년 2학기 UST 대학원 일반강의{]}
+  \href{https://greendaygh.github.io/Rstat2020/}{R로 배우는 기초통계}
+\item
+  {[}2020년 1학기 UST 대학원 일반강의{]}
+  \href{https://greendaygh.github.io/Rprog2020/}{R 프로그래밍과
+  데이터분석}
+\item
+  {[}2019년 12월 생물공학회 교육 워크샵{]}
+  \href{https://github.com/greendaygh/bioengml}{기계학습 x 생물공학}
+\item
+  {[}2019년 2학기 UST 대학원 일반강의{]}
+  \href{https://greendaygh.github.io/Rstat2019/}{R로 배우는 기초통계}
+\item
+  {[}2019년 1학기 UST 대학원 일반강의{]}
+  \href{https://greendaygh.github.io/Rprog2019/}{R 프로그래밍과
+  데이터분석}
+\end{itemize}
+
+\hypertarget{media}{%
+\chapter{Media}\label{media}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}2021-10-12{]} {[}바이오인와치{]}
+  \href{https://www.bioin.or.kr/board.do?num=311389\&cmd=view\&bid=issue}{제조업을
+  혁신할 자연지향설계(Nature Co-Design) 시대 도래}
+\item
+  {[}2021-04-31{]} {[}한국과총{]}
+  \href{http://ebook.kofst.or.kr/book/202104/\#page=71}{인류 번영을 위한
+  혁신기술, 합성생물학}
+\item
+  {[}2021-02-24{]} {[}한국경제, 유료{]}
+  \href{https://www.hankyung.com/it/article/202102096254i}{생물학의
+  산업적 활용을 촉진하는 바이오파운드리 구축 필요}
+\item
+  {[}2020-12-17{]} {[}전자신문 외 15건{]}
+  \href{https://www.fnnews.com/news/202012161243526206}{AI 만난 미생물
+  바이오센서, 유해물질 95\% 식별}
+\item
+  {[}2020-7-30{]} {[}한국생물공학회{]}
+  \href{http://www.btnews.or.kr/bbs/board.php?bo_table=bt_news\&wr_id=342}{딥러닝(CNN)기반
+  DNA 서열분석 가이드}
+\item
+  {[}2020-5-1{]} {[}바이오리소스 인사이트 Vol5{]}
+  \href{https://www.kobis.re.kr/go_document?page_name=publication_bio_insight}{합성생물학과
+  생명연구자원}
+\item
+  {[}2020-2-3{]} {[}바이오인에세이 감수{]}
+  \href{https://www.bioin.or.kr/board.do?num=304334\&cmd=view\&bid=essay}{2020
+  바이오미래기유망기술의 이야기-바이오파운드리}
+\item
+  {[}2020-2-11{]} {[}바이오인 기술 추천 및 기초자료 작성{]}
+  \href{https://www.bioin.or.kr/board.do?num=293995\&cmd=view\&bid=essay\&cPage=1\&cate1=all\&cate2=all2}{2020년
+  10대 바이오 미래유망기술 바이오파운드리}
+\item
+  {[}2019-12-31{]} {[}바이오인에세이 감수{]}
+  \href{https://www.bioin.or.kr/board.do?num=292912\&cmd=view\&bid=essay}{2019
+  바이오미래기유망기술의 이야기-유전자회로 공정 예측기술}
+\item
+  {[}2019-12-04{]} {[}바이오인프로{]}
+  \href{https://www.bioin.or.kr/board.do?num=292266\&cmd=view\&bid=report\&cPage=1\&cate1=all\&cate2=all2}{바이오파운드리
+  동향}
+\item
+  {[}2019-09-17{]} {[}한국경제{]}
+  \href{https://www.hankyung.com/it/article/2019091732761}{자동화 로봇
+  기술 덕분에 10년 걸리던 표현형 데이터 수일 內 확보}
+\item
+  {[}2016-09-20{]} {[}보도자료{]}
+  \href{https://www.bioin.or.kr/board.do?num=263870\&cmd=view\&bid=research}{저비용·고효율
+  맞춤형 미생물 검색 형광 플랫폼 개발}
+\item
+  {[}2015-07-27{]} {[}바이오인프로{]}
+  \href{https://www.bioin.or.kr/board.do?num=253760\&cmd=view\&bid=report}{합성생물학의
+  최신 연구동향}
+\item
+  {[}2013-02-03{]} {[}지능형합성생물학연구단{]}
+  \href{http://www.syntheticbiology.or.kr/board.php?db=sub0302\&no=44\&c=view\&page=8}{합성생물학
+  부품 표준화 및 설계 정형화에 관한 연구 동향}
 \end{itemize}
 
 \hypertarget{selected-publications}{%
-\section{Selected publications}\label{selected-publications}}
+\chapter{Selected publications}\label{selected-publications}}
 
-SK Kim*, \textbf{H. Kim*}, WC Ahn, KH Park, E Woo, DH Lee, and SG Lee, Efficient Transcriptional Gene Repression by Type V-A CRISPR-Cpf1 from Eubacterium eligens, 10.1021/acssynbio.6b00368, 2017
+\href{https://oak.kribb.re.kr/researcher-profile?ep=137\&type=all\&sort_by=dc.date.issued_dt\&order=DESC}{Full
+paper list}
 
-\textbf{H. Kim*}, E. Rha*, W. Seong, SJ Yeom, DH Lee, S G Lee, A cell-cell communication-based screening system for novel microbes with target enzyme activities, ACS Synthetic Biology, DOI: 10.1021/acssynbio.5b00287, 2016
+\textbf{Haseong Kim }, Wonjae Seong, Eugene Rha, Hyewon Lee, Seong Keun
+Kim, Kil Koang Kwon, K H Park, Dae-Hee Lee, Seung Goo Lee (2020)
+``Machine learning linked evolutionary biosensor array for highly
+sensitive and specific molecular identification'' Biosens Bioelectron.
+170(0) : 112670-112670.
 
-\textbf{H. Kim}, KK Kwon, W. Seong, SG Lee, Multi-Enzyme Screening Using a High-throughput Genetic Enzyme Screening System, The Journal of Visualized Experiments, (114), e54059, 2016
+\textbf{H. Kim } ``AI, big data, and robots for the evolution of
+biotechnology'' GENOM INFORMAT. 17(4) : e44-e44, 2019
 
-Y J Kim*, \textbf{H. Kim*}, S H Kim, E Rha, S-L Choi, S J Yeom, H S Kim, S G Lee, Improved metagenome screening efficiency by random insertion of T7 promoters J BIOTECHNOL, 230(0) : 47-53, 2016
+SK Kim*, \textbf{H. Kim*}, WC Ahn, KH Park, E Woo, DH Lee, and SG Lee,
+Efficient Transcriptional Gene Repression by Type V-A CRISPR-Cpf1 from
+Eubacterium eligens, 10.1021/acssynbio.6b00368, 2017
 
-SL Choi, E Rha, SJ Lee, \textbf{H. Kim}, G Kwon, YS Jeong, YH Rhee, JJ Song, HS Kim, SG Lee, Towards a Generalized and High-throughput Enzyme Screening System Based on Artificial Genetic Circuits, ACS Synthetic Biology, 3(3), 2014
+\textbf{H. Kim*}, E. Rha*, W. Seong, SJ Yeom, DH Lee, S G Lee, A
+cell-cell communication-based screening system for novel microbes with
+target enzyme activities, ACS Synthetic Biology, DOI:
+10.1021/acssynbio.5b00287, 2016
 
-\textbf{H. Kim}, T. Park, and E. Gelenbe, Identifying Disease Candidate Genes via Large-scale Gene Network Analysis, International Journal of Data Mining and Bioinformatics, 10(2), 2014
+\textbf{H. Kim}, KK Kwon, W. Seong, SG Lee, Multi-Enzyme Screening Using
+a High-throughput Genetic Enzyme Screening System, The Journal of
+Visualized Experiments, (114), e54059, 2016
 
-\textbf{H. Kim}, Modelling and analysis of gene regulatory networks based on the G-network, International Journal of Advanced Intelligence Paradigms, 6(1), 2014
+Y J Kim*, \textbf{H. Kim*}, S H Kim, E Rha, S-L Choi, S J Yeom, H S Kim,
+S G Lee, Improved metagenome screening efficiency by random insertion of
+T7 promoters J BIOTECHNOL, 230(0) : 47-53, 2016
 
-  \bibliography{book.bib,packages.bib}
+SL Choi, E Rha, SJ Lee, \textbf{H. Kim}, G Kwon, YS Jeong, YH Rhee, JJ
+Song, HS Kim, SG Lee, Towards a Generalized and High-throughput Enzyme
+Screening System Based on Artificial Genetic Circuits, ACS Synthetic
+Biology, 3(3), 2014
 
+\textbf{H. Kim}, T. Park, and E. Gelenbe, Identifying Disease Candidate
+Genes via Large-scale Gene Network Analysis, International Journal of
+Data Mining and Bioinformatics, 10(2), 2014
+
+\textbf{H. Kim}, Modelling and analysis of gene regulatory networks
+based on the G-network, International Journal of Advanced Intelligence
+Paradigms, 6(1), 2014
+
+\backmatter
 \end{document}
