@@ -1,4 +1,0 @@
-intro
-lectures
-media
-selected-publications
