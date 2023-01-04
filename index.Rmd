@@ -81,7 +81,7 @@ SL Choi, E Rha, SJ Lee, **H. Kim**, G Kwon, YS Jeong, YH Rhee, JJ Song, HS Kim, 
 **H. Kim**, Modelling and analysis of gene regulatory networks based on the G-network, International Journal of Advanced Intelligence Paradigms, 6(1), 2014
 
 
-# 일정
+# Schedule
 
 ```{=html}
 
