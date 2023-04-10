@@ -1,7 +1,7 @@
 name: quarto-setup
 
 on: 
-  branch: main
+  branch: master
 
 jobs:
   quarto-linux:
