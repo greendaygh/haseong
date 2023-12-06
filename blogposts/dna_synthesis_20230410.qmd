@@ -1,0 +1,31 @@
+---
+title: "DNA assembly News"
+author: "Haseong"
+date: "02/09/2023"
+filters: 
+  - lightbox
+lightbox: auto
+categories:
+  - syntheic biology
+  - dna assembly
+---
+
+# TdT 기반 기술 스타트업
+
+## Elegenbio
+
+-   https://www.elegenbio.com/
+-   2023.02.02: Elegen은 1:65,000 bp 미만의 고객 확인 오류율로 단 6-8 영업일 만에 배송되는 최대 7kb의 고정확도 긴 DNA를 제공 [link](https://www.genengnews.com/topics/genome-editing/enabling-the-synthetic-biology-revolution/)\]{.underline}
+
+## OriCiro
+
+-   https://www.synbiobeta.com/read/oriciro-announces-series-b2-financing-to-advance-cell-free-dna-technology-for-innovative-therapeutics-and-synthetic-biology
+-   https://www.synbiobeta.com/read/why-you-should-look-to-tokyo-for-the-cell-free-amplification-of-large-genome-scale-dna
+
+##  Towards high-density storage of text and images into DNA by the “Xiao-Pang” codec system
+
+- https://link.springer.com/article/10.1007/s11427-022-2252-0
+
+## Progress and prospect of ultrasonic liquid transfer and low-volume liquid transfer technology
+
+- https://synbioj.cip.com.cn/article/2023/2096-8280/2023-036.shtml

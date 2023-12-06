@@ -1,0 +1,17 @@
+---
+title: "DNA assembly News"
+author: "Haseong"
+date: "02/09/2023"
+filters: 
+  - lightbox
+lightbox: auto
+categories:
+  - syntheic biology
+  - dna assembly
+---
+
+# 효소개량
+
+## Ginkgo 
+
+-   https://foundrytheory.substack.com/p/improving-a-stubborn-enzyme-with-ai

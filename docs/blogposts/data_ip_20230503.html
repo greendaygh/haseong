@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Haseong">
+<meta name="dcterms.date" content="2023-05-03">
+
+<title>Haseong - Biofoundry</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Haseong</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../lectures.html" rel="" target="">
+ <span class="menu-text">Lectures</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../media.html" rel="" target="">
+ <span class="menu-text">Media</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#ip-and-data-issues" id="toc-ip-and-data-issues" class="nav-link active" data-scroll-target="#ip-and-data-issues">IP and Data issues</a>
+  <ul class="collapse">
+  <li><a href="#씨엔알-리써치-인터뷰" id="toc-씨엔알-리써치-인터뷰" class="nav-link" data-scroll-target="#씨엔알-리써치-인터뷰">1. 씨엔알 리써치 인터뷰</a></li>
+  <li><a href="#crada" id="toc-crada" class="nav-link" data-scroll-target="#crada">2. CRADA</a></li>
+  <li><a href="#doe-전략적-파트너십-프로젝트-계약서" id="toc-doe-전략적-파트너십-프로젝트-계약서" class="nav-link" data-scroll-target="#doe-전략적-파트너십-프로젝트-계약서">3. DoE 전략적 파트너십 프로젝트 계약서</a></li>
+  <li><a href="#한국생명공학연구원" id="toc-한국생명공학연구원" class="nav-link" data-scroll-target="#한국생명공학연구원">4. 한국생명공학연구원</a></li>
+  <li><a href="#한국핵융합연구원" id="toc-한국핵융합연구원" class="nav-link" data-scroll-target="#한국핵융합연구원">5. 한국핵융합연구원</a></li>
+  <li><a href="#openmta" id="toc-openmta" class="nav-link" data-scroll-target="#openmta">6. OpenMTA</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Biofoundry</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">syntheic biology</div>
+    <div class="quarto-category">biofoundry</div>
+    <div class="quarto-category">automation</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Haseong </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 3, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="ip-and-data-issues" class="level1">
+<h1>IP and Data issues</h1>
+<section id="씨엔알-리써치-인터뷰" class="level2">
+<h2 class="anchored" data-anchor-id="씨엔알-리써치-인터뷰">1. 씨엔알 리써치 인터뷰</h2>
+<ul>
+<li><p>씨엔알리써지 김수웅 전무 - 김하성 통화내용 (2023.08.18)</p></li>
+<li><p>바이오파운드리와 CRO는 다름. CRO의 경우 전임상 마무리 회사들이 컨텍하며 지분구조, 물질 IP, 재료 등이 모두 정해진 상황에서 위탁하는 경우가 대부분.</p></li>
+<li><p>데이터 소유권: 진행 과정 중 환자로부터 발생되는 데이터는 모두 의뢰사의 소유. 다만 메디데이터라는 EDC 플랫폼 제공하는 글로벌 회사는 (글로벌신약허가 90% 이상 이 시스템 이용) 독점이라 계약 단계에서부터 발생하는 데이터는 모두 본인들 서버에 저장 관리하고 활용할 수 있음을 계약서에 넣음 (Ginkgo와 유사).</p></li>
+<li><p>AI 사례: 참고로 미국 특허청 의견 조회, AI를 통해서 IP를 획득했더라도 해당 AI에게 (또는 AI 제공 기업에) 특허권을 부여할 수는 없다는 사례가 있음. AI 기업들은 대부분 서비스 비용만 받으려고 함</p></li>
+<li><p>경쟁사 의뢰의 경우 비밀유지 제안서를 미리 요청함: 의뢰사로부터 서비스 비용 대신에 산출물에 대해서 지분 투자를 하는 경우도 있음. 이런 경우 4건 정도 있으나 (설립 26년) 이 경우 유사 물질에 대한 경쟁사 의뢰는 들어오지 않을 수 있음. 이와 같은 경쟁사 제품 의뢰는 줄어들 수 도 있으나 성공 경험 때문에 일부러 의뢰를 맡길 수 있음. 그러나 이 경우 의뢰 전에 수행하는 팀의 분리 등 비밀유지를 위한 계획에 대한 제안요청을 받고 제안된 안을 가지고 경쟁사에 정보가 들어가지 않도록 가능한 조치를 취함. 기밀성 계약 또는 비밀 유지 계약 (NDA) 등이 있음.</p></li>
+</ul>
+</section>
+<section id="crada" class="level2">
+<h2 class="anchored" data-anchor-id="crada">2. CRADA</h2>
+<ul>
+<li><p>Cooperative Research &amp; Development Agreement 문서 요약</p></li>
+<li><p>지식재산 (Intellectual Property)</p>
+<ul>
+<li><p>백그라운드 발명에 대한 권리 없음: 이 CRADA를 통해 백그라운드 발명에 대한 권리는 양도되지 않음. 이는 협업 이전에 존재했던 모든 IP가 원래 소유자의 재산임을 의미함.</p></li>
+<li><p>발명 보고 및 책임: 양측 모두 CRADA 연구 계획에 따라 구상되거나 실현된 모든 새로운 발명을 즉시 보고해야 함. 발명에 대한 특허나 다른 지식재산 신청이 제출될 때까지 또는 양측이 특허 보호를 추구하고 싶지 않다고 결정할 때까지 공개되어서는 안 됨. –&gt; 맞는지 확인 필요</p></li>
+<li><p>새로운 발명 보호: 프로젝트 팀의 모든 구성원이 협력 중에 만든 모든 새로운 발명을 즉시 보고하도록 해야 하며, 이러한 발명에 대한 특허 신청의 제출 및 기소를 위해 필요하거나 바람직한 모든 문서에 서명해야함.</p></li>
+</ul></li>
+<li><p>라이선싱 (Licensing)</p>
+<ul>
+<li><p>상업화 라이선스 옵션: NIST는 협력자에게 NIST CRADA 발명과 관련된 특허 또는 특허 신청에 대한 독점 또는 비독점 상업화 라이선스를 선택할 옵션을 부여함. 이 라이선스는 SoW (Appendix A)의 주제에 의해 정의된 사용 분야에 제한됨. 라이선스는 사용 분야, 지리적 영토, 시장, 기간 및 로열티를 명시. 라이선스의 로열티 요금은 당사자 간의 상대적 기여를 반영 라이선스의 조건은 특정 분야에서의 적용 가능한 규정 및 관례와 일치해야 함.</p></li>
+<li><p>외국에서의 출원: 당사자는 미국 외부에서 특허 보호를 위해 출원할 것인지 상담.</p></li>
+<li><p>NIST 단독 발명에 대한 라이선스 옵션 행사: NIST 단독 발명에 대한 7.1 섹션의 옵션은 정부가 비임시 특허 신청을 제출하려고 한다는 것을 협력자에게 알린 날로부터 3 개월 이내에 서면으로 행사</p></li>
+</ul></li>
+<li><p>소유권</p>
+<ul>
+<li><p>CRADA 발명의 소유권: 협력 연구 및 개발 활동에서 발생한 발명에 대한 소유권은 일반적으로 해당 발명에 기여한 당사자에게 귀속. 만약 당사자들이 공동으로 발명을 했다면, 해당 발명에 대한 소유권은 공동으로 보유.</p></li>
+<li><p>백그라운드 IP: 협업 시작 이전에 이미 존재하던 지식재산은 해당 지식재산을 소유하고 있는 당사자의 소유로 남아있음. CRADA 내에서 이러한 지식재산을 사용하는 경우, 사용에 관한 권리나 라이선스가 별도로 부여되어야 할 수 있음.</p></li>
+<li><p>향후 개발: 협력 활동 후에 독립적으로 개발된 지식재산에 대한 소유권은 일반적으로 그 지식재산을 개발한 당사자에게 귀속.</p></li>
+<li><p>소유권의 이전: 특정 상황에서 한 당사자가 다른 당사자에게 지식재산의 일부 또는 전체에 대한 소유권을 이전할 수 있음. 이러한 경우, 명확한 계약 조항을 통해 소유권 이전의 조건과 절차가 정의됨.</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="doe-전략적-파트너십-프로젝트-계약서" class="level2">
+<h2 class="anchored" data-anchor-id="doe-전략적-파트너십-프로젝트-계약서">3. DoE 전략적 파트너십 프로젝트 계약서</h2>
+<ul>
+<li><p>DoE와 다른 기업과의 (스폰서) 파트너십 계약서로서 몇 가지 관련 항목 요약. 그러나 중요한 특허권과 데이터는 사례별로 결정한다고 명시됨</p></li>
+<li><p>재산 - 본 계약이 종료될 때, 본 계약에 따른 업무 수행 중 생산되거나 획득된 재산 또는 장비는 정부가 소유. 이 계약을 위해 연방 자금은 재산이나 장비 구매에 사용되지 않으며 본 계약의 일환으로 생산되거나 획득된 재산 또는 장비는 계약 기간 동안 부서의 재산 또는 장비와 동일한 방식으로 계상 및 유지됨</p></li>
+<li><p>논문 - 출판당사자는 다른 당사자에게 본 계약의 과정에서 생성된 기술적 발전 및/또는 연구 결과를 공개하거나 제15조 A.2항에서 정의된 “기밀 정보”를 식별하는 제안된 출판물을 검토하고 의견을 제시하는 데 30일의 기간을 제공해야 함. 출판 당사자는 법으로 규정된 경우를 제외하고 다른 당사자가 식별한 기밀 정보를 게시하거나 그 밖에 공개해서는 안됨.</p></li>
+<li><p>지적 재산 면책(제한적) - 스폰서는 해당 시설에서 이미 수행된 행위를 제외하고, 스폰서가 이 계약에 따라 수행되도록 요구하거나 지시한 행위로 인해 발생하는 어떤 미국의 특허, 저작권 또는 기타 지적 재산권의 침해에 대한 책임을 포함하여 정부와 시설 계약자 및 그들의 임원, 대리인 및 직원들에 대한 책임에서 면책함. 이러한 면책은 스폰서의 동의 없이 합의된 주장된 침해에는 적용되지 않으며 단, 관할권을 가진 법원에 의해 요구되는 경우는 제외.</p></li>
+<li><p>특허 및 저작권 침해에 관한 통지 및 지원 - 스폰서는 스폰서가 알고 있는 이 계약의 수행을 기반으로 한 특허 또는 저작권 침해에 대한 각 주장을 부서와 시설 계약자에게 신속하게 합리적인 상세 서면으로 보고해야 함. 부서 또는 시설 계약자의 요청에 따라 스폰서는 스폰서의 소유에 있는 해당 주장과 관련된 모든 증거 및 정보를 부서와 시설 계약자에게 제공해야 함</p></li>
+<li><p>특허권 - 시설 사용 (이 조항의 구조는 사례별로 결정됨)</p></li>
+<li><p>기술 데이터의 권리 - 시설 사용 (이 조항의 구조는 사례별로 결정됨)</p></li>
+<li><p>양도 - 당사자 중 어느 한쪽도 본 계약 또는 그에 따른 권리 또는 주장을 다른 당사자의 서면 승인 없이 양도하거나 이전해서는 안됨. 단, 시설 계약자는 스폰서에게 이러한 이전에 대한 통지와 함께 해당 계약을 부서 또는 그 대리인에게 이전할 수 있으며, 시설 계약자는 본 계약의 기밀성, 사용 및/또는 비공개 의무를 제외하고는 추가 책임이 없음.</p></li>
+<li><p>유사 또는 동일한 서비스 - 정부 및/또는 시설 계약자는 스폰서의 기밀 정보를 사용하지 않는 한 SOW에 대한 다른 스폰서에게 유사하거나 동일한 서비스를 수행할 권리를 가짐.</p></li>
+</ul>
+</section>
+<section id="한국생명공학연구원" class="level2">
+<h2 class="anchored" data-anchor-id="한국생명공학연구원">4. 한국생명공학연구원</h2>
+<ul>
+<li><p>생명연에서 기업 (위탁자) 공모, 선정 후 연구개발 수행해주는 과제의 계약서 요약</p></li>
+<li><p>연구개발성과의 귀속 - 본 연구개발 수행결과로써 발생한 특허권, 실용신안권, S/W 등을 포함한 지적재산권, 저작권 및 Know-how 등 무형의 발생품과 연구기자재, 연구시설 및 시작품 등의 유형의 발생품은 연구원 소유. 본 연구분야의 후속 연구수행(실험, 기술, 개량, 확산 등에 의한 기술적용)에 대해서는 연구원은 제한을 받지 않음. 위탁자는 연구개발 성과 중 시작품을 별도의 약정이 없는 한 3개월 이내에 인수하여야 하며 동 기간 내에 인수하지 않을 경우에 연구원은 1개월 이상의 기간을 정하여 이의 인수를 최고할 수 있음. 인수하지 않으면 소유권 포기로 간주. 위탁자 시작품을 인수하는 경우 이에 따르는 제세공과금과 인수비용을 위탁자가 부담</p></li>
+<li><p>연구개발 성과의 활용 - 위탁자가 연구개발 결과의 일부나 전부를 활용하거나 신제품 생산, 원가절감, 품질향상 등 기업화하여 제품을 생산하고자 할 경우에는 연구원과 연구성과 활용에 대한 협의를 거쳐 별도의 기술실시계약을 체결하여야 함.</p></li>
+<li><p>비밀보장 - 양 당사자는 상호 상대방의 승인 없이는 이 연구와 관련하여 지득한 상대방의 비밀을 외부에 공개 또는 제공하지 아니함. 다만, 이 조항은 연구원의 일반적인 연구활동에 대하여는 적용되지 않음. 감사 등 필요시 일반정보 수집, 활용 가능</p></li>
+<li><p>권리양도의 제한 - 연구원과 위탁자는 상호 상대방의 사전 서면 동의 없이는 본 계약상 지위 또는 권리, 의무의 전부 또는 일부를 제3자에게 양도, 이전, 담보제공, 처분행위 기타 이에 준하는 행위를 하지 못함</p></li>
+<li><p>연구의 제한 - 이 계약은 연구원이 제3자를 위하여 동종의 연구를 수행하는 것을 제한하지 아니함.</p></li>
+</ul>
+</section>
+<section id="한국핵융합연구원" class="level2">
+<h2 class="anchored" data-anchor-id="한국핵융합연구원">5. 한국핵융합연구원</h2>
+<ul>
+<li><p>기업에서 한국핵융합연구원 연구의뢰 관련 계약서</p></li>
+<li><p>기존 지식재산권의 실시 - 양 당사자는 연구기간 동안 상대방이 본 계약 체결 이전에 보유하고 있던 지식재산권(이하 "기존 지식재산권")을 본 계약에 따른 연구의 수행만을 위하여 필요한 범위 내에서 비상업적인 목적으로 실시 할 수 있음. 연구기간 동안 상대방이 본 계약체결 이전에 보유하고 있던 기존 지식재산권을 상업적인 목적으로 실시하고자 할 경우 상대방의 동의를 얻어 실시하여야 하고, 이에 따른 정당한 대가를 지불함.</p></li>
+<li><p>연구결과의 귀속 - 본 계약을 통한 연구수행 과정에서 얻어지는 연구기자재, 연구시설·장비, 시작품(試作品) 등 유형적 결과물은 연구원의 소유. 본 계약을 통한 연구수행 과정에서 얻어지는 지식재산권, 연구보고서의 판권 등 무형적 결과물은 연구원의 소유로 하고, 해당 연구결과물에 대해서는 기업이 우선적 실시권을 가짐. 기술실시에 따른 기술실시료 등 기술실시조건은 합의하에 결정하고 소유권 취득이 원활하게 이루어질 수 있도록 최대한 협조하여야 함.</p></li>
+<li><p>권리양도의 제한 및 기술전수 - 상대방의 동의 없이 본 계약의 어떠한 권리나 의무도 제3자에게 양도하거나 처분할 수 없으며 시제품 및 연구결과물 등의 본 계약을 통한 연구개발 성과물을 기업에게 성실히 보고하여야 함.</p></li>
+<li><p>비밀보장 - 양 당사자는 본 계약과 관련한 비밀정보의 보호의 중요성을 동등하게 인식하고 상대방의 비밀정보를 상대방의 서면 동의없이 제3자에게 누설하거나 본 계약의 이행 이외의 목적으로 사용하여서는 안됨. 본 계약이 만료 또는 해지로 종료된 경우 혹은 합의에 따라 상대방의 비밀정보의 반환 또는 파기를 요청하는 경우, 즉시 해당 비밀정보를 즉시 반환 혹은 파기하여야 하며 파기한 경우에는 그 증명을 서면으로 제출함. 연구원은 사전에 비공개하기로 합의한 사항 또는 비밀정보를 제외하고 연구결과를 학술적인 용도로 공표할 수 있음.</p></li>
+</ul>
+</section>
+<section id="openmta" class="level2">
+<h2 class="anchored" data-anchor-id="openmta">6. OpenMTA</h2>
+<ul>
+<li><p>Kahl, Linda, et al.&nbsp;“Opening options for material transfer.” <em>Nature biotechnology</em> 36.10 (2018): 923-927. 논문 요약. 부품뱅크 관련 내용</p></li>
+<li><p>MTAs는 생명공학 연구자들이 플라스미드 DNA에서 환자 샘플에 이르기까지의 바이오 소재 공유를 위한 조건과 조건을 정의하는 법적 틀을 제공. OpenMTA는 바이오 소재의 재분배와 상업적 사용에 대한 제한을 완화하면서 표준 MTA의 측면을 유지하는 새로운 MTA 임.</p></li>
+<li><p>목표: 무분별한 제한 없이 가능한 한 넓게 생물학적 자료를 공유하기 위한 단순하고 표준화된 법적 도구를 실현하는 것이 목표이며, 창작자의 권리를 존중하고 안전한 실무와 책임있는 연구를 촉진함. 또한 이 도구가 기술 이전의 실용적인 현실 내에서 작동하도록 하고, 전세계의 많은 그룹의 필요를 수용할 수 있을만큼 충분히 유연하도록 함.</p></li>
+<li><p>기존 MTA 문제: 규정의 복잡성으로 인해 장기간의 협상이 필요하고 이러한 거래 비용은 연구 커뮤니티 내외의 물질 분배를 방해하는 것뿐만 아니라 기술 이전 사무소에 불필요한 부담을 주기도 하므로 일부 기관은 ‘MTA 없음’ 정책을 채택하기도 함. MTAs는 일반적으로 재분배를 허용하지 않음. 또한 해당 소재의 모든 상업적 사용이 특별히 금지됨. 이러한 조건이 안전, 보안 또는 상업화의 이유로 엄격한 통제가 필요한 물질에는 적절하지만, 대부분의 연구에서 널리 사용되는 물질(예: 기본 샘플, 균주 또는 플라스미드)에 대해 이러한 제한은 크게 의미가 없음. 대부분 널리 사용되는 물질의 잠재적 상업적 가치는 매우 낮으며, MTA가 모니터링 및 집행될 가능성이 거의 없으므로 재분배와 상업적 사용에 대한 일률적 제한은 연구 커뮤니티 내에서 불필요한 장벽과 비용을 만들어냄. 예를 들어, 기존 MTA의 경우 igem 참가자들이 자신들의 혁신을 상업화할 수 있는 방법은 없음. 또한 Addgene는 UBMTA가 기본 표준이었기 때문에, 상업 생명공학 연구자들은 Addgene 대부분의 리소스에 직접 접근 불가.</p></li>
+<li><p>OpenMTA 초안 작성: OpenMTA는 BioBricks 재단과 OpenPlant Synthetic Biology 연구 센터가 주도하는 협력 노력을 통해 개발. 워킹그룹을 통해 OpenMTA의 설계 목표, 즉 접근, 속성, 재사용, 재분배 및 차별 금지를 개발. 추가 설계 목표에는 안전 문제와 특히 국제 맥락에서의 생물 자료 공유가 포함. 새로운 문제를 반영하지 않을 때까지 수정을 계속하였고, 이후 OpenMTA 텍스트가 디지털 서명 기능과 함께 공식적으로 온라인에 게시 (<a href="http://openmta.org/"><strong>http://openmta.org</strong></a>).</p></li>
+<li><p>연구자들은 자료를 상업적 목적을 포함한 모든 합법적 목적으로 사용할 수 있으며, 제공 기관의 요청이 있을 경우에는 보고서를 작성하여 자료를 다른 사람에게 재분배할 수 있음. 기관은 OpenMTA 하에 들어오는 자원을 받아들일 수 있으며, 받은 자원을 사용하거나 수정한 후 동일한 조건 또는 다른 조건으로 파생물을 재분배할 수 있음. 이 추가적인 유연성은 OpenMTA 하에서 제공되는 자원의 광범위한 사용을 지원하며, 재분배에 더 제한적인 조건이 가장 적합한 경우에도 적용됨. 표준 템플릿으로서, OpenMTA는 MTA 처리를 더욱 가속화하고 단순화하는 자동화에 적합하며, 필요에 따라 물질 전송에 대한 덜 제한적인 옵션을 제공함.</p></li>
+<li><p>OpenMTA의 사용: OpenMTA가 주로 사전 연구에 사용되는 생물 자료, 예를 들면 플라스미드, 균주 및 샘플의 전송에 가장 유용할 것으로 예상함. 이러한 자료들은 자료의 쉽게 복제 가능한 특성으로 인해 수량이 제한되지 않으며 대체적인 소싱 옵션으로 개별 자료의 가치가 상대적으로 낮음. 또한 대부분의 자료가 자유롭게 공유되기를 원하는 상황에서 OpenMTA가 기본 기관 정책으로 잘 맞을 것으로 예상됨. OpenMTA는 제한된 양의 자료나 엄격한 생물 안전 규정을 받는 자료와 같은 모든 전송에는 적합하지 않음. OpenMTA는 자료의 준비와 분배와 관련된 비용을 회수할 수 있으므로 특허가 만료되었거나 절대 추구하지 않은 연구 시약, 예를 들면 항체, 세포주 및 형광 단백질의 전송에도 사용될 수 있음. 실제로, 여러 특허된 자료가 특허가 만료됨에 따라 공중 도메인에 진입하고 있기 때문에 생물 자료를 공유하기 위한 OpenMTA의 도입은 특히 시기적절함. 예를 들어, GE Healthcare Lifesciences16에 의해 초기에 집계되고 외부에 사용 허가된 녹색 형광 단백질에 대한 특허 모음은 모두 만료되었음.</p></li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Haseong">
+<meta name="dcterms.date" content="2023-05-03">
+
+<title>Haseong - Biofoundry</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Haseong</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../lectures.html" rel="" target="">
+ <span class="menu-text">Lectures</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../media.html" rel="" target="">
+ <span class="menu-text">Media</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#모더나" id="toc-모더나" class="nav-link active" data-scroll-target="#모더나">모더나</a></li>
+  <li><a href="#ginkgo-bioworks" id="toc-ginkgo-bioworks" class="nav-link" data-scroll-target="#ginkgo-bioworks">Ginkgo bioworks</a></li>
+  <li><a href="#중국" id="toc-중국" class="nav-link" data-scroll-target="#중국">중국</a>
+  <ul class="collapse">
+  <li><a href="#중국-바이오파운드리-현황" id="toc-중국-바이오파운드리-현황" class="nav-link" data-scroll-target="#중국-바이오파운드리-현황">중국 바이오파운드리 현황</a></li>
+  <li><a href="#바이오파운드리-거점" id="toc-바이오파운드리-거점" class="nav-link" data-scroll-target="#바이오파운드리-거점">바이오파운드리 거점</a>
+  <ul class="collapse">
+  <li><a href="#shenzhen-institute-of-synthetic-biology-innovation-선전심천-中国科学院深圳先进技术研究院" id="toc-shenzhen-institute-of-synthetic-biology-innovation-선전심천-中国科学院深圳先进技术研究院" class="nav-link" data-scroll-target="#shenzhen-institute-of-synthetic-biology-innovation-선전심천-中国科学院深圳先进技术研究院">Shenzhen Institute of Synthetic Biology Innovation (선전/심천, 中国科学院深圳先进技术研究院)</a></li>
+  <li><a href="#national-synthetic-biotechnology-innovation-center-천진텐진-国家合成生物技术创新中心" id="toc-national-synthetic-biotechnology-innovation-center-천진텐진-国家合成生物技术创新中心" class="nav-link" data-scroll-target="#national-synthetic-biotechnology-innovation-center-천진텐진-国家合成生物技术创新中心">National Synthetic Biotechnology Innovation Center (천진/텐진, 国家合成生物技术创新中心)</a></li>
+  <li><a href="#shanxi-synthetic-biology-industrial-ecological-park-산시" id="toc-shanxi-synthetic-biology-industrial-ecological-park-산시" class="nav-link" data-scroll-target="#shanxi-synthetic-biology-industrial-ecological-park-산시">Shanxi Synthetic Biology Industrial Ecological Park (산시)</a></li>
+  </ul></li>
+  <li><a href="#자체-연구를-위한-바이오파운드리" id="toc-자체-연구를-위한-바이오파운드리" class="nav-link" data-scroll-target="#자체-연구를-위한-바이오파운드리">자체 연구를 위한 바이오파운드리</a>
+  <ul class="collapse">
+  <li><a href="#tianjin-biofoundry-tianjin-institute-of-industrial-biotechnology-천진텐진-中国科学院天津工业生物技术研究所" id="toc-tianjin-biofoundry-tianjin-institute-of-industrial-biotechnology-천진텐진-中国科学院天津工业生物技术研究所" class="nav-link" data-scroll-target="#tianjin-biofoundry-tianjin-institute-of-industrial-biotechnology-천진텐진-中国科学院天津工业生物技术研究所">Tianjin BioFoundry-Tianjin Institute of Industrial Biotechnology (천진/텐진, 中国科学院天津工业生物技术研究所) ,</a></li>
+  <li><a href="#ibiofoundry-항저우-절강대학교" id="toc-ibiofoundry-항저우-절강대학교" class="nav-link" data-scroll-target="#ibiofoundry-항저우-절강대학교"><strong>iBioFoundry (항저우 절강대학교)</strong></a></li>
+  <li><a href="#nutrition-health-research-institute-cofco-베이징" id="toc-nutrition-health-research-institute-cofco-베이징" class="nav-link" data-scroll-target="#nutrition-health-research-institute-cofco-베이징">Nutrition &amp; Health Research Institute COFCO (베이징)</a></li>
+  </ul></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  </ul></li>
+  <li><a href="#리포트" id="toc-리포트" class="nav-link" data-scroll-target="#리포트">리포트</a></li>
+  <li><a href="#영국" id="toc-영국" class="nav-link" data-scroll-target="#영국">영국</a>
+  <ul class="collapse">
+  <li><a href="#edinburgh" id="toc-edinburgh" class="nav-link" data-scroll-target="#edinburgh">Edinburgh</a></li>
+  </ul></li>
+  <li><a href="#도전과-전망" id="toc-도전과-전망" class="nav-link" data-scroll-target="#도전과-전망">도전과 전망</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Biofoundry</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">syntheic biology</div>
+    <div class="quarto-category">biofoundry</div>
+    <div class="quarto-category">automation</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Haseong </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 3, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="모더나" class="level1">
+<h1>모더나</h1>
+<ul>
+<li><p>모더나에서는 2018년 미국 노우드(MA)에 완전 디지털화된 제조 건물을 완공함. 관련 whitepaper에서는 [1] 이 완전 디지털화된 건물이 mRNA 연구 공정을 빠른 속도, 규모 확장, 높은 품질 유지하여 기업의 성공을 이끄는 위한 유일한 방법임을 설명함.</p></li>
+<li><p>위 인프라 구축의 결과로 기존 mRNA 테스트를 40개/월에서 1000개/월 (2019)로 크게 향상시키고 [2] 가장 빠르게 코로나 백신 후보물질의 임상3상에 가장 빠르게 진입한 기업이 될 수 있었음.</p></li>
+<li><p>백서에는 2020년까지 디지털 기술, 로봇기술/자동화, 분석, 데이터 과학 및 AI에 1억 달러 이상을 투자했으며, 이 후 5년간 1억달러 추가 투자할 것임을 밝힘</p></li>
+<li><p>위 디지털 인프라가 “바이오파운드리”라는 직접적인 언급은 없으나 타깃만 다를 뿐 바이오파운드리와 동일한 개념으로 볼 수 있음</p>
+<p>[1] https://www.modernatx.com/media-center/all-media/blogs/how-moderna-building-digital-biotech</p>
+<p>[2] https://www.sme.org/technologies/articles/2020/september/vaccine-placeholder/</p>
+<p>&nbsp;</p></li>
+<li><p>백서에는 디지털의 장점을 다음과 같이 정리하고 있음</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-607121319.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/image-607121319.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<pre><code>    We believe we are at the beginning of a 20-year mRNA innovation cycle that most technologies go through before their performance has been optimized. We hope to find early successes and advance ongoing improvements to the technology that will permit an ever-greater number of opportunities as we invest in the platform. Achieving success involves several factors, including learning the fastest and scaling rapidly, all while maintaining the highest quality. The only way to ensure this will happen is through digitization. Since Moderna’s inception, we have invested over $100 million on our digital technologies, robotics/automation, analytics, data science and AI. Given our growth, we expect we will invest more than $100 million in digital over the next 5 years.
+    </code></pre>
+<ul>
+<li><p>요점 - 성공을 위해서는 빠른 속도, 규모 확장, 높은 품질 유지이며 이를 보장하는 유일한 방법은 디지털화임. 2020년까지 디지털 기술, 로봇기술/자동화, 분석, 데이터 과학 및 AI에 1억 달러 이상을 투자, 앞으로 5년간 1억달러 추가 투자</p>
+<p>배치 제조 기록 (BMR) - 날짜, 성분(무게 및 측정 포함), 장비 및 인력뿐만 아니라 관련 검사 및 특정 제품 배치의 생산과 관련된 통제된 결과를 추적하는 문서 형식으로 규제 제조에 대한 업계 표준인 우수 제조 공정(GMP)에 따라 적절한 프로토콜을 준수했는지 확인하는 데 중요</p>
+<p>배치 제조 프로세스와 관련된 모든 요소를 디지털 방식으로 추적하는 도구</p>
+<ul>
+<li>문서화 프로세스와 관련된 리소스 및 인적 오류 감소</li>
+<li>규정 준수 활동 간소화</li>
+<li>표준화된 프로세스 제어 준수 보장</li>
+<li>처음부터 끝까지 제조 공정의 가시성 향상</li>
+<li>처리량 증가 및 생산 품질 향상</li>
+</ul></li>
+<li><p>GMP 제조 및 품질 관리 - 2018년에 저희는 노우드(MA)에 위치한 완전 디지털화된 제조 건물 완공. 전체가 통합되어 있고 종이를 사용하지 않는 설계로, 구식 시스템이나 데이터를 별도로 유지하지 않음. 디지털 설계는 운영자 중심으로 진행되어 실행을 가속화하고 품질을 향상시키며, 신속한 확장성과 유연성을 유지할 수 있도록 함. 전통적인 제약 회사처럼 제품 특정 기록, 과정 및 장비를 사용하는 대신, 제품 중립적인 구성 요소와 매개변수화된 제조 레시피를 구축할 수 있음. 이러한 디자인은 새로운 제품을 지원하기 위해 필요한 디지털 변경을 몇 일 만에 실행할 수 있음. 90% 이상의 작업이 클라우드에서 제어되며, 현장 컴퓨팅을 최소화하면서 안정성을 유지함으로써 더 빠른 시간과 더 적은 자본 투자 새로운 제품 배포를 가능하게 함.</p></li>
+<li><p>통합 전자 배치 기록 - 장비 사용 - 어떤 장비를 사용할지 지시, 장비 사용 준비 확인, 장비 작동 제어, 실시간 장비 데이터 수집 및 분석.</p></li>
+<li><p>통합 전자 배치 기록 - 원자재 - SAP 시스템과 (ERP) 실시간으로 통합되어 운영자가 사용할 원자재 지시. 바코드가 부착된 자재는 스캔되어 저장 관리되어 정확한 재고 관리 보장. 생산된 제품 중간체는 디지털 제어를 통해 추적되고 저장. 완전히 자동화된 탱크와 혼합 과정을 사용하여 필요한 버퍼가 재고에 따라 생산, 분배. 모든 소모품은 AWS IoT 버튼으로 간단히 추가 재고 요청.</p></li>
+<li><p>통합 전자 배치 기록 - 테스트 - Laboratory Information Management System (LIMS)와 통합되어 샘플링 지시. 샘플 라벨 인쇄, 샘플이 픽업 위치에 드롭될 때, 테스트를 위한 모든 정보가 LIMS 시스템으로 전달. QC 랩은 실시간으로 장비 데이터를 캡처하고 추적 및 보안 제어를 수행. QC 테스트가 승인되면, 배치 기록 계산에 필요한 결과는 자동으로 반환.</p></li>
+<li><p>통합 전자 배치 기록 - 출시 - 모든 배치 기록 예외는 디지털로 캡처되며, 감독자 및 품질 보증 팀이 실시간으로 검토 가능. 검증된 전자 배치 기록을 활용하면 수백 페이지의 구식 종이 기록을 검토할 필요 없이 자동 예외를 검토하고 승인하여 사이클 시간을 크게 줄임</p></li>
+<li><p>공급 체인 - 재료 계획은 통합된 임상 및 운영 계획(C&amp;OP) 시스템과 프로세스, 그리고 SAP ERP 시스템에 의해 주도됨. 구조화된 자재 명세서를 사용하여 원자재가 정시에 주문, 검사 및 제조 스위트로 배송되어 생산을 지원하도록 함. 전자 배치 기록 시스템과의 통합은 재고의 정확성을 보장하고, 재료 계획 프로세스를 알리는 풀 시스템을 활용하게 함.</p></li>
+<li><p>품질 보증 - 품질은 데이터 무결성을 보장하고 전사 오류를 제거하며 디지털 프로세스를 검증하도록 설계. 모든 운영 프로세스는 편차, 변경 관리 및 필요한 수정 조치를 문서화하는 통합 품질 관리 시스템에 의해 지원됨. 표준 운영 절차 및 준수 문서에 대한 접근 제어가 가능하며 효율성을 향상시키고 새로운 기술과 소프트웨어의 테스트를 가속화하기 위해, 검증 활동은 요구 사항 추적성을 보장하고 종이 없는 소프트웨어 테스트를 가능하게 하는 전기 Validation Management System을 사용하여 수행됨.</p></li>
+</ul>
+</section>
+<section id="ginkgo-bioworks" class="level1">
+<h1>Ginkgo bioworks</h1>
+<ul>
+<li><p>회사 상세 정보 (2021) https://www.sec.gov/Archives/edgar/data/1830214/000119312521338776/d164551ds1.htm</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-1024630858.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/image-1024630858.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div></li>
+<li><p>생산성/효율성 향상 25배</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-1166367580.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="images/image-1166367580.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div></li>
+<li><p>Daily lab operation 2~3배 향상</p>
+<pre><code>당사 플랫폼의 기반에는 사양에 따라 고객을 위해 다양한 셀 프로그램을 실행하는 두 가지 핵심 자산인 Foundry와 Codebase가 포함됩니다.
+
+• 당사의 Foundry는 DNA 설계, DNA 작성, 해당 DNA를 세포에 삽입, 세포 성능 측정을 위한 테스트 등 핵심 세포 엔지니어링 워크플로를 중심으로 독점 소프트웨어 및 자동화를 래핑하고 데이터 분석 및 데이터 과학을 활용하여 각 설계 반복에 정보를 제공합니다. 우리가 Foundry에서 활용하는 소프트웨어, 자동화 및 데이터 분석 파이프라인은 강력한 규모의 경제성을 가져옵니다. 우리는 Foundry의 출력을 2015년경에 측정하기 시작한 이후 매년 약 3배로 확장했으며 그 기간 동안 단위 작업당 평균 비용은 매년 약 50% 감소. 우리는 이러한 절감액을 고객에게 전달하여 고객이 프로그램을 통해 더 많은 "목표 달성"을 달성할 수 있기를 기대합니다.
+
+• 우리의 코드베이스는 물리적(엔지니어링된 세포 및 유전적 부분) 및 디지털(유전적 서열 및 성능 데이터) 생물학적 자산을 모두 포함하며 플랫폼에서 더 많은 세포 프로그램을 실행함에 따라 축적됩니다. 성공 여부에 관계없이 모든 프로그램은 귀중한 코드베이스를 생성하고 미래의 실험 설계에 정보를 제공하며 재사용 가능한 유전자 부분을 제공하여 세포 프로그램 설계를 보다 효율적으로 만듭니다. 플랫폼이 확장됨에 따라 우리는 Foundry, Codebase 및 고객에게 제공하는 가치 사이의 선순환을 관찰했습니다. 우리는 이러한 선순환이 은행나무의 성장과 차별화된 가치 제안을 지속한다고 믿습니다.</code></pre></li>
+<li><p>선순환 관찰</p>
+<pre><code>플랫폼이 확장됨에 따라 우리는 Foundry, Codebase 및 고객에게 제공하는 가치 사이의 선순환을 관찰했습니다. 우리는 이러한 선순환이 은행나무의 성장과 차별화된 가치 제안을 지속한다고 믿습니다.
+
+• 파운드리: 파운드리에서 더 많은 작업을 수행함에 따라 우리는 규모의 경제에서 이익을 얻습니다. 이는 시간이 지남에 따라 프로그램 비용을 낮출 수 있습니다. 우리는 이러한 낮은 비용이 셀 프로그래밍 기능에 대한 추가 수요를 이끌 것으로 기대합니다.
+
+
+• 코드베이스: 셀 프로그램은 또한 코드베이스를 생성하여 더 나은 실험 방향을 제시하고 기술적 성공 가능성을 개선하여 고객 가치 제안을 더욱 높여 추가 수요가 발생할 것으로 믿습니다. 간단히 말해서, 우리는 플랫폼이 규모와 함께 개선됨에 따라 더 많은 규모를 주도하고 더 많은 플랫폼 개선을 주도한다고 믿습니다. 우리는 우리가 추가하는 모든 새로운 프로그램이 단기 수익에 기여하고 상당한 다운스트림 경제를 추가할 잠재력이 있기 때문에 이 긍정적인 피드백 루프가 미래에 복합적인 가치 창출을 주도할 잠재력이 있다고 믿습니다. 우리의 비즈니스 모델은 우리 플랫폼의 구조를 반영하며 두 가지 기본 방식으로 보상을 받습니다. 첫째, 클라우드 컴퓨팅 회사가 컴퓨팅 용량 활용에 대해 사용료를 청구하거나 계약 연구 기관(CRO)이 서비스에 대해 청구하는 것과 거의 같은 방식으로 Foundry 서비스에 대한 사용료를 청구합니다. 또한 우리는 플랫폼에서 지원하는 프로그램의 성공과 경제를 일치시키기 위해 고객과 가치 공유(일반적으로 로열티, 이정표 및/또는 지분의 형태로)를 협상합니다. 새로운 프로그램을 추가함에 따라 이 "다운스트림" 가치 잠재력이 있는 프로그램 포트폴리오가 커집니다.</code></pre></li>
+<li><p>연차별 프로젝트 개수. 21년 약 65개, 20년 49개, 19년 36개</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-830324037.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="images/image-830324037.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
+<li>파운드리 수익</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-702238905.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="images/image-702238905.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-753270120.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="images/image-753270120.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
+<li>2020년</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-727363932.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="images/image-727363932.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-790930256.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="images/image-790930256.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
+<li><p>https://s28.q4cdn.com/823357996/files/doc_financials/2023/q2/q2_2023_earnings_slides_vf.pdf</p></li>
+<li><p>https://investors.ginkgobioworks.com/sec-filings/default.aspx</p></li>
+<li><p>Ginkgo 치료제, 메타게놈 활용 https://www.pharmaceutical-technology.com/news/ginkgo-boehringer-disease-therapies/</p></li>
+</ul>
+<!-- -->
+<pre><code>Ginkgo Bioworks 와 Boehringer Ingelheim은 ​​치료하기 어려운 질병에 대한 획기적인 치료법을 개발하기 위해 협력 했습니다 . 회사는 Ginkgo BioWorks 의 천연물 발견 기능을 사용하여 충족되지 않은 환자 요구가 높은 질병을 해결하기 위한 새로운 치료 분자의 발견 및 개발을 촉진할 것입니다. 3테라베이스 이상의 서열 데이터와 다양한 미생물의 20억 개가 넘는 단백질 서열로 구성된 Ginkgo Bioworks의 메타게놈 서열 데이터베이스를 사용할 것입니다.</code></pre>
+</section>
+<section id="중국" class="level1">
+<h1>중국</h1>
+<section id="중국-바이오파운드리-현황" class="level2">
+<h2 class="anchored" data-anchor-id="중국-바이오파운드리-현황">중국 바이오파운드리 현황</h2>
+<ul>
+<li>중국에서 20억위안 (약 3700억원, 건축비 포함) 이상 투자되는 바이오파운드리 거점은 세 곳임. 1) 선전 Shenzhen Institute of Synthetic Biology Innovation (20억위안, 2023 구축 완료). 2) 천진 National Synthetic Biotechnology Innovation Center (20억위안, 구축중), 3) 산시 Shanxi Synthetic Biology Industrial Ecological Park (80억위안, 구축중). 바이오파운드리가 명시되어 있지는 않고 합성생물학 플랫폼으로 표현되어 있으나 바이오파운드리 수준의 시설 및 서비스를 구축할 것으로 예상됨.</li>
+<li>중국내 연구소 및 대학의 자체 연구를 위한 바이오파운드리 세 곳을 분석한 결과 국내 바이오파운드리 베타의 3배에서 5배 이상의 수준의 규모를 보유함.</li>
+<li>중국은 10개 이상의 바이오파운드리를 보유하거나 구축중인 것으로 조사됨 (GBA 가입 5개). 구체적으로는 선전 첨단 기술 연구소, 천진 산업 생명 공학 연구소, 천진 대학교 합성 생물학 프론티어 과학 센터, 상하이 국립 단백질 과학 센터, 절강 대학교 항저우 국제 과학 기술 혁신 센터, 베이징 Nutrition &amp; Health Research Institute, 우한 생명공학연구소 고처리량 스크리닝 플랫폼, BGI 생명과학연구소의 공간 다중오믹스 공동 R&amp;D 플랫폼, 란징미생물의 Synbio OS 플랫폼, 다롄화학연구소의 에너지 생명공학 플랫폼 등이 있음 (Biofoundry and its industrial application, https://synbioj.cip.com.cn/article/2023/2096-8280/2023-024.shtml).</li>
+</ul>
+</section>
+<section id="바이오파운드리-거점" class="level2">
+<h2 class="anchored" data-anchor-id="바이오파운드리-거점">바이오파운드리 거점</h2>
+<section id="shenzhen-institute-of-synthetic-biology-innovation-선전심천-中国科学院深圳先进技术研究院" class="level3">
+<h3 class="anchored" data-anchor-id="shenzhen-institute-of-synthetic-biology-innovation-선전심천-中国科学院深圳先进技术研究院">Shenzhen Institute of Synthetic Biology Innovation (선전/심천, 中国科学院深圳先进技术研究院)</h3>
+<ul>
+<li>프로젝트 총 투자액은 약 20억 위안이며 총 투자액은 소프트웨어 및 하드웨어 장비는 7억 2,220만 위안 (2017년 당시 약 1330억). 대규모 합성생물학 시설은 2022년 말까지 광명생명과학단지(광밍과학도시 창업단지)에 안착해 대규모 장비 구축과 디버깅, 소프트웨어 개발 등을 진행할 예정</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-433323460.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="images/image-433323460.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
+<li><p>참고자료</p>
+<ul>
+<li>http://isynbio.siat.ac.cn/view.php?id=548</li>
+</ul></li>
+</ul>
+</section>
+<section id="national-synthetic-biotechnology-innovation-center-천진텐진-国家合成生物技术创新中心" class="level3">
+<h3 class="anchored" data-anchor-id="national-synthetic-biotechnology-innovation-center-천진텐진-国家合成生物技术创新中心">National Synthetic Biotechnology Innovation Center (천진/텐진, 国家合成生物技术创新中心)</h3>
+<ul>
+<li><p>국가합성생물학기술혁신센터는 중국 과학기술부가 추진하는 세 번째 국가기술혁신센터로 2019년 11월 정식 인가, 2019년 착공함. 과학 기술 인프라 플랫폼, 기업 핵심 기술 연구 개발 플랫폼, 서비스 플랫폼, 기업 혁신 센터 등 주요 네 가지 영역. 국제 공동 센터, 지적 재산 운영 관리 센터 및 과학 교육 통합 센터 포함.</p></li>
+<li><p>R&amp;D 기지는 총 건축 규모 약 18만 평방미터, 총 투자액은 약 20억 위안이며 2022년에 완공 예정.</p></li>
+<li><p>참고자료</p>
+<ul>
+<li>https://www.gov.cn/xinwen/2019-12/27/content_5464585.htm</li>
+</ul></li>
+</ul>
+</section>
+<section id="shanxi-synthetic-biology-industrial-ecological-park-산시" class="level3">
+<h3 class="anchored" data-anchor-id="shanxi-synthetic-biology-industrial-ecological-park-산시">Shanxi Synthetic Biology Industrial Ecological Park (산시)</h3>
+<ul>
+<li>중국 생물제조업체 Cathay Biotech는 Shanxi Transition and Comprehensive Reform Demonstration Zone의 Management Committee와 80억 위안(미화 12억 달러) 규모의 Shanxi 합성 생물 산업 생태 공원 공동 건설 합의. 회사는 이 금액 중 40억 1천만 위안을 투자할 계획</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-47229438.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img src="images/image-47229438.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
+<li><p>참고자료</p>
+<ul>
+<li><p>https://kknews.cc/zh-sg/finance/gx2vq2m.html</p></li>
+<li><p>https://www.yicaiglobal.com/news/cathay-biotech-to-invest-usd5965-million-in-northwest-china-largest-synthetic-biology-project</p></li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="자체-연구를-위한-바이오파운드리" class="level2">
+<h2 class="anchored" data-anchor-id="자체-연구를-위한-바이오파운드리">자체 연구를 위한 바이오파운드리</h2>
+<section id="tianjin-biofoundry-tianjin-institute-of-industrial-biotechnology-천진텐진-中国科学院天津工业生物技术研究所" class="level3">
+<h3 class="anchored" data-anchor-id="tianjin-biofoundry-tianjin-institute-of-industrial-biotechnology-천진텐진-中国科学院天津工业生物技术研究所">Tianjin BioFoundry-Tianjin Institute of Industrial Biotechnology (천진/텐진, 中国科学院天津工业生物技术研究所) ,</h3>
+<ul>
+<li><p>합성생물학 분야를 위한 최초 로봇 자동화 장비 독자적 개발 (2012)</p></li>
+<li><p>로봇 자동화 시스템으로 DNA 합성 및 조립, 대규모 게놈 편집, 표준화된 프로토콜과 로봇을 통해 높은 처리량 구현. 천진산업생명공학연구소의 자동화 플랫폼은 하루에 300-600개의 자동화된 단일 유전자 클론닝 완료 가능. 플라스미드의 다중 DNA 모듈 조립은 &gt;90% 이상 정확도로 하루 100개의 처리량에 도달. 모델 유기체에 대한 하루 300회 게놈 편집 처리 가능 (2018년).</p></li>
+<li><p>참고자료</p>
+<ul>
+<li>“Engineering Platforms for Synthetic Biology Research” by CUI Jinming, ZHANG Bingzhao et al.&nbsp;(researchcommons.org)</li>
+</ul></li>
+</ul>
+</section>
+<section id="ibiofoundry-항저우-절강대학교" class="level3">
+<h3 class="anchored" data-anchor-id="ibiofoundry-항저우-절강대학교"><strong>iBioFoundry (항저우 절강대학교)</strong></h3>
+<ul>
+<li>ZJU-Hangzhou Global Scientific에 (항저우) 설립된 자동화된 합성 생물학 시설인 iBioFoundry의 배경, 설계, 운영 및 응용 측면을 소개. 산업용 등급 로봇암을 이용한 완전자동화, 최대 유연성 강화, 장비 고장시 복구전략 강화</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-2036553992.png" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img src="images/image-2036553992.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
+<li><p>4개 모듈로 각 모듈 모두에 로봇암 기반 완전 자동화 구현</p>
+<ul>
+<li><p>DNA 조립 모듈 - 로봇암, Liquid handler 워크스테이션 (8, 96 채널), 나노 디스펜서, 실러, 필러, Thermal cycler, Centrifuge, Stacker, 등</p></li>
+<li><p>세포 스크리닝 및 배양 모듈 - 로봇암, liquid handler 워크스테이션, 콜로니피커, 배지 공급장치, 자동진탕배양기 1대, 정치배양기 7대, 고속냉장원심분리기, 플레이트리더, 자동 정제기</p></li>
+<li><p>분석 및 탐지 모듈 - 협동로봇암, HPLC, Fragment analyzer, FACS, RTPCR, 분석기, Stacker, 개방형으로 샘플 보충 가능</p></li>
+<li><p>샘플라이브러리 모듈 - 로봇암, 극저온 자동저장고, capper, decapper, barcode reader</p></li>
+</ul></li>
+<li><p>시설 면에서 바파 베타의 약 5배 이상 수준</p></li>
+<li><p>참고자료</p>
+<ul>
+<li>https://synbioj.cip.com.cn/article/2023/2096-8280/2023-027.shtml</li>
+</ul></li>
+</ul>
+</section>
+<section id="nutrition-health-research-institute-cofco-베이징" class="level3">
+<h3 class="anchored" data-anchor-id="nutrition-health-research-institute-cofco-베이징">Nutrition &amp; Health Research Institute COFCO (베이징)</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/image-81361612.png" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img src="images/image-81361612.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
+<li><p>효소 개발, 발효 미생물 개발, 산업 미생물 개발</p>
+<ul>
+<li><p>완전자동화 모듈 - 로봇암, 가이드, 컨베이어벨트를 이용해 배양기, 실러, 필러, PCR, 원심분리, 마이크로플레이트리더, 리퀴드 핸들러</p></li>
+<li><p>반자동화 모듈 - Qpix450 콜로니피커, 96웰 형질전환기, fragment analyzer, 다중배양기 등</p></li>
+<li><p>발효 - HPLC, GC, 냉장고온원심분리기, 배양기, 대형발효기 등 발효 및 공정을 위한 별도의 설비가 있음</p></li>
+</ul></li>
+<li><p>바이오파운드리 설비는 베타의 약 2배 수준으로 예상하며 대형 발효기 등의 추가 설비가 있을 것으로 예상</p></li>
+<li><p>참고자료</p>
+<ul>
+<li><p>http://www.cofconhri.com/biotechnology.html</p></li>
+<li><p>https://synbioj.cip.com.cn/article/2023/2096-8280/2023-024.shtml</p></li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+</section>
+</section>
+<section id="리포트" class="level1">
+<h1>리포트</h1>
+<ul>
+<li>https://spap.jst.go.jp/investigation/downloads/2021_rr_05.pdf</li>
+</ul>
+</section>
+<section id="영국" class="level1">
+<h1>영국</h1>
+<section id="edinburgh" class="level2">
+<h2 class="anchored" data-anchor-id="edinburgh">Edinburgh</h2>
+</section>
+</section>
+<section id="도전과-전망" class="level1">
+<h1>도전과 전망</h1>
+<ul>
+<li><h2 id="도전과-전망-1" class="anchored" data-anchor-id="도전과-전망"><strong>도전과 전망</strong></h2>
+<p>바이오오토메이션 시설은 고처리량 및 자동화된 바이오 R&amp;D를 위한 통합 플랫폼으로, 바이오공학 및 바이오 제품의 개발을 가속화합니다. 바이오 오토메이션 시설의 미래 개발은 다음과 같은 도전 과제를 제시 할 수 있습니다 : (1) 생물학적 시스템의 복잡성 : 유기체는 본질적으로 복잡한 유전자 조절 네트워크, 세포 대사 과정 및 동적 상호 작용으로 복잡하며, 고 처리량 유전형 연관성을 가진 자동화 시스템을 개발하는 것은 여전히 어렵습니다. (2) 표준화 및 재현성: 신뢰할 수 있는 R&amp;D를 위해서는 다양한 바이오베이직 플랫폼 및 실험에서 일관되고 재현 가능한 결과를 보장하는 것이 필수적입니다. 프로토콜, 워크플로 및 데이터 형식의 표준화는 생물 기초 운영의 주요 과제입니다. (3) 데이터 관리 및 분석: 처리량이 많고 자동화된 생물학적 연구는 오믹스 데이터, 이미징 데이터 및 실험 원시 데이터를 포함한 많은 양의 데이터를 생성합니다. 효율적인 데이터 관리, 통합 및 분석은 생물 기초 워크플로우에서 데이터 기반 의사 결정을 이해하고 촉진하는 데 필수적입니다. (4) 학제 간 협력: 생물 시설 플랫폼은 생물학, 공학, 자동화 및 데이터 과학과 같은 다양한 분야의 전문가 간의 협력이 필요하며 이러한 학제 간 격차를 해소하고 효과적인 협력을 촉진하는 것은 언어, 방법 및 관점의 차이로 인해 어려울 수 있습니다. (5) 비용 및 확장성: 생물학적 인프라를 구축하고 유지 관리하는 것은 종종 비용이 많이 들고 더 큰 프로젝트 또는 여러 사용자를 수용할 수 있는 생물학적 인프라의 확장성이 어려울 수 있으며 더 넓은 액세스와 활용을 위해서는 비용 효율적이고 확장 가능한 생물학적 인프라 운영을 달성하는 것이 필수적입니다.</p>
+<p>이러한 도전에도 불구하고, 바이오 시설 플랫폼에 대한 전망은 다음과 같이 흥미 진진합니다 : (1) 가속화 된 R &amp; D : 바이오 시설 플랫폼은 높은 처리량과 자동화 된 실험, 최적화 및 스크리닝을 가능하게함으로써 생명 공학의 R &amp; D 프로세스를 크게 가속화 할 수 있으며, 그 결과 효소, 세포 및 기타 생물학적 구성 요소의 더 빠른 발견 및 최적화가 가능합니다. (2) 혁신 및 맞춤화: 생물 시설 플랫폼은 혁신 및 맞춤화를 위한 플랫폼을 제공하여 연구원과 기업이 의학, 농업, 환경 보호 및 산업 공정을 포함한 다양한 응용 분야를 위한 고유한 생물학적 솔루션을 개발하고 최적화할 수 있도록 합니다. (3) 재현성 및 표준화: 생물 시설 플랫폼은 보다 신뢰할 수 있고 강력한 결과를 생성하는 표준화된 프로토콜, 워크플로 및 데이터 형식을 개발 및 구현하여 생물학적 연구의 재현성 및 표준화를 개선하는 데 도움이 될 수 있습니다. (4) 데이터 기반 의사 결정: 생물 시설 플랫폼은 통찰력을 얻고 R&amp;D 결정을 알리기 위해 분석할 수 있는 많은 양의 데이터를 생성할 수 있습니다. 데이터 기반 접근 방식은 프로세스를 최적화하고 성능을 개선하며 향후 연구 방향을 안내하는 데 도움이 될 수 있습니다. (5) 협업 및 지식 공유: Biofacilities Platform은 서로 다른 분야의 전문가 간의 협업을 촉진하여 지식 공유, 아이디어 교환 및 협업 문제 해결을 촉진함으로써 생명 공학의 시너지 발전을 촉진합니다.</p>
+<p>결론적으로, 이러한 어려움에도 불구하고 바이오 시설 플랫폼은 가속화된 R&amp;D, 혁신, 재현성, 표준화, 데이터 기반 의사 결정, 협업 및 지식 공유를 통해 생명 공학을 발전시키는 데 중요한 가능성을 가지고 있습니다. 자동화, 데이터 과학 및 학제 간 협력의 지속적인 발전은 미래 생물 시설 플랫폼의 개발 및 적용을 더욱 촉진할 것으로 예상됩니다.</p></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","selector":".lightbox","openEffect":"zoom","closeEffect":"zoom","loop":true});</script>
+
+
+
+</body></html>

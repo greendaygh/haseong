@@ -1,0 +1,8 @@
+---
+title: "blog"
+listing:
+  contents: blogposts
+  sort: "date desc"
+  type: default
+  categories: true
+---
