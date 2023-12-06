@@ -1,213 +1,87 @@
 [
   {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Lectures",
+    "objectID": "smallsee.html",
+    "href": "smallsee.html",
+    "title": "수초어항",
     "section": "",
-    "text": "[2022-11-30] [동아사이언스] 코로나 파괴 인공효소 만드는 ‘합성생물학’ 혁신 ‘눈앞’\n[2022-07-25] [바이오인프로] 차세대 유전체 합성 연구개발 동향 및 전망\n[2022-07-22] [2022 바이오 미래유망기술 시리즈 플랫폼바이오] 레드·그린·화이트바이오 혁신의 공통 엔진인 플랫폼바이오"
+    "text": "수초어항 만들기"
   },
   {
-    "objectID": "media.html#section",
-    "href": "media.html#section",
+    "objectID": "lectures.html",
+    "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "[2022-11-30] [동아사이언스] 코로나 파괴 인공효소 만드는 ‘합성생물학’ 혁신 ‘눈앞’\n[2022-07-25] [바이오인프로] 차세대 유전체 합성 연구개발 동향 및 전망\n[2022-07-22] [2022 바이오 미래유망기술 시리즈 플랫폼바이오] 레드·그린·화이트바이오 혁신의 공통 엔진인 플랫폼바이오"
+    "text": "[2023년 KAIST] [생물분석기술]\n[2023년 1학기 UST 대학원 전공강의] [시스템합성생물학]"
   },
   {
-    "objectID": "media.html#section-1",
-    "href": "media.html#section-1",
+    "objectID": "lectures.html#section",
+    "href": "lectures.html#section",
+    "title": "Lectures",
+    "section": "",
+    "text": "[2023년 KAIST] [생물분석기술]\n[2023년 1학기 UST 대학원 전공강의] [시스템합성생물학]"
+  },
+  {
+    "objectID": "lectures.html#section-1",
+    "href": "lectures.html#section-1",
+    "title": "Lectures",
+    "section": "2022",
+    "text": "2022\n\n[2022년 KAIST] [생물분석기술]\n[2022년 KRIBB 연구데이터 분석과정] R을 이용한 생명데이터 분석 full\n[2022년 1학기 UST 대학원 전공강의] [시스템합성생물학]"
+  },
+  {
+    "objectID": "lectures.html#section-2",
+    "href": "lectures.html#section-2",
     "title": "Lectures",
     "section": "2021",
-    "text": "2021\n\n[2021-10-12] [바이오인와치] 제조업을 혁신할 자연지향설계(Nature Co-Design) 시대 도래\n[2021-04-31] [한국과총] 인류 번영을 위한 혁신기술, 합성생물학\n[2021-02-24] [한국경제, 유료] 생물학의 산업적 활용을 촉진하는 바이오파운드리 구축 필요"
+    "text": "2021\n\n[2021년 2학기 UST 대학원 전공강의] [현장연구A] \n[2021년 KRIBB 연구데이터 분석과정] R을 이용한 생명데이터 분석 short\n[2021년 1학기 UST 대학원 전공강의] [현장연구E] \n[2021년 1학기 UST 대학원 일반강의] 데이터 사이언스를 위한 R 프로그래밍"
   },
   {
-    "objectID": "media.html#section-2",
-    "href": "media.html#section-2",
+    "objectID": "lectures.html#section-3",
+    "href": "lectures.html#section-3",
     "title": "Lectures",
     "section": "2020",
-    "text": "2020\n\n[2020-12-17] [전자신문 외 15건] AI 만난 미생물 바이오센서, 유해물질 95% 식별\n[2020-7-30] [한국생물공학회] 딥러닝(CNN)기반 DNA 서열분석 가이드\n[2020-5-1] [바이오리소스 인사이트 Vol5] 합성생물학과 생명연구자원\n[2020-2-3] [바이오인에세이 감수] 2020 바이오미래기유망기술의 이야기-바이오파운드리\n[2020-2-11] [바이오인 기술 추천 및 기초자료 작성] 2020년 10대 바이오 미래유망기술 바이오파운드리"
+    "text": "2020\n\n[2020년 KRIBB 연구데이터 분석과정] R을 이용한 생명데이터 분석\n[2020년 2학기 UST 대학원 일반강의] R로 배우는 기초통계\n[2020년 1학기 UST 대학원 일반강의] R 프로그래밍과 데이터분석"
   },
   {
-    "objectID": "media.html#section-3",
-    "href": "media.html#section-3",
+    "objectID": "lectures.html#section-4",
+    "href": "lectures.html#section-4",
     "title": "Lectures",
     "section": "2019",
-    "text": "2019\n\n[2019-12-31] [바이오인에세이 감수] 2019 바이오미래기유망기술의 이야기-유전자회로 공정 예측기술\n[2019-12-04] [바이오인프로] 바이오파운드리 동향\n[2019-09-17] [한국경제] 자동화 로봇 기술 덕분에 10년 걸리던 표현형 데이터 수일 內 확보"
+    "text": "2019\n\n[2019년 12월 생물공학회 교육 워크샵] 기계학습 x 생물공학\n[2019년 2학기 UST 대학원 일반강의] R로 배우는 기초통계\n[2019년 1학기 UST 대학원 일반강의] R 프로그래밍과 데이터분석"
   },
   {
-    "objectID": "media.html#before-2016",
-    "href": "media.html#before-2016",
-    "title": "Lectures",
-    "section": "before 2016",
-    "text": "before 2016\n\n[2016-09-20] [보도자료] 저비용·고효율 맞춤형 미생물 검색 형광 플랫폼 개발\n[2015-07-27] [바이오인프로] 합성생물학의 최신 연구동향\n[2013-02-03] [지능형합성생물학연구단] 합성생물학 부품 표준화 및 설계 정형화에 관한 연구 동향"
+    "objectID": "blogposts/synthetic_biology_20230503.html",
+    "href": "blogposts/synthetic_biology_20230503.html",
+    "title": "synthetic biology",
+    "section": "",
+    "text": "https://www.sciencedirect.com/science/article/pii/S2665906921000179#bib5\nSynthetic biology landscape and community in Germany\n\n\nDespite its start in the early 2000s, synthetic biology is still overall perceived as a young discipline. In some countries, such as the US, synthetic biology is academically and industrially established, while in others, including Germany, it is still an upcoming field of research. Issues with funding schemes, commercial translation of technologies, public perception, and regulations need to be addressed to establish synthetic biology as a key discipline of the 21st century. This perspective article reviews the German and European synthetic biology landscape and how the German Association for Synthetic Biology (GASB) is addressing the above-mentioned challenges with its events and community-building activities.\n\n2000년대 초반에 시작되었음에도 불구하고 합성 생물학은 여전히 전반적으로 젊은 분야로 인식되고 있습니다. 미국과 같은 일부 국가에서는 합성생물학이 학문적, 산업적으로 확립되어 있는 반면, 독일을 포함한 다른 국가에서는 여전히 향후 연구 분야입니다. 자금 조달 계획, 기술의 상업적 번역, 대중의 인식 및 규정과 관련된 문제를 해결하여 합성 생물학을 21세기의 핵심 분야로 확립해야 합니다. 이 관점 기사는 독일과 유럽의 합성 생물학 환경과 GASB(독일 합성 생물학 협회)가 이벤트 및 커뮤니티 구축 활동을 통해 위에서 언급한 문제를 해결하는 방법을 검토합니다."
   },
   {
-    "objectID": "blogposts/running_20230409.html",
-    "href": "blogposts/running_20230409.html",
+    "objectID": "blogposts/synthetic_biology_20230503.html#독일",
+    "href": "blogposts/synthetic_biology_20230503.html#독일",
+    "title": "synthetic biology",
+    "section": "",
+    "text": "https://www.sciencedirect.com/science/article/pii/S2665906921000179#bib5\nSynthetic biology landscape and community in Germany\n\n\nDespite its start in the early 2000s, synthetic biology is still overall perceived as a young discipline. In some countries, such as the US, synthetic biology is academically and industrially established, while in others, including Germany, it is still an upcoming field of research. Issues with funding schemes, commercial translation of technologies, public perception, and regulations need to be addressed to establish synthetic biology as a key discipline of the 21st century. This perspective article reviews the German and European synthetic biology landscape and how the German Association for Synthetic Biology (GASB) is addressing the above-mentioned challenges with its events and community-building activities.\n\n2000년대 초반에 시작되었음에도 불구하고 합성 생물학은 여전히 전반적으로 젊은 분야로 인식되고 있습니다. 미국과 같은 일부 국가에서는 합성생물학이 학문적, 산업적으로 확립되어 있는 반면, 독일을 포함한 다른 국가에서는 여전히 향후 연구 분야입니다. 자금 조달 계획, 기술의 상업적 번역, 대중의 인식 및 규정과 관련된 문제를 해결하여 합성 생물학을 21세기의 핵심 분야로 확립해야 합니다. 이 관점 기사는 독일과 유럽의 합성 생물학 환경과 GASB(독일 합성 생물학 협회)가 이벤트 및 커뮤니티 구축 활동을 통해 위에서 언급한 문제를 해결하는 방법을 검토합니다."
+  },
+  {
+    "objectID": "blogposts/running_20230225.html",
+    "href": "blogposts/running_20230225.html",
     "title": "Running",
     "section": "",
-    "text": "점심 전 도착을 목표로 달리기 시작\n\n\n\n\n\n날이 참 좋음\n\n\n\n\n\n다리 건너고\n\n\n\n\n\n명당\n\n\n\n\n\n다리 밑 그늘에서 잠깐 쉬고\n\n\n\n\n\n민이랑 자전거타고 서점가는 길 (참교육길)\n\n\n\n\n\n돌탑\n\n\n\n\n\n이응다리 아래서 잠깐 쉬고\n\n\n\n\n\n달리고\n\n\n\n\n\n달리고\n\n\n\n\n\n끝\n\n\n\n\n\n9.2 킬로"
+    "text": "일요일 점심 후에 달리기 시작. 몸무게가 조금 줄어서인지 두 달만에 달리는 것 치고는 몸이 무겁지 않았다.\n\n\n\n수변공원\n\n\n수변공원에서 시작해서 다리 건너 세종문화회관까지 한 번 쉬고\n\n\n\n세종문화회관\n\n\n중앙공원, 호수공원을 가로질러서\n\n\n\n중앙공원\n\n\n\n\n\n호수공원\n\n\n다리 건너\n\n\n\n금강\n\n\n이응다리까지 완주\n\n\n\n이응다리\n\n\n11.2km / 1시간30분 (3시10분 ~ 4시50분)"
   },
   {
-    "objectID": "blogposts/mongodb.html",
-    "href": "blogposts/mongodb.html",
-    "title": "MongoDB",
-    "section": "",
-    "text": "MongoDB docker 설치"
-  },
-  {
-    "objectID": "blogposts/dna_synthesis_20230410.html",
-    "href": "blogposts/dna_synthesis_20230410.html",
+    "objectID": "blogposts/enzyme_engineering_20231118.html",
+    "href": "blogposts/enzyme_engineering_20231118.html",
     "title": "DNA assembly News",
     "section": "",
-    "text": "https://www.elegenbio.com/\n2023.02.02: Elegen은 1:65,000 bp 미만의 고객 확인 오류율로 단 6-8 영업일 만에 배송되는 최대 7kb의 고정확도 긴 DNA를 제공 link]{.underline}\n\n\n\n\n\nhttps://www.synbiobeta.com/read/oriciro-announces-series-b2-financing-to-advance-cell-free-dna-technology-for-innovative-therapeutics-and-synthetic-biology\nhttps://www.synbiobeta.com/read/why-you-should-look-to-tokyo-for-the-cell-free-amplification-of-large-genome-scale-dna\n\n\n\n\n\nhttps://link.springer.com/article/10.1007/s11427-022-2252-0\n\n\n\n\n\nhttps://synbioj.cip.com.cn/article/2023/2096-8280/2023-036.shtml"
+    "text": "https://foundrytheory.substack.com/p/improving-a-stubborn-enzyme-with-ai"
   },
   {
-    "objectID": "blogposts/dna_synthesis_20230410.html#elegenbio",
-    "href": "blogposts/dna_synthesis_20230410.html#elegenbio",
+    "objectID": "blogposts/enzyme_engineering_20231118.html#ginkgo",
+    "href": "blogposts/enzyme_engineering_20231118.html#ginkgo",
     "title": "DNA assembly News",
     "section": "",
-    "text": "https://www.elegenbio.com/\n2023.02.02: Elegen은 1:65,000 bp 미만의 고객 확인 오류율로 단 6-8 영업일 만에 배송되는 최대 7kb의 고정확도 긴 DNA를 제공 link]{.underline}"
-  },
-  {
-    "objectID": "blogposts/dna_synthesis_20230410.html#oriciro",
-    "href": "blogposts/dna_synthesis_20230410.html#oriciro",
-    "title": "DNA assembly News",
-    "section": "",
-    "text": "https://www.synbiobeta.com/read/oriciro-announces-series-b2-financing-to-advance-cell-free-dna-technology-for-innovative-therapeutics-and-synthetic-biology\nhttps://www.synbiobeta.com/read/why-you-should-look-to-tokyo-for-the-cell-free-amplification-of-large-genome-scale-dna"
-  },
-  {
-    "objectID": "blogposts/dna_synthesis_20230410.html#towards-high-density-storage-of-text-and-images-into-dna-by-the-xiao-pang-codec-system",
-    "href": "blogposts/dna_synthesis_20230410.html#towards-high-density-storage-of-text-and-images-into-dna-by-the-xiao-pang-codec-system",
-    "title": "DNA assembly News",
-    "section": "",
-    "text": "https://link.springer.com/article/10.1007/s11427-022-2252-0"
-  },
-  {
-    "objectID": "blogposts/dna_synthesis_20230410.html#progress-and-prospect-of-ultrasonic-liquid-transfer-and-low-volume-liquid-transfer-technology",
-    "href": "blogposts/dna_synthesis_20230410.html#progress-and-prospect-of-ultrasonic-liquid-transfer-and-low-volume-liquid-transfer-technology",
-    "title": "DNA assembly News",
-    "section": "",
-    "text": "https://synbioj.cip.com.cn/article/2023/2096-8280/2023-036.shtml"
-  },
-  {
-    "objectID": "blogposts/biosensors_20230503.html",
-    "href": "blogposts/biosensors_20230503.html",
-    "title": "biosensors",
-    "section": "",
-    "text": "Biosensors\n\nBiosensors and Machine Learning for Enhanced Detection, Stratification, and Classification of Cells: A Review\n\n\nBiological cells, by definition, are the basic units which contain the fundamental molecules of life of which all living things are composed. Understanding how they function and differentiating cells from one another therefore is of paramount importance for disease diagnostics as well as therapeutics. Sensors focusing on the detection and stratification of cells have gained popularity as technological advancements have allowed for the miniaturization of various components inching us closer to Point-of-Care (POC) solutions with each passing day. Furthermore, Machine Learning has allowed for enhancement in analytical capabilities of these various biosensing modalities, especially the challenging task of classification of cells into various categories using a data-driven approach rather than physics-driven. In this review, we provide an account of how Machine Learning has been applied explicitly to sensors that detect and classify cells. We also provide a comparison of how different sensing modalities and algorithms affect the classifier accuracy and the dataset size required.\n\n정의에 따르면 생물학적 세포는 모든 생물을 구성하는 생명의 기본 분자를 포함하는 기본 단위입니다. 따라서 세포가 어떻게 기능하고 세포를 구별하는지 이해하는 것은 질병 진단 및 치료에 있어 가장 중요합니다. 기술 발전으로 다양한 구성 요소의 소형화가 가능해짐에 따라 세포 감지 및 층화에 초점을 맞춘 센서가 인기를 얻었고, 날이 갈수록 POC(Point-of-Care) 솔루션에 가까워졌습니다. 또한 머신 러닝은 이러한 다양한 바이오센싱 양식의 분석 기능, 특히 물리학 중심이 아닌 데이터 중심 접근 방식을 사용하여 세포를 다양한 범주로 분류하는 어려운 작업을 향상시킬 수 있습니다. 이 리뷰에서는 기계 학습이 세포를 감지하고 분류하는 센서에 어떻게 명시적으로 적용되었는지에 대한 설명을 제공합니다. 또한 서로 다른 감지 양식 및 알고리즘이 분류기 정확도 및 필요한 데이터 세트 크기에 미치는 영향에 대한 비교도 제공합니다."
-  },
-  {
-    "objectID": "blogposts/automation_202308017.html",
-    "href": "blogposts/automation_202308017.html",
-    "title": "Automation",
-    "section": "",
-    "text": "https://www.embopress.org/doi/full/10.15252/msb.20209942\n  \n  복잡한 생활 시스템에 대한 우리의 이해는 높은 처리량으로 실험을 수행할 수 있는 우리의 능력에 의해 제한됩니다. 로봇 시스템은 많은 전통적인 수동 피펫팅 프로토콜을 자동화했지만 소프트웨어 제한으로 인해 수백 개의 실험을 동시에 조작, 유지 및 모니터링하는 데 필요한 고급 조작이 불가능했습니다. 여기에서는 메타 모집단 역학 시뮬레이션과 같은 사용자 지정 고처리량 실험에 필요한 복잡한 피펫팅 패턴을 실행할 수 있는 오픈 소스 Python 플랫폼인 Pyhamilton을 소개합니다. 통합 플레이트 리더를 사용하여 로봇 방법을 실시간으로 조정하기 위해 정기적인 밀도 측정을 수행함으로써 사용자 개입 없이 며칠 동안 거의 500개에 가까운 원격 모니터링 세균 배양을 대수 성장 상태로 유지합니다. 이러한 기능을 사용하여 우리는 탄소, 질소 및 인 피트니스 환경을 종합적으로 샘플링하기 위해 3중으로 100가지 연속 배양 조건의 형광 단백질 발현 및 성장률을 모니터링하여 생물 반응기 단백질 생산을 체계적으로 최적화합니다. 우리의 결과는 유연한 소프트웨어가 기존 하드웨어에 힘을 실어 새로운 유형과 규모의 실험을 가능하게 하고 생물 제조에서 기초 생물학에 이르는 영역에 힘을 실어줄 수 있음을 보여줍니다.\n\n\n\n    https://pubs.acs.org/doi/full/10.1021/acssynbio.0c00599\n    \n    분자 복제는 DNA 조립과 표적 숙주에서의 발현으로 구성되기 때문에 합성 생물학의 핵심입니다. 그러나 현재 복제는 자동화의 이점이 큰 수동적이고 시간 소모적이며 반복적인 프로세스인 경우가 가장 많습니다. 완전한 합리적인 클로닝 절차의 자동화, 즉 DNA 생성에서 표적 숙주에서의 발현까지의 자동화에는 다양한 작업과 기계의 통합이 포함됩니다. 이러한 워크플로우의 예는 드물고, 특히 설계가 합리적이고( 즉 , DNA 서열 설계가 고정되어 있으며 무작위 라이브러리를 기반으로 하지 않음) 표적 숙주가 유전적으로 다루기 쉽지 않은 경우( 예:, 열충격 변형에 민감하지 않음). 이 연구에서는 플라스미드의 합리적인 구성과 생명공학 플랫폼 유기체인 코리네박테리움 글루타미쿰 으로의 후속 컨쥬게이티브 전송을 위한 자동화된 워크플로가 제시됩니다. 전체 작업 흐름에는 맞춤형 소프트웨어 도구가 수반됩니다. 응용 예로서 조절자 Lrp를 기반으로 합리적으로 설계된 전사 인자-바이오 센서 라이브러리를 구축하고 특성화했습니다. 동적 범위가 개선된 센서를 얻었고 스크리닝에서 얻은 통찰력은 C. 글루타미쿰 Lrp의 이중 조절기 기능에 대한 증거를 제공했습니다.\n\n\n\n\nhttps://journal.code4lib.org/\n\n\n\n\n\n다중 부분 DNA 조립은 합성 및 분자 생물학의 많은 프로젝트에서 물리적 출발점입니다. 광범위한 DNA 구조 라이브러리를 구축하여 유전자 설계 공간을 탐색하는 능력은 프로그래밍된 생물학적 시스템을 만드는 데 필수적입니다. 합성 생물학 커뮤니티에서 채택된 여러 DNA 조립 방법 및 표준으로 인해 DNA 조립 프로세스의 자동화가 이제 큰 관심을 받고 있습니다. 자동화를 통해 접근 가능한 디자인 공간을 늘리는 동시에 연구자의 시간을 덜 사용하여 더 큰 빌드를 만들 수 있습니다. 그러나 이러한 이점은 현재 장비와 소모품 모두에 높은 비용을 초래합니다. 여기에서는 DNA-BOT(OpenTrons)의 BASIC을 사용하여 저비용 DNA 어셈블리를 도입하여 이러한 제한 사항을 해결합니다. 이 목적을 위해, 우리는 오픈 소스 소프트웨어 패키지를 개발하고 10개의 유전 부분으로 구성된 88개의 구성을 동시에 조립하고 3개 유전자 오페론에 대한 프로모터, 리보솜 결합 부위 및 유전자 순서 설계 공간을 평가하여 DNA-BOT의 성능을 시연했습니다. 88개의 모든 구성은 구성당 $1.50–$5.50의 소모품 비용으로 높은 정확도로 조립되었습니다. 이것은 DNA-BOT의 효율성, 정확성 및 경제성을 보여주며 대부분의 실험실에서 접근 가능하고 자동화된 DNA 조립을 민주화합니다."
-  },
-  {
-    "objectID": "blogposts/automation_202308017.html#논문",
-    "href": "blogposts/automation_202308017.html#논문",
-    "title": "Automation",
-    "section": "",
-    "text": "https://www.embopress.org/doi/full/10.15252/msb.20209942\n  \n  복잡한 생활 시스템에 대한 우리의 이해는 높은 처리량으로 실험을 수행할 수 있는 우리의 능력에 의해 제한됩니다. 로봇 시스템은 많은 전통적인 수동 피펫팅 프로토콜을 자동화했지만 소프트웨어 제한으로 인해 수백 개의 실험을 동시에 조작, 유지 및 모니터링하는 데 필요한 고급 조작이 불가능했습니다. 여기에서는 메타 모집단 역학 시뮬레이션과 같은 사용자 지정 고처리량 실험에 필요한 복잡한 피펫팅 패턴을 실행할 수 있는 오픈 소스 Python 플랫폼인 Pyhamilton을 소개합니다. 통합 플레이트 리더를 사용하여 로봇 방법을 실시간으로 조정하기 위해 정기적인 밀도 측정을 수행함으로써 사용자 개입 없이 며칠 동안 거의 500개에 가까운 원격 모니터링 세균 배양을 대수 성장 상태로 유지합니다. 이러한 기능을 사용하여 우리는 탄소, 질소 및 인 피트니스 환경을 종합적으로 샘플링하기 위해 3중으로 100가지 연속 배양 조건의 형광 단백질 발현 및 성장률을 모니터링하여 생물 반응기 단백질 생산을 체계적으로 최적화합니다. 우리의 결과는 유연한 소프트웨어가 기존 하드웨어에 힘을 실어 새로운 유형과 규모의 실험을 가능하게 하고 생물 제조에서 기초 생물학에 이르는 영역에 힘을 실어줄 수 있음을 보여줍니다.\n\n\n\n    https://pubs.acs.org/doi/full/10.1021/acssynbio.0c00599\n    \n    분자 복제는 DNA 조립과 표적 숙주에서의 발현으로 구성되기 때문에 합성 생물학의 핵심입니다. 그러나 현재 복제는 자동화의 이점이 큰 수동적이고 시간 소모적이며 반복적인 프로세스인 경우가 가장 많습니다. 완전한 합리적인 클로닝 절차의 자동화, 즉 DNA 생성에서 표적 숙주에서의 발현까지의 자동화에는 다양한 작업과 기계의 통합이 포함됩니다. 이러한 워크플로우의 예는 드물고, 특히 설계가 합리적이고( 즉 , DNA 서열 설계가 고정되어 있으며 무작위 라이브러리를 기반으로 하지 않음) 표적 숙주가 유전적으로 다루기 쉽지 않은 경우( 예:, 열충격 변형에 민감하지 않음). 이 연구에서는 플라스미드의 합리적인 구성과 생명공학 플랫폼 유기체인 코리네박테리움 글루타미쿰 으로의 후속 컨쥬게이티브 전송을 위한 자동화된 워크플로가 제시됩니다. 전체 작업 흐름에는 맞춤형 소프트웨어 도구가 수반됩니다. 응용 예로서 조절자 Lrp를 기반으로 합리적으로 설계된 전사 인자-바이오 센서 라이브러리를 구축하고 특성화했습니다. 동적 범위가 개선된 센서를 얻었고 스크리닝에서 얻은 통찰력은 C. 글루타미쿰 Lrp의 이중 조절기 기능에 대한 증거를 제공했습니다.\n\n\n\n\nhttps://journal.code4lib.org/"
-  },
-  {
-    "objectID": "blogposts/automation_202308017.html#dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology",
-    "href": "blogposts/automation_202308017.html#dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology",
-    "title": "Automation",
-    "section": "",
-    "text": "다중 부분 DNA 조립은 합성 및 분자 생물학의 많은 프로젝트에서 물리적 출발점입니다. 광범위한 DNA 구조 라이브러리를 구축하여 유전자 설계 공간을 탐색하는 능력은 프로그래밍된 생물학적 시스템을 만드는 데 필수적입니다. 합성 생물학 커뮤니티에서 채택된 여러 DNA 조립 방법 및 표준으로 인해 DNA 조립 프로세스의 자동화가 이제 큰 관심을 받고 있습니다. 자동화를 통해 접근 가능한 디자인 공간을 늘리는 동시에 연구자의 시간을 덜 사용하여 더 큰 빌드를 만들 수 있습니다. 그러나 이러한 이점은 현재 장비와 소모품 모두에 높은 비용을 초래합니다. 여기에서는 DNA-BOT(OpenTrons)의 BASIC을 사용하여 저비용 DNA 어셈블리를 도입하여 이러한 제한 사항을 해결합니다. 이 목적을 위해, 우리는 오픈 소스 소프트웨어 패키지를 개발하고 10개의 유전 부분으로 구성된 88개의 구성을 동시에 조립하고 3개 유전자 오페론에 대한 프로모터, 리보솜 결합 부위 및 유전자 순서 설계 공간을 평가하여 DNA-BOT의 성능을 시연했습니다. 88개의 모든 구성은 구성당 $1.50–$5.50의 소모품 비용으로 높은 정확도로 조립되었습니다. 이것은 DNA-BOT의 효율성, 정확성 및 경제성을 보여주며 대부분의 실험실에서 접근 가능하고 자동화된 DNA 조립을 민주화합니다."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "blog",
-    "section": "",
-    "text": "Untitled\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nAutomation\n\n\n\n\n\n\n\nsyntheic biology\n\n\nautomation\n\n\nbiofoundry\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nBiofoundry\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiofoundry\n\n\nautomation\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nbiosensors\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiosensors\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nBiofoundry\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiofoundry\n\n\nautomation\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nsynthetic biology\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiofoundry\n\n\nautomation\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nRunning\n\n\n\n\n\n\n\nrunning\n\n\nlife\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nDNA assembly News\n\n\n\n\n\n\n\nsyntheic biology\n\n\ndna assembly\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nDNA assembly News\n\n\n\n\n\n\n\nsyntheic biology\n\n\ndna assembly\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nMongoDB\n\n\n\n\n\n\n\nmongodb\n\n\ndatabase\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nRunning\n\n\n\n\n\n\n\nrunning\n\n\nlife\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2023\n\n\nHaseong\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "한국생명공학연구원 (KRIBB) 합성생물학연구소 책임연구원 (2012 ~)\n과학기술연합대학원대학교 (UST) 생명공학과 부교수 (2016 ~)\n한국과학기술원 (KAIST) 바이오및뇌공학과 겸직교수 (2022 ~)\n한국과학기술원 (KAIST) 공학생물학 대학원 겸직교수 (2022 ~)"
-  },
-  {
-    "objectID": "about.html#김하성-haseong-kim",
-    "href": "about.html#김하성-haseong-kim",
-    "title": "About",
-    "section": "",
-    "text": "한국생명공학연구원 (KRIBB) 합성생물학연구소 책임연구원 (2012 ~)\n과학기술연합대학원대학교 (UST) 생명공학과 부교수 (2016 ~)\n한국과학기술원 (KAIST) 바이오및뇌공학과 겸직교수 (2022 ~)\n한국과학기술원 (KAIST) 공학생물학 대학원 겸직교수 (2022 ~)"
-  },
-  {
-    "objectID": "blogposts/AI_20230820.html",
-    "href": "blogposts/AI_20230820.html",
-    "title": "Untitled",
-    "section": "",
-    "text": "구글의 ’버텍스 AI(Vertex AI)’는 특성 추출부터 모델 학습과 저지연 추론에 이르기까지 데이터 과학자와 AI 개발자가 인공지능(AI) 애플리케이션을 더 쉽게 통합하고 모델의 배포 및 유지 관리를 가속화 할 수 있는 관리형 머신러닝(ML) 플랫폼으로 2021년 5월에 발표(보기)되었다\n버텍스 AI는 필요한 모든 도구를 갖춘 단일 플랫폼으로 특별히 머신러닝 학습을 필요로 하지 않고 데이터, 프로토타입, 테스트, 모델 배치, 모델 해석 및 생산 모니터링을 할 수 있다. 즉, 기본 지식만 있으면 누구나 이 툴을 사용해 머신러닝 모델을 구현하고 배포할 수 있다.\nhttps://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ko\nhttps://www.aitimes.kr/news/articleView.html?idxno=27860\nhttps://bcho.tistory.com/1383\n\n\n\n\n\n구조는 그림 1과 같다. 개발자 혹은 사용자가 최적화된 AI 모델을 학습하여 다양한 모델을 생성한 다음, AI 모델 레포지토리에 등록한다. 이 때 원활한 검색을 위해 모델의 특징을 등록하는데, 제안하는 시스템에서는 이를 컨텍스트라고 정의한다. 등록된 모델은 컨텍스트를 기반으로 관리되며, 검색 조건도 컨텍스트를 활용한다. IoT 디바이스는 필요 시 AI 모델 레포지토리에서 AI 모델을 검색한 다음, 배포 기능을 이용해 모델을 다운로드받는다. 이후 선택적으로 여러 AI 모델을 활용하여 on-device AI를 수행한다.\n참고자료: 이석준, 최충재, 성낙명.(2022).IoT 온디바이스 AI 실현을 위한 AI 모델 레포지토리.한국정보통신학회 종합학술대회 논문집,26(2),597-599.\n\n\n\n\n\n간소화된 모델 튜닝과 배포 도입 - 엔비디아가 간편한 통합 툴킷인 엔비디아 AI 워크벤치(NVIDIA AI Workbench)를 발표했다. 이를 통해 개발자는 PC 또는 워크스테이션에서 사전 학습된 생성형 AI 모델을 빠르게 생성, 테스트, 맞춤화한 후 거의 모든 데이터센터, 공용 클라우드, 엔비디아 DGX 클라우드 등으로 확장할 수 있다.\nAI 워크벤치는 기업이 AI 프로젝트를 시작할 때 겪는 복잡성을 최소화한다. 로컬 시스템에서 실행되는 간소화된 인터페이스를 통해 액세스할 수 있으며, 개발자는 맞춤형 데이터를 사용해 허깅페이스(Hugging Face), 깃허브(GitHub), 엔비디아 NGC와 같은 인기 리포지토리에서 모델을 맞춤화한 다음 여러 플랫폼에서 쉽게 공유할 수 있다.\n엔비디아 AI 워크벤치를 사용하면 몇 번의 클릭만으로 생성형 AI를 맞춤화하고 실행할 수 있다. 이를 통해 오픈 소스 리포지토리와 엔비디아 AI 플랫폼에서 필요한 모든 엔터프라이즈급 모델, 프레임워크, 소프트웨어 개발 키트, 라이브러리를 통합된 개발자 툴킷으로 가져올 수 있다.\nhttps://www.elec4.co.kr/article/articleView.asp?idx=31589\n\n\n\n\n\n데이터 처리에 중점을 둔 저장소이다. 에어플로우는 테스크가 이상적으로 멱등성의 법칙을 따라야 한다는 철학을 갖고 개발되었다. 이를 간단히 설명하자면 목적지 시스템에서 이중 데이터가 생성되지 않으며 테스크의 결과는 언제나 같아야 한다는 것이다.\n에어플로우는 한마디로 일련을 일들을 순차적으로 진행시켜주는 프로젝트 관리자.\nhttps://lsjsj92.tistory.com/631"
-  },
-  {
-    "objectID": "blogposts/AI_20230820.html#vertex-ai",
-    "href": "blogposts/AI_20230820.html#vertex-ai",
-    "title": "Untitled",
-    "section": "",
-    "text": "구글의 ’버텍스 AI(Vertex AI)’는 특성 추출부터 모델 학습과 저지연 추론에 이르기까지 데이터 과학자와 AI 개발자가 인공지능(AI) 애플리케이션을 더 쉽게 통합하고 모델의 배포 및 유지 관리를 가속화 할 수 있는 관리형 머신러닝(ML) 플랫폼으로 2021년 5월에 발표(보기)되었다\n버텍스 AI는 필요한 모든 도구를 갖춘 단일 플랫폼으로 특별히 머신러닝 학습을 필요로 하지 않고 데이터, 프로토타입, 테스트, 모델 배치, 모델 해석 및 생산 모니터링을 할 수 있다. 즉, 기본 지식만 있으면 누구나 이 툴을 사용해 머신러닝 모델을 구현하고 배포할 수 있다.\nhttps://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ko\nhttps://www.aitimes.kr/news/articleView.html?idxno=27860\nhttps://bcho.tistory.com/1383"
-  },
-  {
-    "objectID": "blogposts/AI_20230820.html#ai-모델-레포지토리",
-    "href": "blogposts/AI_20230820.html#ai-모델-레포지토리",
-    "title": "Untitled",
-    "section": "",
-    "text": "구조는 그림 1과 같다. 개발자 혹은 사용자가 최적화된 AI 모델을 학습하여 다양한 모델을 생성한 다음, AI 모델 레포지토리에 등록한다. 이 때 원활한 검색을 위해 모델의 특징을 등록하는데, 제안하는 시스템에서는 이를 컨텍스트라고 정의한다. 등록된 모델은 컨텍스트를 기반으로 관리되며, 검색 조건도 컨텍스트를 활용한다. IoT 디바이스는 필요 시 AI 모델 레포지토리에서 AI 모델을 검색한 다음, 배포 기능을 이용해 모델을 다운로드받는다. 이후 선택적으로 여러 AI 모델을 활용하여 on-device AI를 수행한다.\n참고자료: 이석준, 최충재, 성낙명.(2022).IoT 온디바이스 AI 실현을 위한 AI 모델 레포지토리.한국정보통신학회 종합학술대회 논문집,26(2),597-599."
-  },
-  {
-    "objectID": "blogposts/AI_20230820.html#ai-워크벤치",
-    "href": "blogposts/AI_20230820.html#ai-워크벤치",
-    "title": "Untitled",
-    "section": "",
-    "text": "간소화된 모델 튜닝과 배포 도입 - 엔비디아가 간편한 통합 툴킷인 엔비디아 AI 워크벤치(NVIDIA AI Workbench)를 발표했다. 이를 통해 개발자는 PC 또는 워크스테이션에서 사전 학습된 생성형 AI 모델을 빠르게 생성, 테스트, 맞춤화한 후 거의 모든 데이터센터, 공용 클라우드, 엔비디아 DGX 클라우드 등으로 확장할 수 있다.\nAI 워크벤치는 기업이 AI 프로젝트를 시작할 때 겪는 복잡성을 최소화한다. 로컬 시스템에서 실행되는 간소화된 인터페이스를 통해 액세스할 수 있으며, 개발자는 맞춤형 데이터를 사용해 허깅페이스(Hugging Face), 깃허브(GitHub), 엔비디아 NGC와 같은 인기 리포지토리에서 모델을 맞춤화한 다음 여러 플랫폼에서 쉽게 공유할 수 있다.\n엔비디아 AI 워크벤치를 사용하면 몇 번의 클릭만으로 생성형 AI를 맞춤화하고 실행할 수 있다. 이를 통해 오픈 소스 리포지토리와 엔비디아 AI 플랫폼에서 필요한 모든 엔터프라이즈급 모델, 프레임워크, 소프트웨어 개발 키트, 라이브러리를 통합된 개발자 툴킷으로 가져올 수 있다.\nhttps://www.elec4.co.kr/article/articleView.asp?idx=31589"
-  },
-  {
-    "objectID": "blogposts/AI_20230820.html#airflow",
-    "href": "blogposts/AI_20230820.html#airflow",
-    "title": "Untitled",
-    "section": "",
-    "text": "데이터 처리에 중점을 둔 저장소이다. 에어플로우는 테스크가 이상적으로 멱등성의 법칙을 따라야 한다는 철학을 갖고 개발되었다. 이를 간단히 설명하자면 목적지 시스템에서 이중 데이터가 생성되지 않으며 테스크의 결과는 언제나 같아야 한다는 것이다.\n에어플로우는 한마디로 일련을 일들을 순차적으로 진행시켜주는 프로젝트 관리자.\nhttps://lsjsj92.tistory.com/631"
-  },
-  {
-    "objectID": "blogposts/biofoundry_20230503.html",
-    "href": "blogposts/biofoundry_20230503.html",
-    "title": "Biofoundry",
-    "section": "",
-    "text": "모더나에서는 2018년 미국 노우드(MA)에 완전 디지털화된 제조 건물을 완공함. 관련 whitepaper에서는 [1] 이 완전 디지털화된 건물이 mRNA 연구 공정을 빠른 속도, 규모 확장, 높은 품질 유지하여 기업의 성공을 이끄는 위한 유일한 방법임을 설명함.\n위 인프라 구축의 결과로 기존 mRNA 테스트를 40개/월에서 1000개/월 (2019)로 크게 향상시키고 [2] 가장 빠르게 코로나 백신 후보물질의 임상3상에 가장 빠르게 진입한 기업이 될 수 있었음.\n백서에는 2020년까지 디지털 기술, 로봇기술/자동화, 분석, 데이터 과학 및 AI에 1억 달러 이상을 투자했으며, 이 후 5년간 1억달러 추가 투자할 것임을 밝힘\n위 디지털 인프라가 “바이오파운드리”라는 직접적인 언급은 없으나 타깃만 다를 뿐 바이오파운드리와 동일한 개념으로 볼 수 있음\n[1] https://www.modernatx.com/media-center/all-media/blogs/how-moderna-building-digital-biotech\n[2] https://www.sme.org/technologies/articles/2020/september/vaccine-placeholder/\n \n백서에는 디지털의 장점을 다음과 같이 정리하고 있음\n\n\n\n\n\n\n    We believe we are at the beginning of a 20-year mRNA innovation cycle that most technologies go through before their performance has been optimized. We hope to find early successes and advance ongoing improvements to the technology that will permit an ever-greater number of opportunities as we invest in the platform. Achieving success involves several factors, including learning the fastest and scaling rapidly, all while maintaining the highest quality. The only way to ensure this will happen is through digitization. Since Moderna’s inception, we have invested over $100 million on our digital technologies, robotics/automation, analytics, data science and AI. Given our growth, we expect we will invest more than $100 million in digital over the next 5 years.\n    \n\n요점 - 성공을 위해서는 빠른 속도, 규모 확장, 높은 품질 유지이며 이를 보장하는 유일한 방법은 디지털화임. 2020년까지 디지털 기술, 로봇기술/자동화, 분석, 데이터 과학 및 AI에 1억 달러 이상을 투자, 앞으로 5년간 1억달러 추가 투자\n배치 제조 기록 (BMR) - 날짜, 성분(무게 및 측정 포함), 장비 및 인력뿐만 아니라 관련 검사 및 특정 제품 배치의 생산과 관련된 통제된 결과를 추적하는 문서 형식으로 규제 제조에 대한 업계 표준인 우수 제조 공정(GMP)에 따라 적절한 프로토콜을 준수했는지 확인하는 데 중요\n배치 제조 프로세스와 관련된 모든 요소를 디지털 방식으로 추적하는 도구\n\n문서화 프로세스와 관련된 리소스 및 인적 오류 감소\n규정 준수 활동 간소화\n표준화된 프로세스 제어 준수 보장\n처음부터 끝까지 제조 공정의 가시성 향상\n처리량 증가 및 생산 품질 향상\n\nGMP 제조 및 품질 관리 - 2018년에 저희는 노우드(MA)에 위치한 완전 디지털화된 제조 건물 완공. 전체가 통합되어 있고 종이를 사용하지 않는 설계로, 구식 시스템이나 데이터를 별도로 유지하지 않음. 디지털 설계는 운영자 중심으로 진행되어 실행을 가속화하고 품질을 향상시키며, 신속한 확장성과 유연성을 유지할 수 있도록 함. 전통적인 제약 회사처럼 제품 특정 기록, 과정 및 장비를 사용하는 대신, 제품 중립적인 구성 요소와 매개변수화된 제조 레시피를 구축할 수 있음. 이러한 디자인은 새로운 제품을 지원하기 위해 필요한 디지털 변경을 몇 일 만에 실행할 수 있음. 90% 이상의 작업이 클라우드에서 제어되며, 현장 컴퓨팅을 최소화하면서 안정성을 유지함으로써 더 빠른 시간과 더 적은 자본 투자 새로운 제품 배포를 가능하게 함.\n통합 전자 배치 기록 - 장비 사용 - 어떤 장비를 사용할지 지시, 장비 사용 준비 확인, 장비 작동 제어, 실시간 장비 데이터 수집 및 분석.\n통합 전자 배치 기록 - 원자재 - SAP 시스템과 (ERP) 실시간으로 통합되어 운영자가 사용할 원자재 지시. 바코드가 부착된 자재는 스캔되어 저장 관리되어 정확한 재고 관리 보장. 생산된 제품 중간체는 디지털 제어를 통해 추적되고 저장. 완전히 자동화된 탱크와 혼합 과정을 사용하여 필요한 버퍼가 재고에 따라 생산, 분배. 모든 소모품은 AWS IoT 버튼으로 간단히 추가 재고 요청.\n통합 전자 배치 기록 - 테스트 - Laboratory Information Management System (LIMS)와 통합되어 샘플링 지시. 샘플 라벨 인쇄, 샘플이 픽업 위치에 드롭될 때, 테스트를 위한 모든 정보가 LIMS 시스템으로 전달. QC 랩은 실시간으로 장비 데이터를 캡처하고 추적 및 보안 제어를 수행. QC 테스트가 승인되면, 배치 기록 계산에 필요한 결과는 자동으로 반환.\n통합 전자 배치 기록 - 출시 - 모든 배치 기록 예외는 디지털로 캡처되며, 감독자 및 품질 보증 팀이 실시간으로 검토 가능. 검증된 전자 배치 기록을 활용하면 수백 페이지의 구식 종이 기록을 검토할 필요 없이 자동 예외를 검토하고 승인하여 사이클 시간을 크게 줄임\n공급 체인 - 재료 계획은 통합된 임상 및 운영 계획(C&OP) 시스템과 프로세스, 그리고 SAP ERP 시스템에 의해 주도됨. 구조화된 자재 명세서를 사용하여 원자재가 정시에 주문, 검사 및 제조 스위트로 배송되어 생산을 지원하도록 함. 전자 배치 기록 시스템과의 통합은 재고의 정확성을 보장하고, 재료 계획 프로세스를 알리는 풀 시스템을 활용하게 함.\n품질 보증 - 품질은 데이터 무결성을 보장하고 전사 오류를 제거하며 디지털 프로세스를 검증하도록 설계. 모든 운영 프로세스는 편차, 변경 관리 및 필요한 수정 조치를 문서화하는 통합 품질 관리 시스템에 의해 지원됨. 표준 운영 절차 및 준수 문서에 대한 접근 제어가 가능하며 효율성을 향상시키고 새로운 기술과 소프트웨어의 테스트를 가속화하기 위해, 검증 활동은 요구 사항 추적성을 보장하고 종이 없는 소프트웨어 테스트를 가능하게 하는 전기 Validation Management System을 사용하여 수행됨."
-  },
-  {
-    "objectID": "blogposts/biofoundry_20230503.html#중국-바이오파운드리-현황",
-    "href": "blogposts/biofoundry_20230503.html#중국-바이오파운드리-현황",
-    "title": "Biofoundry",
-    "section": "중국 바이오파운드리 현황",
-    "text": "중국 바이오파운드리 현황\n\n중국에서 20억위안 (약 3700억원, 건축비 포함) 이상 투자되는 바이오파운드리 거점은 세 곳임. 1) 선전 Shenzhen Institute of Synthetic Biology Innovation (20억위안, 2023 구축 완료). 2) 천진 National Synthetic Biotechnology Innovation Center (20억위안, 구축중), 3) 산시 Shanxi Synthetic Biology Industrial Ecological Park (80억위안, 구축중). 바이오파운드리가 명시되어 있지는 않고 합성생물학 플랫폼으로 표현되어 있으나 바이오파운드리 수준의 시설 및 서비스를 구축할 것으로 예상됨.\n중국내 연구소 및 대학의 자체 연구를 위한 바이오파운드리 세 곳을 분석한 결과 국내 바이오파운드리 베타의 3배에서 5배 이상의 수준의 규모를 보유함.\n중국은 10개 이상의 바이오파운드리를 보유하거나 구축중인 것으로 조사됨 (GBA 가입 5개). 구체적으로는 선전 첨단 기술 연구소, 천진 산업 생명 공학 연구소, 천진 대학교 합성 생물학 프론티어 과학 센터, 상하이 국립 단백질 과학 센터, 절강 대학교 항저우 국제 과학 기술 혁신 센터, 베이징 Nutrition & Health Research Institute, 우한 생명공학연구소 고처리량 스크리닝 플랫폼, BGI 생명과학연구소의 공간 다중오믹스 공동 R&D 플랫폼, 란징미생물의 Synbio OS 플랫폼, 다롄화학연구소의 에너지 생명공학 플랫폼 등이 있음 (Biofoundry and its industrial application, https://synbioj.cip.com.cn/article/2023/2096-8280/2023-024.shtml)."
-  },
-  {
-    "objectID": "blogposts/biofoundry_20230503.html#바이오파운드리-거점",
-    "href": "blogposts/biofoundry_20230503.html#바이오파운드리-거점",
-    "title": "Biofoundry",
-    "section": "바이오파운드리 거점",
-    "text": "바이오파운드리 거점\n\nShenzhen Institute of Synthetic Biology Innovation (선전/심천, 中国科学院深圳先进技术研究院)\n\n프로젝트 총 투자액은 약 20억 위안이며 총 투자액은 소프트웨어 및 하드웨어 장비는 7억 2,220만 위안 (2017년 당시 약 1330억). 대규모 합성생물학 시설은 2022년 말까지 광명생명과학단지(광밍과학도시 창업단지)에 안착해 대규모 장비 구축과 디버깅, 소프트웨어 개발 등을 진행할 예정\n\n\n\n\n\n\n\n참고자료\n\nhttp://isynbio.siat.ac.cn/view.php?id=548\n\n\n\n\nNational Synthetic Biotechnology Innovation Center (천진/텐진, 国家合成生物技术创新中心)\n\n국가합성생물학기술혁신센터는 중국 과학기술부가 추진하는 세 번째 국가기술혁신센터로 2019년 11월 정식 인가, 2019년 착공함. 과학 기술 인프라 플랫폼, 기업 핵심 기술 연구 개발 플랫폼, 서비스 플랫폼, 기업 혁신 센터 등 주요 네 가지 영역. 국제 공동 센터, 지적 재산 운영 관리 센터 및 과학 교육 통합 센터 포함.\nR&D 기지는 총 건축 규모 약 18만 평방미터, 총 투자액은 약 20억 위안이며 2022년에 완공 예정.\n참고자료\n\nhttps://www.gov.cn/xinwen/2019-12/27/content_5464585.htm\n\n\n\n\nShanxi Synthetic Biology Industrial Ecological Park (산시)\n\n중국 생물제조업체 Cathay Biotech는 Shanxi Transition and Comprehensive Reform Demonstration Zone의 Management Committee와 80억 위안(미화 12억 달러) 규모의 Shanxi 합성 생물 산업 생태 공원 공동 건설 합의. 회사는 이 금액 중 40억 1천만 위안을 투자할 계획\n\n\n\n\n\n\n\n참고자료\n\nhttps://kknews.cc/zh-sg/finance/gx2vq2m.html\nhttps://www.yicaiglobal.com/news/cathay-biotech-to-invest-usd5965-million-in-northwest-china-largest-synthetic-biology-project"
-  },
-  {
-    "objectID": "blogposts/biofoundry_20230503.html#자체-연구를-위한-바이오파운드리",
-    "href": "blogposts/biofoundry_20230503.html#자체-연구를-위한-바이오파운드리",
-    "title": "Biofoundry",
-    "section": "자체 연구를 위한 바이오파운드리",
-    "text": "자체 연구를 위한 바이오파운드리\n\nTianjin BioFoundry-Tianjin Institute of Industrial Biotechnology (천진/텐진, 中国科学院天津工业生物技术研究所) ,\n\n합성생물학 분야를 위한 최초 로봇 자동화 장비 독자적 개발 (2012)\n로봇 자동화 시스템으로 DNA 합성 및 조립, 대규모 게놈 편집, 표준화된 프로토콜과 로봇을 통해 높은 처리량 구현. 천진산업생명공학연구소의 자동화 플랫폼은 하루에 300-600개의 자동화된 단일 유전자 클론닝 완료 가능. 플라스미드의 다중 DNA 모듈 조립은 &gt;90% 이상 정확도로 하루 100개의 처리량에 도달. 모델 유기체에 대한 하루 300회 게놈 편집 처리 가능 (2018년).\n참고자료\n\n“Engineering Platforms for Synthetic Biology Research” by CUI Jinming, ZHANG Bingzhao et al. (researchcommons.org)\n\n\n\n\niBioFoundry (항저우 절강대학교)\n\nZJU-Hangzhou Global Scientific에 (항저우) 설립된 자동화된 합성 생물학 시설인 iBioFoundry의 배경, 설계, 운영 및 응용 측면을 소개. 산업용 등급 로봇암을 이용한 완전자동화, 최대 유연성 강화, 장비 고장시 복구전략 강화\n\n\n\n\n\n\n\n4개 모듈로 각 모듈 모두에 로봇암 기반 완전 자동화 구현\n\nDNA 조립 모듈 - 로봇암, Liquid handler 워크스테이션 (8, 96 채널), 나노 디스펜서, 실러, 필러, Thermal cycler, Centrifuge, Stacker, 등\n세포 스크리닝 및 배양 모듈 - 로봇암, liquid handler 워크스테이션, 콜로니피커, 배지 공급장치, 자동진탕배양기 1대, 정치배양기 7대, 고속냉장원심분리기, 플레이트리더, 자동 정제기\n분석 및 탐지 모듈 - 협동로봇암, HPLC, Fragment analyzer, FACS, RTPCR, 분석기, Stacker, 개방형으로 샘플 보충 가능\n샘플라이브러리 모듈 - 로봇암, 극저온 자동저장고, capper, decapper, barcode reader\n\n시설 면에서 바파 베타의 약 5배 이상 수준\n참고자료\n\nhttps://synbioj.cip.com.cn/article/2023/2096-8280/2023-027.shtml\n\n\n\n\nNutrition & Health Research Institute COFCO (베이징)\n\n\n\n\n\n\n효소 개발, 발효 미생물 개발, 산업 미생물 개발\n\n완전자동화 모듈 - 로봇암, 가이드, 컨베이어벨트를 이용해 배양기, 실러, 필러, PCR, 원심분리, 마이크로플레이트리더, 리퀴드 핸들러\n반자동화 모듈 - Qpix450 콜로니피커, 96웰 형질전환기, fragment analyzer, 다중배양기 등\n발효 - HPLC, GC, 냉장고온원심분리기, 배양기, 대형발효기 등 발효 및 공정을 위한 별도의 설비가 있음\n\n바이오파운드리 설비는 베타의 약 2배 수준으로 예상하며 대형 발효기 등의 추가 설비가 있을 것으로 예상\n참고자료\n\nhttp://www.cofconhri.com/biotechnology.html\nhttps://synbioj.cip.com.cn/article/2023/2096-8280/2023-024.shtml"
-  },
-  {
-    "objectID": "blogposts/biofoundry_20230503.html#edinburgh",
-    "href": "blogposts/biofoundry_20230503.html#edinburgh",
-    "title": "Biofoundry",
-    "section": "Edinburgh",
-    "text": "Edinburgh"
+    "text": "https://foundrytheory.substack.com/p/improving-a-stubborn-enzyme-with-ai"
   },
   {
     "objectID": "blogposts/data_ip_20230503.html",
@@ -259,80 +133,213 @@
     "text": "Kahl, Linda, et al. “Opening options for material transfer.” Nature biotechnology 36.10 (2018): 923-927. 논문 요약. 부품뱅크 관련 내용\nMTAs는 생명공학 연구자들이 플라스미드 DNA에서 환자 샘플에 이르기까지의 바이오 소재 공유를 위한 조건과 조건을 정의하는 법적 틀을 제공. OpenMTA는 바이오 소재의 재분배와 상업적 사용에 대한 제한을 완화하면서 표준 MTA의 측면을 유지하는 새로운 MTA 임.\n목표: 무분별한 제한 없이 가능한 한 넓게 생물학적 자료를 공유하기 위한 단순하고 표준화된 법적 도구를 실현하는 것이 목표이며, 창작자의 권리를 존중하고 안전한 실무와 책임있는 연구를 촉진함. 또한 이 도구가 기술 이전의 실용적인 현실 내에서 작동하도록 하고, 전세계의 많은 그룹의 필요를 수용할 수 있을만큼 충분히 유연하도록 함.\n기존 MTA 문제: 규정의 복잡성으로 인해 장기간의 협상이 필요하고 이러한 거래 비용은 연구 커뮤니티 내외의 물질 분배를 방해하는 것뿐만 아니라 기술 이전 사무소에 불필요한 부담을 주기도 하므로 일부 기관은 ‘MTA 없음’ 정책을 채택하기도 함. MTAs는 일반적으로 재분배를 허용하지 않음. 또한 해당 소재의 모든 상업적 사용이 특별히 금지됨. 이러한 조건이 안전, 보안 또는 상업화의 이유로 엄격한 통제가 필요한 물질에는 적절하지만, 대부분의 연구에서 널리 사용되는 물질(예: 기본 샘플, 균주 또는 플라스미드)에 대해 이러한 제한은 크게 의미가 없음. 대부분 널리 사용되는 물질의 잠재적 상업적 가치는 매우 낮으며, MTA가 모니터링 및 집행될 가능성이 거의 없으므로 재분배와 상업적 사용에 대한 일률적 제한은 연구 커뮤니티 내에서 불필요한 장벽과 비용을 만들어냄. 예를 들어, 기존 MTA의 경우 igem 참가자들이 자신들의 혁신을 상업화할 수 있는 방법은 없음. 또한 Addgene는 UBMTA가 기본 표준이었기 때문에, 상업 생명공학 연구자들은 Addgene 대부분의 리소스에 직접 접근 불가.\nOpenMTA 초안 작성: OpenMTA는 BioBricks 재단과 OpenPlant Synthetic Biology 연구 센터가 주도하는 협력 노력을 통해 개발. 워킹그룹을 통해 OpenMTA의 설계 목표, 즉 접근, 속성, 재사용, 재분배 및 차별 금지를 개발. 추가 설계 목표에는 안전 문제와 특히 국제 맥락에서의 생물 자료 공유가 포함. 새로운 문제를 반영하지 않을 때까지 수정을 계속하였고, 이후 OpenMTA 텍스트가 디지털 서명 기능과 함께 공식적으로 온라인에 게시 (http://openmta.org).\n연구자들은 자료를 상업적 목적을 포함한 모든 합법적 목적으로 사용할 수 있으며, 제공 기관의 요청이 있을 경우에는 보고서를 작성하여 자료를 다른 사람에게 재분배할 수 있음. 기관은 OpenMTA 하에 들어오는 자원을 받아들일 수 있으며, 받은 자원을 사용하거나 수정한 후 동일한 조건 또는 다른 조건으로 파생물을 재분배할 수 있음. 이 추가적인 유연성은 OpenMTA 하에서 제공되는 자원의 광범위한 사용을 지원하며, 재분배에 더 제한적인 조건이 가장 적합한 경우에도 적용됨. 표준 템플릿으로서, OpenMTA는 MTA 처리를 더욱 가속화하고 단순화하는 자동화에 적합하며, 필요에 따라 물질 전송에 대한 덜 제한적인 옵션을 제공함.\nOpenMTA의 사용: OpenMTA가 주로 사전 연구에 사용되는 생물 자료, 예를 들면 플라스미드, 균주 및 샘플의 전송에 가장 유용할 것으로 예상함. 이러한 자료들은 자료의 쉽게 복제 가능한 특성으로 인해 수량이 제한되지 않으며 대체적인 소싱 옵션으로 개별 자료의 가치가 상대적으로 낮음. 또한 대부분의 자료가 자유롭게 공유되기를 원하는 상황에서 OpenMTA가 기본 기관 정책으로 잘 맞을 것으로 예상됨. OpenMTA는 제한된 양의 자료나 엄격한 생물 안전 규정을 받는 자료와 같은 모든 전송에는 적합하지 않음. OpenMTA는 자료의 준비와 분배와 관련된 비용을 회수할 수 있으므로 특허가 만료되었거나 절대 추구하지 않은 연구 시약, 예를 들면 항체, 세포주 및 형광 단백질의 전송에도 사용될 수 있음. 실제로, 여러 특허된 자료가 특허가 만료됨에 따라 공중 도메인에 진입하고 있기 때문에 생물 자료를 공유하기 위한 OpenMTA의 도입은 특히 시기적절함. 예를 들어, GE Healthcare Lifesciences16에 의해 초기에 집계되고 외부에 사용 허가된 녹색 형광 단백질에 대한 특허 모음은 모두 만료되었음."
   },
   {
-    "objectID": "blogposts/enzyme_engineering_20231118.html",
-    "href": "blogposts/enzyme_engineering_20231118.html",
-    "title": "DNA assembly News",
+    "objectID": "blogposts/biofoundry_20230503.html",
+    "href": "blogposts/biofoundry_20230503.html",
+    "title": "Biofoundry",
     "section": "",
-    "text": "https://foundrytheory.substack.com/p/improving-a-stubborn-enzyme-with-ai"
+    "text": "모더나에서는 2018년 미국 노우드(MA)에 완전 디지털화된 제조 건물을 완공함. 관련 whitepaper에서는 [1] 이 완전 디지털화된 건물이 mRNA 연구 공정을 빠른 속도, 규모 확장, 높은 품질 유지하여 기업의 성공을 이끄는 위한 유일한 방법임을 설명함.\n위 인프라 구축의 결과로 기존 mRNA 테스트를 40개/월에서 1000개/월 (2019)로 크게 향상시키고 [2] 가장 빠르게 코로나 백신 후보물질의 임상3상에 가장 빠르게 진입한 기업이 될 수 있었음.\n백서에는 2020년까지 디지털 기술, 로봇기술/자동화, 분석, 데이터 과학 및 AI에 1억 달러 이상을 투자했으며, 이 후 5년간 1억달러 추가 투자할 것임을 밝힘\n위 디지털 인프라가 “바이오파운드리”라는 직접적인 언급은 없으나 타깃만 다를 뿐 바이오파운드리와 동일한 개념으로 볼 수 있음\n[1] https://www.modernatx.com/media-center/all-media/blogs/how-moderna-building-digital-biotech\n[2] https://www.sme.org/technologies/articles/2020/september/vaccine-placeholder/\n \n백서에는 디지털의 장점을 다음과 같이 정리하고 있음\n\n\n\n\n\n\n    We believe we are at the beginning of a 20-year mRNA innovation cycle that most technologies go through before their performance has been optimized. We hope to find early successes and advance ongoing improvements to the technology that will permit an ever-greater number of opportunities as we invest in the platform. Achieving success involves several factors, including learning the fastest and scaling rapidly, all while maintaining the highest quality. The only way to ensure this will happen is through digitization. Since Moderna’s inception, we have invested over $100 million on our digital technologies, robotics/automation, analytics, data science and AI. Given our growth, we expect we will invest more than $100 million in digital over the next 5 years.\n    \n\n요점 - 성공을 위해서는 빠른 속도, 규모 확장, 높은 품질 유지이며 이를 보장하는 유일한 방법은 디지털화임. 2020년까지 디지털 기술, 로봇기술/자동화, 분석, 데이터 과학 및 AI에 1억 달러 이상을 투자, 앞으로 5년간 1억달러 추가 투자\n배치 제조 기록 (BMR) - 날짜, 성분(무게 및 측정 포함), 장비 및 인력뿐만 아니라 관련 검사 및 특정 제품 배치의 생산과 관련된 통제된 결과를 추적하는 문서 형식으로 규제 제조에 대한 업계 표준인 우수 제조 공정(GMP)에 따라 적절한 프로토콜을 준수했는지 확인하는 데 중요\n배치 제조 프로세스와 관련된 모든 요소를 디지털 방식으로 추적하는 도구\n\n문서화 프로세스와 관련된 리소스 및 인적 오류 감소\n규정 준수 활동 간소화\n표준화된 프로세스 제어 준수 보장\n처음부터 끝까지 제조 공정의 가시성 향상\n처리량 증가 및 생산 품질 향상\n\nGMP 제조 및 품질 관리 - 2018년에 저희는 노우드(MA)에 위치한 완전 디지털화된 제조 건물 완공. 전체가 통합되어 있고 종이를 사용하지 않는 설계로, 구식 시스템이나 데이터를 별도로 유지하지 않음. 디지털 설계는 운영자 중심으로 진행되어 실행을 가속화하고 품질을 향상시키며, 신속한 확장성과 유연성을 유지할 수 있도록 함. 전통적인 제약 회사처럼 제품 특정 기록, 과정 및 장비를 사용하는 대신, 제품 중립적인 구성 요소와 매개변수화된 제조 레시피를 구축할 수 있음. 이러한 디자인은 새로운 제품을 지원하기 위해 필요한 디지털 변경을 몇 일 만에 실행할 수 있음. 90% 이상의 작업이 클라우드에서 제어되며, 현장 컴퓨팅을 최소화하면서 안정성을 유지함으로써 더 빠른 시간과 더 적은 자본 투자 새로운 제품 배포를 가능하게 함.\n통합 전자 배치 기록 - 장비 사용 - 어떤 장비를 사용할지 지시, 장비 사용 준비 확인, 장비 작동 제어, 실시간 장비 데이터 수집 및 분석.\n통합 전자 배치 기록 - 원자재 - SAP 시스템과 (ERP) 실시간으로 통합되어 운영자가 사용할 원자재 지시. 바코드가 부착된 자재는 스캔되어 저장 관리되어 정확한 재고 관리 보장. 생산된 제품 중간체는 디지털 제어를 통해 추적되고 저장. 완전히 자동화된 탱크와 혼합 과정을 사용하여 필요한 버퍼가 재고에 따라 생산, 분배. 모든 소모품은 AWS IoT 버튼으로 간단히 추가 재고 요청.\n통합 전자 배치 기록 - 테스트 - Laboratory Information Management System (LIMS)와 통합되어 샘플링 지시. 샘플 라벨 인쇄, 샘플이 픽업 위치에 드롭될 때, 테스트를 위한 모든 정보가 LIMS 시스템으로 전달. QC 랩은 실시간으로 장비 데이터를 캡처하고 추적 및 보안 제어를 수행. QC 테스트가 승인되면, 배치 기록 계산에 필요한 결과는 자동으로 반환.\n통합 전자 배치 기록 - 출시 - 모든 배치 기록 예외는 디지털로 캡처되며, 감독자 및 품질 보증 팀이 실시간으로 검토 가능. 검증된 전자 배치 기록을 활용하면 수백 페이지의 구식 종이 기록을 검토할 필요 없이 자동 예외를 검토하고 승인하여 사이클 시간을 크게 줄임\n공급 체인 - 재료 계획은 통합된 임상 및 운영 계획(C&OP) 시스템과 프로세스, 그리고 SAP ERP 시스템에 의해 주도됨. 구조화된 자재 명세서를 사용하여 원자재가 정시에 주문, 검사 및 제조 스위트로 배송되어 생산을 지원하도록 함. 전자 배치 기록 시스템과의 통합은 재고의 정확성을 보장하고, 재료 계획 프로세스를 알리는 풀 시스템을 활용하게 함.\n품질 보증 - 품질은 데이터 무결성을 보장하고 전사 오류를 제거하며 디지털 프로세스를 검증하도록 설계. 모든 운영 프로세스는 편차, 변경 관리 및 필요한 수정 조치를 문서화하는 통합 품질 관리 시스템에 의해 지원됨. 표준 운영 절차 및 준수 문서에 대한 접근 제어가 가능하며 효율성을 향상시키고 새로운 기술과 소프트웨어의 테스트를 가속화하기 위해, 검증 활동은 요구 사항 추적성을 보장하고 종이 없는 소프트웨어 테스트를 가능하게 하는 전기 Validation Management System을 사용하여 수행됨."
   },
   {
-    "objectID": "blogposts/enzyme_engineering_20231118.html#ginkgo",
-    "href": "blogposts/enzyme_engineering_20231118.html#ginkgo",
-    "title": "DNA assembly News",
-    "section": "",
-    "text": "https://foundrytheory.substack.com/p/improving-a-stubborn-enzyme-with-ai"
+    "objectID": "blogposts/biofoundry_20230503.html#중국-바이오파운드리-현황",
+    "href": "blogposts/biofoundry_20230503.html#중국-바이오파운드리-현황",
+    "title": "Biofoundry",
+    "section": "중국 바이오파운드리 현황",
+    "text": "중국 바이오파운드리 현황\n\n중국에서 20억위안 (약 3700억원, 건축비 포함) 이상 투자되는 바이오파운드리 거점은 세 곳임. 1) 선전 Shenzhen Institute of Synthetic Biology Innovation (20억위안, 2023 구축 완료). 2) 천진 National Synthetic Biotechnology Innovation Center (20억위안, 구축중), 3) 산시 Shanxi Synthetic Biology Industrial Ecological Park (80억위안, 구축중). 바이오파운드리가 명시되어 있지는 않고 합성생물학 플랫폼으로 표현되어 있으나 바이오파운드리 수준의 시설 및 서비스를 구축할 것으로 예상됨.\n중국내 연구소 및 대학의 자체 연구를 위한 바이오파운드리 세 곳을 분석한 결과 국내 바이오파운드리 베타의 3배에서 5배 이상의 수준의 규모를 보유함.\n중국은 10개 이상의 바이오파운드리를 보유하거나 구축중인 것으로 조사됨 (GBA 가입 5개). 구체적으로는 선전 첨단 기술 연구소, 천진 산업 생명 공학 연구소, 천진 대학교 합성 생물학 프론티어 과학 센터, 상하이 국립 단백질 과학 센터, 절강 대학교 항저우 국제 과학 기술 혁신 센터, 베이징 Nutrition & Health Research Institute, 우한 생명공학연구소 고처리량 스크리닝 플랫폼, BGI 생명과학연구소의 공간 다중오믹스 공동 R&D 플랫폼, 란징미생물의 Synbio OS 플랫폼, 다롄화학연구소의 에너지 생명공학 플랫폼 등이 있음 (Biofoundry and its industrial application, https://synbioj.cip.com.cn/article/2023/2096-8280/2023-024.shtml)."
   },
   {
-    "objectID": "blogposts/running_20230225.html",
-    "href": "blogposts/running_20230225.html",
+    "objectID": "blogposts/biofoundry_20230503.html#바이오파운드리-거점",
+    "href": "blogposts/biofoundry_20230503.html#바이오파운드리-거점",
+    "title": "Biofoundry",
+    "section": "바이오파운드리 거점",
+    "text": "바이오파운드리 거점\n\nShenzhen Institute of Synthetic Biology Innovation (선전/심천, 中国科学院深圳先进技术研究院)\n\n프로젝트 총 투자액은 약 20억 위안이며 총 투자액은 소프트웨어 및 하드웨어 장비는 7억 2,220만 위안 (2017년 당시 약 1330억). 대규모 합성생물학 시설은 2022년 말까지 광명생명과학단지(광밍과학도시 창업단지)에 안착해 대규모 장비 구축과 디버깅, 소프트웨어 개발 등을 진행할 예정\n\n\n\n\n\n\n\n참고자료\n\nhttp://isynbio.siat.ac.cn/view.php?id=548\n\n\n\n\nNational Synthetic Biotechnology Innovation Center (천진/텐진, 国家合成生物技术创新中心)\n\n국가합성생물학기술혁신센터는 중국 과학기술부가 추진하는 세 번째 국가기술혁신센터로 2019년 11월 정식 인가, 2019년 착공함. 과학 기술 인프라 플랫폼, 기업 핵심 기술 연구 개발 플랫폼, 서비스 플랫폼, 기업 혁신 센터 등 주요 네 가지 영역. 국제 공동 센터, 지적 재산 운영 관리 센터 및 과학 교육 통합 센터 포함.\nR&D 기지는 총 건축 규모 약 18만 평방미터, 총 투자액은 약 20억 위안이며 2022년에 완공 예정.\n참고자료\n\nhttps://www.gov.cn/xinwen/2019-12/27/content_5464585.htm\n\n\n\n\nShanxi Synthetic Biology Industrial Ecological Park (산시)\n\n중국 생물제조업체 Cathay Biotech는 Shanxi Transition and Comprehensive Reform Demonstration Zone의 Management Committee와 80억 위안(미화 12억 달러) 규모의 Shanxi 합성 생물 산업 생태 공원 공동 건설 합의. 회사는 이 금액 중 40억 1천만 위안을 투자할 계획\n\n\n\n\n\n\n\n참고자료\n\nhttps://kknews.cc/zh-sg/finance/gx2vq2m.html\nhttps://www.yicaiglobal.com/news/cathay-biotech-to-invest-usd5965-million-in-northwest-china-largest-synthetic-biology-project"
+  },
+  {
+    "objectID": "blogposts/biofoundry_20230503.html#자체-연구를-위한-바이오파운드리",
+    "href": "blogposts/biofoundry_20230503.html#자체-연구를-위한-바이오파운드리",
+    "title": "Biofoundry",
+    "section": "자체 연구를 위한 바이오파운드리",
+    "text": "자체 연구를 위한 바이오파운드리\n\nTianjin BioFoundry-Tianjin Institute of Industrial Biotechnology (천진/텐진, 中国科学院天津工业生物技术研究所) ,\n\n합성생물학 분야를 위한 최초 로봇 자동화 장비 독자적 개발 (2012)\n로봇 자동화 시스템으로 DNA 합성 및 조립, 대규모 게놈 편집, 표준화된 프로토콜과 로봇을 통해 높은 처리량 구현. 천진산업생명공학연구소의 자동화 플랫폼은 하루에 300-600개의 자동화된 단일 유전자 클론닝 완료 가능. 플라스미드의 다중 DNA 모듈 조립은 &gt;90% 이상 정확도로 하루 100개의 처리량에 도달. 모델 유기체에 대한 하루 300회 게놈 편집 처리 가능 (2018년).\n참고자료\n\n“Engineering Platforms for Synthetic Biology Research” by CUI Jinming, ZHANG Bingzhao et al. (researchcommons.org)\n\n\n\n\niBioFoundry (항저우 절강대학교)\n\nZJU-Hangzhou Global Scientific에 (항저우) 설립된 자동화된 합성 생물학 시설인 iBioFoundry의 배경, 설계, 운영 및 응용 측면을 소개. 산업용 등급 로봇암을 이용한 완전자동화, 최대 유연성 강화, 장비 고장시 복구전략 강화\n\n\n\n\n\n\n\n4개 모듈로 각 모듈 모두에 로봇암 기반 완전 자동화 구현\n\nDNA 조립 모듈 - 로봇암, Liquid handler 워크스테이션 (8, 96 채널), 나노 디스펜서, 실러, 필러, Thermal cycler, Centrifuge, Stacker, 등\n세포 스크리닝 및 배양 모듈 - 로봇암, liquid handler 워크스테이션, 콜로니피커, 배지 공급장치, 자동진탕배양기 1대, 정치배양기 7대, 고속냉장원심분리기, 플레이트리더, 자동 정제기\n분석 및 탐지 모듈 - 협동로봇암, HPLC, Fragment analyzer, FACS, RTPCR, 분석기, Stacker, 개방형으로 샘플 보충 가능\n샘플라이브러리 모듈 - 로봇암, 극저온 자동저장고, capper, decapper, barcode reader\n\n시설 면에서 바파 베타의 약 5배 이상 수준\n참고자료\n\nhttps://synbioj.cip.com.cn/article/2023/2096-8280/2023-027.shtml\n\n\n\n\nNutrition & Health Research Institute COFCO (베이징)\n\n\n\n\n\n\n효소 개발, 발효 미생물 개발, 산업 미생물 개발\n\n완전자동화 모듈 - 로봇암, 가이드, 컨베이어벨트를 이용해 배양기, 실러, 필러, PCR, 원심분리, 마이크로플레이트리더, 리퀴드 핸들러\n반자동화 모듈 - Qpix450 콜로니피커, 96웰 형질전환기, fragment analyzer, 다중배양기 등\n발효 - HPLC, GC, 냉장고온원심분리기, 배양기, 대형발효기 등 발효 및 공정을 위한 별도의 설비가 있음\n\n바이오파운드리 설비는 베타의 약 2배 수준으로 예상하며 대형 발효기 등의 추가 설비가 있을 것으로 예상\n참고자료\n\nhttp://www.cofconhri.com/biotechnology.html\nhttps://synbioj.cip.com.cn/article/2023/2096-8280/2023-024.shtml"
+  },
+  {
+    "objectID": "blogposts/biofoundry_20230503.html#edinburgh",
+    "href": "blogposts/biofoundry_20230503.html#edinburgh",
+    "title": "Biofoundry",
+    "section": "Edinburgh",
+    "text": "Edinburgh"
+  },
+  {
+    "objectID": "blogposts/AI_20230820.html",
+    "href": "blogposts/AI_20230820.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "구글의 ’버텍스 AI(Vertex AI)’는 특성 추출부터 모델 학습과 저지연 추론에 이르기까지 데이터 과학자와 AI 개발자가 인공지능(AI) 애플리케이션을 더 쉽게 통합하고 모델의 배포 및 유지 관리를 가속화 할 수 있는 관리형 머신러닝(ML) 플랫폼으로 2021년 5월에 발표(보기)되었다\n버텍스 AI는 필요한 모든 도구를 갖춘 단일 플랫폼으로 특별히 머신러닝 학습을 필요로 하지 않고 데이터, 프로토타입, 테스트, 모델 배치, 모델 해석 및 생산 모니터링을 할 수 있다. 즉, 기본 지식만 있으면 누구나 이 툴을 사용해 머신러닝 모델을 구현하고 배포할 수 있다.\nhttps://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ko\nhttps://www.aitimes.kr/news/articleView.html?idxno=27860\nhttps://bcho.tistory.com/1383\n\n\n\n\n\n구조는 그림 1과 같다. 개발자 혹은 사용자가 최적화된 AI 모델을 학습하여 다양한 모델을 생성한 다음, AI 모델 레포지토리에 등록한다. 이 때 원활한 검색을 위해 모델의 특징을 등록하는데, 제안하는 시스템에서는 이를 컨텍스트라고 정의한다. 등록된 모델은 컨텍스트를 기반으로 관리되며, 검색 조건도 컨텍스트를 활용한다. IoT 디바이스는 필요 시 AI 모델 레포지토리에서 AI 모델을 검색한 다음, 배포 기능을 이용해 모델을 다운로드받는다. 이후 선택적으로 여러 AI 모델을 활용하여 on-device AI를 수행한다.\n참고자료: 이석준, 최충재, 성낙명.(2022).IoT 온디바이스 AI 실현을 위한 AI 모델 레포지토리.한국정보통신학회 종합학술대회 논문집,26(2),597-599.\n\n\n\n\n\n간소화된 모델 튜닝과 배포 도입 - 엔비디아가 간편한 통합 툴킷인 엔비디아 AI 워크벤치(NVIDIA AI Workbench)를 발표했다. 이를 통해 개발자는 PC 또는 워크스테이션에서 사전 학습된 생성형 AI 모델을 빠르게 생성, 테스트, 맞춤화한 후 거의 모든 데이터센터, 공용 클라우드, 엔비디아 DGX 클라우드 등으로 확장할 수 있다.\nAI 워크벤치는 기업이 AI 프로젝트를 시작할 때 겪는 복잡성을 최소화한다. 로컬 시스템에서 실행되는 간소화된 인터페이스를 통해 액세스할 수 있으며, 개발자는 맞춤형 데이터를 사용해 허깅페이스(Hugging Face), 깃허브(GitHub), 엔비디아 NGC와 같은 인기 리포지토리에서 모델을 맞춤화한 다음 여러 플랫폼에서 쉽게 공유할 수 있다.\n엔비디아 AI 워크벤치를 사용하면 몇 번의 클릭만으로 생성형 AI를 맞춤화하고 실행할 수 있다. 이를 통해 오픈 소스 리포지토리와 엔비디아 AI 플랫폼에서 필요한 모든 엔터프라이즈급 모델, 프레임워크, 소프트웨어 개발 키트, 라이브러리를 통합된 개발자 툴킷으로 가져올 수 있다.\nhttps://www.elec4.co.kr/article/articleView.asp?idx=31589\n\n\n\n\n\n데이터 처리에 중점을 둔 저장소이다. 에어플로우는 테스크가 이상적으로 멱등성의 법칙을 따라야 한다는 철학을 갖고 개발되었다. 이를 간단히 설명하자면 목적지 시스템에서 이중 데이터가 생성되지 않으며 테스크의 결과는 언제나 같아야 한다는 것이다.\n에어플로우는 한마디로 일련을 일들을 순차적으로 진행시켜주는 프로젝트 관리자.\nhttps://lsjsj92.tistory.com/631"
+  },
+  {
+    "objectID": "blogposts/AI_20230820.html#vertex-ai",
+    "href": "blogposts/AI_20230820.html#vertex-ai",
+    "title": "Untitled",
+    "section": "",
+    "text": "구글의 ’버텍스 AI(Vertex AI)’는 특성 추출부터 모델 학습과 저지연 추론에 이르기까지 데이터 과학자와 AI 개발자가 인공지능(AI) 애플리케이션을 더 쉽게 통합하고 모델의 배포 및 유지 관리를 가속화 할 수 있는 관리형 머신러닝(ML) 플랫폼으로 2021년 5월에 발표(보기)되었다\n버텍스 AI는 필요한 모든 도구를 갖춘 단일 플랫폼으로 특별히 머신러닝 학습을 필요로 하지 않고 데이터, 프로토타입, 테스트, 모델 배치, 모델 해석 및 생산 모니터링을 할 수 있다. 즉, 기본 지식만 있으면 누구나 이 툴을 사용해 머신러닝 모델을 구현하고 배포할 수 있다.\nhttps://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ko\nhttps://www.aitimes.kr/news/articleView.html?idxno=27860\nhttps://bcho.tistory.com/1383"
+  },
+  {
+    "objectID": "blogposts/AI_20230820.html#ai-모델-레포지토리",
+    "href": "blogposts/AI_20230820.html#ai-모델-레포지토리",
+    "title": "Untitled",
+    "section": "",
+    "text": "구조는 그림 1과 같다. 개발자 혹은 사용자가 최적화된 AI 모델을 학습하여 다양한 모델을 생성한 다음, AI 모델 레포지토리에 등록한다. 이 때 원활한 검색을 위해 모델의 특징을 등록하는데, 제안하는 시스템에서는 이를 컨텍스트라고 정의한다. 등록된 모델은 컨텍스트를 기반으로 관리되며, 검색 조건도 컨텍스트를 활용한다. IoT 디바이스는 필요 시 AI 모델 레포지토리에서 AI 모델을 검색한 다음, 배포 기능을 이용해 모델을 다운로드받는다. 이후 선택적으로 여러 AI 모델을 활용하여 on-device AI를 수행한다.\n참고자료: 이석준, 최충재, 성낙명.(2022).IoT 온디바이스 AI 실현을 위한 AI 모델 레포지토리.한국정보통신학회 종합학술대회 논문집,26(2),597-599."
+  },
+  {
+    "objectID": "blogposts/AI_20230820.html#ai-워크벤치",
+    "href": "blogposts/AI_20230820.html#ai-워크벤치",
+    "title": "Untitled",
+    "section": "",
+    "text": "간소화된 모델 튜닝과 배포 도입 - 엔비디아가 간편한 통합 툴킷인 엔비디아 AI 워크벤치(NVIDIA AI Workbench)를 발표했다. 이를 통해 개발자는 PC 또는 워크스테이션에서 사전 학습된 생성형 AI 모델을 빠르게 생성, 테스트, 맞춤화한 후 거의 모든 데이터센터, 공용 클라우드, 엔비디아 DGX 클라우드 등으로 확장할 수 있다.\nAI 워크벤치는 기업이 AI 프로젝트를 시작할 때 겪는 복잡성을 최소화한다. 로컬 시스템에서 실행되는 간소화된 인터페이스를 통해 액세스할 수 있으며, 개발자는 맞춤형 데이터를 사용해 허깅페이스(Hugging Face), 깃허브(GitHub), 엔비디아 NGC와 같은 인기 리포지토리에서 모델을 맞춤화한 다음 여러 플랫폼에서 쉽게 공유할 수 있다.\n엔비디아 AI 워크벤치를 사용하면 몇 번의 클릭만으로 생성형 AI를 맞춤화하고 실행할 수 있다. 이를 통해 오픈 소스 리포지토리와 엔비디아 AI 플랫폼에서 필요한 모든 엔터프라이즈급 모델, 프레임워크, 소프트웨어 개발 키트, 라이브러리를 통합된 개발자 툴킷으로 가져올 수 있다.\nhttps://www.elec4.co.kr/article/articleView.asp?idx=31589"
+  },
+  {
+    "objectID": "blogposts/AI_20230820.html#airflow",
+    "href": "blogposts/AI_20230820.html#airflow",
+    "title": "Untitled",
+    "section": "",
+    "text": "데이터 처리에 중점을 둔 저장소이다. 에어플로우는 테스크가 이상적으로 멱등성의 법칙을 따라야 한다는 철학을 갖고 개발되었다. 이를 간단히 설명하자면 목적지 시스템에서 이중 데이터가 생성되지 않으며 테스크의 결과는 언제나 같아야 한다는 것이다.\n에어플로우는 한마디로 일련을 일들을 순차적으로 진행시켜주는 프로젝트 관리자.\nhttps://lsjsj92.tistory.com/631"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "한국생명공학연구원 (KRIBB) 합성생물학연구소 책임연구원 (2012 ~)\n과학기술연합대학원대학교 (UST) 생명공학과 부교수 (2016 ~)\n한국과학기술원 (KAIST) 바이오및뇌공학과 겸직교수 (2022 ~)\n한국과학기술원 (KAIST) 공학생물학 대학원 겸직교수 (2022 ~)\n외교부 과학기술외교자문위원 (2022 ~)"
+  },
+  {
+    "objectID": "about.html#김하성-haseong-kim",
+    "href": "about.html#김하성-haseong-kim",
+    "title": "About",
+    "section": "",
+    "text": "한국생명공학연구원 (KRIBB) 합성생물학연구소 책임연구원 (2012 ~)\n과학기술연합대학원대학교 (UST) 생명공학과 부교수 (2016 ~)\n한국과학기술원 (KAIST) 바이오및뇌공학과 겸직교수 (2022 ~)\n한국과학기술원 (KAIST) 공학생물학 대학원 겸직교수 (2022 ~)\n외교부 과학기술외교자문위원 (2022 ~)"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "Untitled\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nAutomation\n\n\n\n\n\n\n\nsyntheic biology\n\n\nautomation\n\n\nbiofoundry\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nBiofoundry\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiofoundry\n\n\nautomation\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nbiosensors\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiosensors\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nBiofoundry\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiofoundry\n\n\nautomation\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nsynthetic biology\n\n\n\n\n\n\n\nsyntheic biology\n\n\nbiofoundry\n\n\nautomation\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nRunning\n\n\n\n\n\n\n\nrunning\n\n\nlife\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nDNA assembly News\n\n\n\n\n\n\n\nsyntheic biology\n\n\ndna assembly\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nDNA assembly News\n\n\n\n\n\n\n\nsyntheic biology\n\n\ndna assembly\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nMongoDB\n\n\n\n\n\n\n\nmongodb\n\n\ndatabase\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nHaseong\n\n\n\n\n\n\n  \n\n\n\n\nRunning\n\n\n\n\n\n\n\nrunning\n\n\nlife\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2023\n\n\nHaseong\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blogposts/automation_202308017.html",
+    "href": "blogposts/automation_202308017.html",
+    "title": "Automation",
+    "section": "",
+    "text": "https://www.embopress.org/doi/full/10.15252/msb.20209942\n  \n  복잡한 생활 시스템에 대한 우리의 이해는 높은 처리량으로 실험을 수행할 수 있는 우리의 능력에 의해 제한됩니다. 로봇 시스템은 많은 전통적인 수동 피펫팅 프로토콜을 자동화했지만 소프트웨어 제한으로 인해 수백 개의 실험을 동시에 조작, 유지 및 모니터링하는 데 필요한 고급 조작이 불가능했습니다. 여기에서는 메타 모집단 역학 시뮬레이션과 같은 사용자 지정 고처리량 실험에 필요한 복잡한 피펫팅 패턴을 실행할 수 있는 오픈 소스 Python 플랫폼인 Pyhamilton을 소개합니다. 통합 플레이트 리더를 사용하여 로봇 방법을 실시간으로 조정하기 위해 정기적인 밀도 측정을 수행함으로써 사용자 개입 없이 며칠 동안 거의 500개에 가까운 원격 모니터링 세균 배양을 대수 성장 상태로 유지합니다. 이러한 기능을 사용하여 우리는 탄소, 질소 및 인 피트니스 환경을 종합적으로 샘플링하기 위해 3중으로 100가지 연속 배양 조건의 형광 단백질 발현 및 성장률을 모니터링하여 생물 반응기 단백질 생산을 체계적으로 최적화합니다. 우리의 결과는 유연한 소프트웨어가 기존 하드웨어에 힘을 실어 새로운 유형과 규모의 실험을 가능하게 하고 생물 제조에서 기초 생물학에 이르는 영역에 힘을 실어줄 수 있음을 보여줍니다.\n\n\n\n    https://pubs.acs.org/doi/full/10.1021/acssynbio.0c00599\n    \n    분자 복제는 DNA 조립과 표적 숙주에서의 발현으로 구성되기 때문에 합성 생물학의 핵심입니다. 그러나 현재 복제는 자동화의 이점이 큰 수동적이고 시간 소모적이며 반복적인 프로세스인 경우가 가장 많습니다. 완전한 합리적인 클로닝 절차의 자동화, 즉 DNA 생성에서 표적 숙주에서의 발현까지의 자동화에는 다양한 작업과 기계의 통합이 포함됩니다. 이러한 워크플로우의 예는 드물고, 특히 설계가 합리적이고( 즉 , DNA 서열 설계가 고정되어 있으며 무작위 라이브러리를 기반으로 하지 않음) 표적 숙주가 유전적으로 다루기 쉽지 않은 경우( 예:, 열충격 변형에 민감하지 않음). 이 연구에서는 플라스미드의 합리적인 구성과 생명공학 플랫폼 유기체인 코리네박테리움 글루타미쿰 으로의 후속 컨쥬게이티브 전송을 위한 자동화된 워크플로가 제시됩니다. 전체 작업 흐름에는 맞춤형 소프트웨어 도구가 수반됩니다. 응용 예로서 조절자 Lrp를 기반으로 합리적으로 설계된 전사 인자-바이오 센서 라이브러리를 구축하고 특성화했습니다. 동적 범위가 개선된 센서를 얻었고 스크리닝에서 얻은 통찰력은 C. 글루타미쿰 Lrp의 이중 조절기 기능에 대한 증거를 제공했습니다.\n\n\n\n\nhttps://journal.code4lib.org/\n\n\n\n\n\n다중 부분 DNA 조립은 합성 및 분자 생물학의 많은 프로젝트에서 물리적 출발점입니다. 광범위한 DNA 구조 라이브러리를 구축하여 유전자 설계 공간을 탐색하는 능력은 프로그래밍된 생물학적 시스템을 만드는 데 필수적입니다. 합성 생물학 커뮤니티에서 채택된 여러 DNA 조립 방법 및 표준으로 인해 DNA 조립 프로세스의 자동화가 이제 큰 관심을 받고 있습니다. 자동화를 통해 접근 가능한 디자인 공간을 늘리는 동시에 연구자의 시간을 덜 사용하여 더 큰 빌드를 만들 수 있습니다. 그러나 이러한 이점은 현재 장비와 소모품 모두에 높은 비용을 초래합니다. 여기에서는 DNA-BOT(OpenTrons)의 BASIC을 사용하여 저비용 DNA 어셈블리를 도입하여 이러한 제한 사항을 해결합니다. 이 목적을 위해, 우리는 오픈 소스 소프트웨어 패키지를 개발하고 10개의 유전 부분으로 구성된 88개의 구성을 동시에 조립하고 3개 유전자 오페론에 대한 프로모터, 리보솜 결합 부위 및 유전자 순서 설계 공간을 평가하여 DNA-BOT의 성능을 시연했습니다. 88개의 모든 구성은 구성당 $1.50–$5.50의 소모품 비용으로 높은 정확도로 조립되었습니다. 이것은 DNA-BOT의 효율성, 정확성 및 경제성을 보여주며 대부분의 실험실에서 접근 가능하고 자동화된 DNA 조립을 민주화합니다."
+  },
+  {
+    "objectID": "blogposts/automation_202308017.html#논문",
+    "href": "blogposts/automation_202308017.html#논문",
+    "title": "Automation",
+    "section": "",
+    "text": "https://www.embopress.org/doi/full/10.15252/msb.20209942\n  \n  복잡한 생활 시스템에 대한 우리의 이해는 높은 처리량으로 실험을 수행할 수 있는 우리의 능력에 의해 제한됩니다. 로봇 시스템은 많은 전통적인 수동 피펫팅 프로토콜을 자동화했지만 소프트웨어 제한으로 인해 수백 개의 실험을 동시에 조작, 유지 및 모니터링하는 데 필요한 고급 조작이 불가능했습니다. 여기에서는 메타 모집단 역학 시뮬레이션과 같은 사용자 지정 고처리량 실험에 필요한 복잡한 피펫팅 패턴을 실행할 수 있는 오픈 소스 Python 플랫폼인 Pyhamilton을 소개합니다. 통합 플레이트 리더를 사용하여 로봇 방법을 실시간으로 조정하기 위해 정기적인 밀도 측정을 수행함으로써 사용자 개입 없이 며칠 동안 거의 500개에 가까운 원격 모니터링 세균 배양을 대수 성장 상태로 유지합니다. 이러한 기능을 사용하여 우리는 탄소, 질소 및 인 피트니스 환경을 종합적으로 샘플링하기 위해 3중으로 100가지 연속 배양 조건의 형광 단백질 발현 및 성장률을 모니터링하여 생물 반응기 단백질 생산을 체계적으로 최적화합니다. 우리의 결과는 유연한 소프트웨어가 기존 하드웨어에 힘을 실어 새로운 유형과 규모의 실험을 가능하게 하고 생물 제조에서 기초 생물학에 이르는 영역에 힘을 실어줄 수 있음을 보여줍니다.\n\n\n\n    https://pubs.acs.org/doi/full/10.1021/acssynbio.0c00599\n    \n    분자 복제는 DNA 조립과 표적 숙주에서의 발현으로 구성되기 때문에 합성 생물학의 핵심입니다. 그러나 현재 복제는 자동화의 이점이 큰 수동적이고 시간 소모적이며 반복적인 프로세스인 경우가 가장 많습니다. 완전한 합리적인 클로닝 절차의 자동화, 즉 DNA 생성에서 표적 숙주에서의 발현까지의 자동화에는 다양한 작업과 기계의 통합이 포함됩니다. 이러한 워크플로우의 예는 드물고, 특히 설계가 합리적이고( 즉 , DNA 서열 설계가 고정되어 있으며 무작위 라이브러리를 기반으로 하지 않음) 표적 숙주가 유전적으로 다루기 쉽지 않은 경우( 예:, 열충격 변형에 민감하지 않음). 이 연구에서는 플라스미드의 합리적인 구성과 생명공학 플랫폼 유기체인 코리네박테리움 글루타미쿰 으로의 후속 컨쥬게이티브 전송을 위한 자동화된 워크플로가 제시됩니다. 전체 작업 흐름에는 맞춤형 소프트웨어 도구가 수반됩니다. 응용 예로서 조절자 Lrp를 기반으로 합리적으로 설계된 전사 인자-바이오 센서 라이브러리를 구축하고 특성화했습니다. 동적 범위가 개선된 센서를 얻었고 스크리닝에서 얻은 통찰력은 C. 글루타미쿰 Lrp의 이중 조절기 기능에 대한 증거를 제공했습니다.\n\n\n\n\nhttps://journal.code4lib.org/"
+  },
+  {
+    "objectID": "blogposts/automation_202308017.html#dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology",
+    "href": "blogposts/automation_202308017.html#dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology",
+    "title": "Automation",
+    "section": "",
+    "text": "다중 부분 DNA 조립은 합성 및 분자 생물학의 많은 프로젝트에서 물리적 출발점입니다. 광범위한 DNA 구조 라이브러리를 구축하여 유전자 설계 공간을 탐색하는 능력은 프로그래밍된 생물학적 시스템을 만드는 데 필수적입니다. 합성 생물학 커뮤니티에서 채택된 여러 DNA 조립 방법 및 표준으로 인해 DNA 조립 프로세스의 자동화가 이제 큰 관심을 받고 있습니다. 자동화를 통해 접근 가능한 디자인 공간을 늘리는 동시에 연구자의 시간을 덜 사용하여 더 큰 빌드를 만들 수 있습니다. 그러나 이러한 이점은 현재 장비와 소모품 모두에 높은 비용을 초래합니다. 여기에서는 DNA-BOT(OpenTrons)의 BASIC을 사용하여 저비용 DNA 어셈블리를 도입하여 이러한 제한 사항을 해결합니다. 이 목적을 위해, 우리는 오픈 소스 소프트웨어 패키지를 개발하고 10개의 유전 부분으로 구성된 88개의 구성을 동시에 조립하고 3개 유전자 오페론에 대한 프로모터, 리보솜 결합 부위 및 유전자 순서 설계 공간을 평가하여 DNA-BOT의 성능을 시연했습니다. 88개의 모든 구성은 구성당 $1.50–$5.50의 소모품 비용으로 높은 정확도로 조립되었습니다. 이것은 DNA-BOT의 효율성, 정확성 및 경제성을 보여주며 대부분의 실험실에서 접근 가능하고 자동화된 DNA 조립을 민주화합니다."
+  },
+  {
+    "objectID": "blogposts/biosensors_20230503.html",
+    "href": "blogposts/biosensors_20230503.html",
+    "title": "biosensors",
+    "section": "",
+    "text": "Biosensors\n\nBiosensors and Machine Learning for Enhanced Detection, Stratification, and Classification of Cells: A Review\n\n\nBiological cells, by definition, are the basic units which contain the fundamental molecules of life of which all living things are composed. Understanding how they function and differentiating cells from one another therefore is of paramount importance for disease diagnostics as well as therapeutics. Sensors focusing on the detection and stratification of cells have gained popularity as technological advancements have allowed for the miniaturization of various components inching us closer to Point-of-Care (POC) solutions with each passing day. Furthermore, Machine Learning has allowed for enhancement in analytical capabilities of these various biosensing modalities, especially the challenging task of classification of cells into various categories using a data-driven approach rather than physics-driven. In this review, we provide an account of how Machine Learning has been applied explicitly to sensors that detect and classify cells. We also provide a comparison of how different sensing modalities and algorithms affect the classifier accuracy and the dataset size required.\n\n정의에 따르면 생물학적 세포는 모든 생물을 구성하는 생명의 기본 분자를 포함하는 기본 단위입니다. 따라서 세포가 어떻게 기능하고 세포를 구별하는지 이해하는 것은 질병 진단 및 치료에 있어 가장 중요합니다. 기술 발전으로 다양한 구성 요소의 소형화가 가능해짐에 따라 세포 감지 및 층화에 초점을 맞춘 센서가 인기를 얻었고, 날이 갈수록 POC(Point-of-Care) 솔루션에 가까워졌습니다. 또한 머신 러닝은 이러한 다양한 바이오센싱 양식의 분석 기능, 특히 물리학 중심이 아닌 데이터 중심 접근 방식을 사용하여 세포를 다양한 범주로 분류하는 어려운 작업을 향상시킬 수 있습니다. 이 리뷰에서는 기계 학습이 세포를 감지하고 분류하는 센서에 어떻게 명시적으로 적용되었는지에 대한 설명을 제공합니다. 또한 서로 다른 감지 양식 및 알고리즘이 분류기 정확도 및 필요한 데이터 세트 크기에 미치는 영향에 대한 비교도 제공합니다."
+  },
+  {
+    "objectID": "blogposts/dna_synthesis_20230410.html",
+    "href": "blogposts/dna_synthesis_20230410.html",
+    "title": "DNA assembly News",
+    "section": "",
+    "text": "https://www.elegenbio.com/\n2023.02.02: Elegen은 1:65,000 bp 미만의 고객 확인 오류율로 단 6-8 영업일 만에 배송되는 최대 7kb의 고정확도 긴 DNA를 제공 link]{.underline}\n\n\n\n\n\nhttps://www.synbiobeta.com/read/oriciro-announces-series-b2-financing-to-advance-cell-free-dna-technology-for-innovative-therapeutics-and-synthetic-biology\nhttps://www.synbiobeta.com/read/why-you-should-look-to-tokyo-for-the-cell-free-amplification-of-large-genome-scale-dna\n\n\n\n\n\nhttps://link.springer.com/article/10.1007/s11427-022-2252-0\n\n\n\n\n\nhttps://synbioj.cip.com.cn/article/2023/2096-8280/2023-036.shtml"
+  },
+  {
+    "objectID": "blogposts/dna_synthesis_20230410.html#elegenbio",
+    "href": "blogposts/dna_synthesis_20230410.html#elegenbio",
+    "title": "DNA assembly News",
+    "section": "",
+    "text": "https://www.elegenbio.com/\n2023.02.02: Elegen은 1:65,000 bp 미만의 고객 확인 오류율로 단 6-8 영업일 만에 배송되는 최대 7kb의 고정확도 긴 DNA를 제공 link]{.underline}"
+  },
+  {
+    "objectID": "blogposts/dna_synthesis_20230410.html#oriciro",
+    "href": "blogposts/dna_synthesis_20230410.html#oriciro",
+    "title": "DNA assembly News",
+    "section": "",
+    "text": "https://www.synbiobeta.com/read/oriciro-announces-series-b2-financing-to-advance-cell-free-dna-technology-for-innovative-therapeutics-and-synthetic-biology\nhttps://www.synbiobeta.com/read/why-you-should-look-to-tokyo-for-the-cell-free-amplification-of-large-genome-scale-dna"
+  },
+  {
+    "objectID": "blogposts/dna_synthesis_20230410.html#towards-high-density-storage-of-text-and-images-into-dna-by-the-xiao-pang-codec-system",
+    "href": "blogposts/dna_synthesis_20230410.html#towards-high-density-storage-of-text-and-images-into-dna-by-the-xiao-pang-codec-system",
+    "title": "DNA assembly News",
+    "section": "",
+    "text": "https://link.springer.com/article/10.1007/s11427-022-2252-0"
+  },
+  {
+    "objectID": "blogposts/dna_synthesis_20230410.html#progress-and-prospect-of-ultrasonic-liquid-transfer-and-low-volume-liquid-transfer-technology",
+    "href": "blogposts/dna_synthesis_20230410.html#progress-and-prospect-of-ultrasonic-liquid-transfer-and-low-volume-liquid-transfer-technology",
+    "title": "DNA assembly News",
+    "section": "",
+    "text": "https://synbioj.cip.com.cn/article/2023/2096-8280/2023-036.shtml"
+  },
+  {
+    "objectID": "blogposts/mongodb.html",
+    "href": "blogposts/mongodb.html",
+    "title": "MongoDB",
+    "section": "",
+    "text": "MongoDB docker 설치"
+  },
+  {
+    "objectID": "blogposts/running_20230409.html",
+    "href": "blogposts/running_20230409.html",
     "title": "Running",
     "section": "",
-    "text": "일요일 점심 후에 달리기 시작. 몸무게가 조금 줄어서인지 두 달만에 달리는 것 치고는 몸이 무겁지 않았다.\n\n\n\n수변공원\n\n\n수변공원에서 시작해서 다리 건너 세종문화회관까지 한 번 쉬고\n\n\n\n세종문화회관\n\n\n중앙공원, 호수공원을 가로질러서\n\n\n\n중앙공원\n\n\n\n\n\n호수공원\n\n\n다리 건너\n\n\n\n금강\n\n\n이응다리까지 완주\n\n\n\n이응다리\n\n\n11.2km / 1시간30분 (3시10분 ~ 4시50분)"
+    "text": "점심 전 도착을 목표로 달리기 시작\n\n\n\n\n\n날이 참 좋음\n\n\n\n\n\n다리 건너고\n\n\n\n\n\n명당\n\n\n\n\n\n다리 밑 그늘에서 잠깐 쉬고\n\n\n\n\n\n민이랑 자전거타고 서점가는 길 (참교육길)\n\n\n\n\n\n돌탑\n\n\n\n\n\n이응다리 아래서 잠깐 쉬고\n\n\n\n\n\n달리고\n\n\n\n\n\n달리고\n\n\n\n\n\n끝\n\n\n\n\n\n9.2 킬로"
   },
   {
-    "objectID": "blogposts/synthetic_biology_20230503.html",
-    "href": "blogposts/synthetic_biology_20230503.html",
-    "title": "synthetic biology",
-    "section": "",
-    "text": "https://www.sciencedirect.com/science/article/pii/S2665906921000179#bib5\nSynthetic biology landscape and community in Germany\n\n\nDespite its start in the early 2000s, synthetic biology is still overall perceived as a young discipline. In some countries, such as the US, synthetic biology is academically and industrially established, while in others, including Germany, it is still an upcoming field of research. Issues with funding schemes, commercial translation of technologies, public perception, and regulations need to be addressed to establish synthetic biology as a key discipline of the 21st century. This perspective article reviews the German and European synthetic biology landscape and how the German Association for Synthetic Biology (GASB) is addressing the above-mentioned challenges with its events and community-building activities.\n\n2000년대 초반에 시작되었음에도 불구하고 합성 생물학은 여전히 전반적으로 젊은 분야로 인식되고 있습니다. 미국과 같은 일부 국가에서는 합성생물학이 학문적, 산업적으로 확립되어 있는 반면, 독일을 포함한 다른 국가에서는 여전히 향후 연구 분야입니다. 자금 조달 계획, 기술의 상업적 번역, 대중의 인식 및 규정과 관련된 문제를 해결하여 합성 생물학을 21세기의 핵심 분야로 확립해야 합니다. 이 관점 기사는 독일과 유럽의 합성 생물학 환경과 GASB(독일 합성 생물학 협회)가 이벤트 및 커뮤니티 구축 활동을 통해 위에서 언급한 문제를 해결하는 방법을 검토합니다."
-  },
-  {
-    "objectID": "blogposts/synthetic_biology_20230503.html#독일",
-    "href": "blogposts/synthetic_biology_20230503.html#독일",
-    "title": "synthetic biology",
-    "section": "",
-    "text": "https://www.sciencedirect.com/science/article/pii/S2665906921000179#bib5\nSynthetic biology landscape and community in Germany\n\n\nDespite its start in the early 2000s, synthetic biology is still overall perceived as a young discipline. In some countries, such as the US, synthetic biology is academically and industrially established, while in others, including Germany, it is still an upcoming field of research. Issues with funding schemes, commercial translation of technologies, public perception, and regulations need to be addressed to establish synthetic biology as a key discipline of the 21st century. This perspective article reviews the German and European synthetic biology landscape and how the German Association for Synthetic Biology (GASB) is addressing the above-mentioned challenges with its events and community-building activities.\n\n2000년대 초반에 시작되었음에도 불구하고 합성 생물학은 여전히 전반적으로 젊은 분야로 인식되고 있습니다. 미국과 같은 일부 국가에서는 합성생물학이 학문적, 산업적으로 확립되어 있는 반면, 독일을 포함한 다른 국가에서는 여전히 향후 연구 분야입니다. 자금 조달 계획, 기술의 상업적 번역, 대중의 인식 및 규정과 관련된 문제를 해결하여 합성 생물학을 21세기의 핵심 분야로 확립해야 합니다. 이 관점 기사는 독일과 유럽의 합성 생물학 환경과 GASB(독일 합성 생물학 협회)가 이벤트 및 커뮤니티 구축 활동을 통해 위에서 언급한 문제를 해결하는 방법을 검토합니다."
-  },
-  {
-    "objectID": "lectures.html",
-    "href": "lectures.html",
+    "objectID": "media.html",
+    "href": "media.html",
     "title": "Lectures",
     "section": "",
-    "text": "[2023년 KAIST] [생물분석기술]\n[2023년 1학기 UST 대학원 전공강의] [시스템합성생물학]"
+    "text": "[2022-11-30] [동아사이언스] 코로나 파괴 인공효소 만드는 ‘합성생물학’ 혁신 ‘눈앞’\n[2022-07-25] [바이오인프로] 차세대 유전체 합성 연구개발 동향 및 전망\n[2022-07-22] [2022 바이오 미래유망기술 시리즈 플랫폼바이오] 레드·그린·화이트바이오 혁신의 공통 엔진인 플랫폼바이오"
   },
   {
-    "objectID": "lectures.html#section",
-    "href": "lectures.html#section",
+    "objectID": "media.html#section",
+    "href": "media.html#section",
     "title": "Lectures",
     "section": "",
-    "text": "[2023년 KAIST] [생물분석기술]\n[2023년 1학기 UST 대학원 전공강의] [시스템합성생물학]"
+    "text": "[2022-11-30] [동아사이언스] 코로나 파괴 인공효소 만드는 ‘합성생물학’ 혁신 ‘눈앞’\n[2022-07-25] [바이오인프로] 차세대 유전체 합성 연구개발 동향 및 전망\n[2022-07-22] [2022 바이오 미래유망기술 시리즈 플랫폼바이오] 레드·그린·화이트바이오 혁신의 공통 엔진인 플랫폼바이오"
   },
   {
-    "objectID": "lectures.html#section-1",
-    "href": "lectures.html#section-1",
-    "title": "Lectures",
-    "section": "2022",
-    "text": "2022\n\n[2022년 KAIST] [생물분석기술]\n[2022년 KRIBB 연구데이터 분석과정] R을 이용한 생명데이터 분석 full\n[2022년 1학기 UST 대학원 전공강의] [시스템합성생물학]"
-  },
-  {
-    "objectID": "lectures.html#section-2",
-    "href": "lectures.html#section-2",
+    "objectID": "media.html#section-1",
+    "href": "media.html#section-1",
     "title": "Lectures",
     "section": "2021",
-    "text": "2021\n\n[2021년 2학기 UST 대학원 전공강의] [현장연구A] \n[2021년 KRIBB 연구데이터 분석과정] R을 이용한 생명데이터 분석 short\n[2021년 1학기 UST 대학원 전공강의] [현장연구E] \n[2021년 1학기 UST 대학원 일반강의] 데이터 사이언스를 위한 R 프로그래밍"
+    "text": "2021\n\n[2021-10-12] [바이오인와치] 제조업을 혁신할 자연지향설계(Nature Co-Design) 시대 도래\n[2021-04-31] [한국과총] 인류 번영을 위한 혁신기술, 합성생물학\n[2021-02-24] [한국경제, 유료] 생물학의 산업적 활용을 촉진하는 바이오파운드리 구축 필요"
   },
   {
-    "objectID": "lectures.html#section-3",
-    "href": "lectures.html#section-3",
+    "objectID": "media.html#section-2",
+    "href": "media.html#section-2",
     "title": "Lectures",
     "section": "2020",
-    "text": "2020\n\n[2020년 KRIBB 연구데이터 분석과정] R을 이용한 생명데이터 분석\n[2020년 2학기 UST 대학원 일반강의] R로 배우는 기초통계\n[2020년 1학기 UST 대학원 일반강의] R 프로그래밍과 데이터분석"
+    "text": "2020\n\n[2020-12-17] [전자신문 외 15건] AI 만난 미생물 바이오센서, 유해물질 95% 식별\n[2020-7-30] [한국생물공학회] 딥러닝(CNN)기반 DNA 서열분석 가이드\n[2020-5-1] [바이오리소스 인사이트 Vol5] 합성생물학과 생명연구자원\n[2020-2-3] [바이오인에세이 감수] 2020 바이오미래기유망기술의 이야기-바이오파운드리\n[2020-2-11] [바이오인 기술 추천 및 기초자료 작성] 2020년 10대 바이오 미래유망기술 바이오파운드리"
   },
   {
-    "objectID": "lectures.html#section-4",
-    "href": "lectures.html#section-4",
+    "objectID": "media.html#section-3",
+    "href": "media.html#section-3",
     "title": "Lectures",
     "section": "2019",
-    "text": "2019\n\n[2019년 12월 생물공학회 교육 워크샵] 기계학습 x 생물공학\n[2019년 2학기 UST 대학원 일반강의] R로 배우는 기초통계\n[2019년 1학기 UST 대학원 일반강의] R 프로그래밍과 데이터분석"
+    "text": "2019\n\n[2019-12-31] [바이오인에세이 감수] 2019 바이오미래기유망기술의 이야기-유전자회로 공정 예측기술\n[2019-12-04] [바이오인프로] 바이오파운드리 동향\n[2019-09-17] [한국경제] 자동화 로봇 기술 덕분에 10년 걸리던 표현형 데이터 수일 內 확보"
+  },
+  {
+    "objectID": "media.html#before-2016",
+    "href": "media.html#before-2016",
+    "title": "Lectures",
+    "section": "before 2016",
+    "text": "before 2016\n\n[2016-09-20] [보도자료] 저비용·고효율 맞춤형 미생물 검색 형광 플랫폼 개발\n[2015-07-27] [바이오인프로] 합성생물학의 최신 연구동향\n[2013-02-03] [지능형합성생물학연구단] 합성생물학 부품 표준화 및 설계 정형화에 관한 연구 동향"
   }
 ]
