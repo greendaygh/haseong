@@ -2,70 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://greenday.kr/smallsee.html</loc>
-    <lastmod>2023-12-06T22:43:34.914Z</lastmod>
+    <lastmod>2023-12-06T15:00:55.417Z</lastmod>
   </url>
   <url>
     <loc>https://greenday.kr/lectures.html</loc>
-    <lastmod>2023-12-06T22:43:34.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/synthetic_biology_20230503.html</loc>
-    <lastmod>2023-12-06T22:43:33.408Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/running_20230225.html</loc>
-    <lastmod>2023-12-06T22:43:32.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/enzyme_engineering_20231118.html</loc>
-    <lastmod>2023-12-06T22:43:31.719Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/data_ip_20230503.html</loc>
-    <lastmod>2023-12-06T22:43:30.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/biofoundry_20230503.html</loc>
-    <lastmod>2023-12-06T22:43:30.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/AI_20230820.html</loc>
-    <lastmod>2023-12-06T22:43:28.997Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/biofoudnry_patent.html</loc>
-    <lastmod>2023-12-06T22:43:27.382Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/about.html</loc>
-    <lastmod>2023-12-06T22:43:26.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blog.html</loc>
-    <lastmod>2023-12-06T22:43:28.609Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/automation_202308017.html</loc>
-    <lastmod>2023-12-06T22:43:29.363Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/biosensors_20230503.html</loc>
-    <lastmod>2023-12-06T22:43:30.393Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/dna_synthesis_20230410.html</loc>
-    <lastmod>2023-12-06T22:43:31.357Z</lastmod>
-  </url>
-  <url>
-    <loc>https://greenday.kr/blogposts/mongodb.html</loc>
-    <lastmod>2023-12-06T22:43:32.087Z</lastmod>
+    <lastmod>2024-03-11T21:01:06.323Z</lastmod>
   </url>
   <url>
     <loc>https://greenday.kr/blogposts/running_20230409.html</loc>
-    <lastmod>2023-12-06T22:43:32.977Z</lastmod>
+    <lastmod>2023-12-06T14:35:34.964Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/mongodb.html</loc>
+    <lastmod>2023-12-06T14:35:34.961Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/dna_synthesis_20230410.html</loc>
+    <lastmod>2023-12-06T14:35:34.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/biosensors_20230503.html</loc>
+    <lastmod>2023-12-06T14:35:34.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/automation_202308017.html</loc>
+    <lastmod>2023-12-06T14:35:34.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blog.html</loc>
+    <lastmod>2023-12-06T14:35:34.821Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/about.html</loc>
+    <lastmod>2024-03-11T20:59:55.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/biofoudnry_patent.html</loc>
+    <lastmod>2023-12-06T22:44:59.990Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/AI_20230820.html</loc>
+    <lastmod>2023-12-06T14:35:34.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/biofoundry_20230503.html</loc>
+    <lastmod>2023-12-06T14:35:34.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/data_ip_20230503.html</loc>
+    <lastmod>2023-12-06T14:35:34.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/enzyme_engineering_20231118.html</loc>
+    <lastmod>2023-12-06T22:47:40.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/running_20230225.html</loc>
+    <lastmod>2023-12-06T15:20:46.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/blogposts/synthetic_biology_20230503.html</loc>
+    <lastmod>2023-12-06T22:45:33.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://greenday.kr/kb.html</loc>
+    <lastmod>2024-01-31T01:06:45.634Z</lastmod>
   </url>
   <url>
     <loc>https://greenday.kr/media.html</loc>
-    <lastmod>2023-12-06T22:43:34.522Z</lastmod>
+    <lastmod>2023-12-06T22:42:52.215Z</lastmod>
   </url>
 </urlset>
