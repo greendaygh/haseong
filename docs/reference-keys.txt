@@ -1,6 +1,0 @@
-intro
-lectures
-media
-selected-publications
-일정
-schedule

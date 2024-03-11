@@ -12,6 +12,6 @@ categories:
 
 # 효소개량
 
-## Ginkgo 
+## Ginkgo
 
 -   https://foundrytheory.substack.com/p/improving-a-stubborn-enzyme-with-ai
