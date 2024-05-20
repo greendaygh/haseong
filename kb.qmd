@@ -1,9 +1,0 @@
----
-title: "Knowlege Bank"
----
-
-## 세미나 
-### 김성근박사님 발표 2024.01.31 
-- 중간에 homology가 있어도 플라스미드 연결될 수 있음 -> false positive 증가 
-- gibson mixture 희석해도 해도 효율 좋아짐
-- part insulator 전략은 UTR을 잘라주는 것, ATGA 로 연결된 tendom 서열은 앞쪽에 긴 서열을 붙여주는 것, 둘 다 동일한 목적으로 사용될 수 있음

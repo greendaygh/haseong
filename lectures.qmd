@@ -2,22 +2,28 @@
 title: "Lectures"
 ---
 
+## 2024
+
+-   1학기 충남대학교 [딥러닝-파이썬-생물학] - chatGPT 기반 강의 자료 활용
+-   1학기 KAIST [공학생물학을 위한 설계와 제작] - 설계와 제작 파이썬 코드
+-   1학기 KAIST 공학생물학 개론
+
 ## 2023
 
--   2학기 KAIST [공학생물학 프로그래밍 EB502](https://greendaygh.github.io/2023_kaist_rprog/)
--   2학기 KAIST 공학생물학 개론
+-   2학기 KAIST [공학생물학 프로그래밍 EB502](https://greendaygh.github.io/2023_kaist_rprog/) - R 기반 바이오데이터 소개 및 분석 
+-   2학기 KAIST 공학생물학 개론 
 -   2학기 KAIST 생물분석기술 Bi502
 -   1학기 UST 시스템합성생물학
 
 ## 2022
 
 -   2학기 KAIST 생물분석기술
--   KRIBB 연구데이터 분석과정 [R을 이용한 생명데이터 분석 full](https://greendaygh.github.io/kribbr2022/)
--   1학기 UST 시스템합성생물학
+-   KRIBB 연구데이터 분석과정 [R을 이용한 생명데이터 분석 full](https://greendaygh.github.io/kribbr2022/) 
+-   1학기 UST 시스템합성생물학 
 
 ## 2021
 
--   2학기 UST \[현장연구A\] <!-- (https://greendaygh.github.io/fieldresearch2021-2/) -->
+-   2학기 UST [현장연구A] <!-- (https://greendaygh.github.io/fieldresearch2021-2/) -->
 -   KRIBB 연구데이터 분석과정 [R을 이용한 생명데이터 분석 short](https://greendaygh.github.io/kribbr2021/)
 -   1학기 \[현장연구E\] <!-- (https://greendaygh.github.io/researchE2021/) -->
 -   1학기 [데이터 사이언스를 위한 R 프로그래밍](https://greendaygh.github.io/Rprog2021/)
