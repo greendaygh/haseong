@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Haseong">
-<meta name="dcterms.date" content="2024-10-15">
+<meta name="dcterms.date" content="2023-08-20">
 
-<title>Haseong - Linux tips</title>
+<title>Haseong - AI 레포지토리</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,59 +22,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
-<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../">
-<script src="../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,7 +80,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Haseong</span>
     </a>
   </div>
@@ -125,23 +91,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../lectures.html"> 
+    <a class="nav-link" href="../lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../media.html"> 
+    <a class="nav-link" href="../media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../blog.html"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -160,11 +126,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#사용자-그룹-설정" id="toc-사용자-그룹-설정" class="nav-link active" data-scroll-target="#사용자-그룹-설정">사용자 그룹 설정</a></li>
-  <li><a href="#lazyvim-설치" id="toc-lazyvim-설치" class="nav-link" data-scroll-target="#lazyvim-설치">lazyvim 설치</a>
+  <li><a href="#ai" id="toc-ai" class="nav-link active" data-scroll-target="#ai">AI</a>
   <ul class="collapse">
-  <li><a href="#quarto-vim-설치" id="toc-quarto-vim-설치" class="nav-link" data-scroll-target="#quarto-vim-설치">quarto-vim 설치</a></li>
+  <li><a href="#vertex-ai" id="toc-vertex-ai" class="nav-link" data-scroll-target="#vertex-ai">Vertex AI</a></li>
+  <li><a href="#ai-모델-레포지토리" id="toc-ai-모델-레포지토리" class="nav-link" data-scroll-target="#ai-모델-레포지토리">AI 모델 레포지토리</a></li>
+  <li><a href="#ai-워크벤치" id="toc-ai-워크벤치" class="nav-link" data-scroll-target="#ai-워크벤치">AI 워크벤치</a></li>
+  <li><a href="#airflow" id="toc-airflow" class="nav-link" data-scroll-target="#airflow">Airflow</a></li>
   </ul></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   </ul>
 </nav>
     </div>
@@ -173,9 +142,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Linux tips</h1>
+<h1 class="title">AI 레포지토리</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">linux</div>
+    <div class="quarto-category">syntheic biology</div>
+    <div class="quarto-category">automation</div>
+    <div class="quarto-category">biofoundry</div>
+    <div class="quarto-category">AI</div>
   </div>
   </div>
 
@@ -193,7 +165,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 15, 2024</p>
+      <p class="date">August 20, 2023</p>
     </div>
   </div>
   
@@ -205,50 +177,55 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="사용자-그룹-설정" class="level2">
-<h2 class="anchored" data-anchor-id="사용자-그룹-설정">사용자 그룹 설정</h2>
-<section id="사용자-그릅-추가" class="level4">
-<h4 class="anchored" data-anchor-id="사용자-그릅-추가">사용자 그릅 추가</h4>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> groupadd sblabuser</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> usermod <span class="at">-aG</span> sblabuser haseong</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section>
-<section id="공통-디렉토리-작성" class="level4">
-<h4 class="anchored" data-anchor-id="공통-디렉토리-작성">공통 디렉토리 작성</h4>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> mkdir /mnt/alpha</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> chown :sblabuser /mnt/alpha</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> chmod 775 /mnt/alpha</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> chmod g+s /mnt/alpha</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section>
-</section>
-<section id="lazyvim-설치" class="level2">
-<h2 class="anchored" data-anchor-id="lazyvim-설치">lazyvim 설치</h2>
+<section id="ai" class="level1">
+<h1>AI</h1>
+<section id="vertex-ai" class="level2">
+<h2 class="anchored" data-anchor-id="vertex-ai">Vertex AI</h2>
 <ul>
-<li>https://github.com/neovim/neovim/blob/master/INSTALL.md#ubuntu</li>
+<li><p>특성 추출부터 모델 학습과 저지연 추론에 이르기까지&nbsp;데이터 과학자와 AI 개발자가 인공지능(AI) 애플리케이션을 더 쉽게 통합하고 모델의 배포 및 유지 관리를 가속화 할 수 있는&nbsp;관리형 머신러닝(ML) 플랫폼. 버텍스 AI는 필요한 모든 도구를 갖춘 단일 플랫폼으로 특별히 머신러닝 학습을 필요로 하지 않고 데이터, 프로토타입, 테스트, 모델 배치, 모델 해석 및 생산 모니터링을 할 수 있다. 즉, 기본 지식만 있으면 누구나 이 툴을 사용해 머신러닝 모델을 구현하고 배포 가능.</p></li>
+<li><p>https://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ko</p></li>
 </ul>
-<p>Summary for https://github.com/neovim/neovim/blob/master/INSTALL.md#ubuntu:: GitHub Copilot is an AI-powered developer platform for GitHub . It is a free and 24-hour support service . Use the site to search code, repositories, users, issues, pull requests… Use saved searches to filter your results faster . Neovim can be installed from the community repository . The Python module is available from the AUR as python-pynvim . The following instructions assume an x86_64 architecture; on ARM Linux replace with arm64 . Neovim is available inside the MPR (MPR) Package Repository . You can install it with: git clone https://mpr.makedeb.org/neovim/ggit clone . OpenSUSE can be installed with: sudo zypper in neovim .</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt-get install software-properties-common</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> add-apt-repository ppa:neovim-ppa/unstable</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt update</span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt-get install neovim</span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt-get install ripgrep</span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt install fd-find</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<section id="quarto-vim-설치" class="level3">
-<h3 class="anchored" data-anchor-id="quarto-vim-설치">quarto-vim 설치</h3>
+<p>Summary for https://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ko: Google CloudsManage cookies is Google Cloud. Were hiring. Weve got a job! Google Cloud. Google Cloud is hiring. Join Google Cloud!</p>
+<p>Summary for https://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ko:: ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️</p>
 <ul>
-<li>참고: https://github.com/jmbuhr/quarto-nvim-kickstarter</li>
+<li>https://www.aitimes.kr/news/articleView.html?idxno=27860</li>
 </ul>
-<p>Summary for https://github.com/jmbuhr/quarto-nvim-kickstarter: Use GitHub Copilot Enterprise-grade AI features and 24/7 support . Use the tool to write better code with AI Security Find and fix vulnerabilities . Code Review Manage code changes . Code Search Find more, search less Explore all features Documentation GitHub Skills Blog Solutions . iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of life in the gallery for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots .</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># 백업 </span></span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">mv</span> ~/.config/nvim ~/.config/nvim.bak</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># 설치</span></span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone https://github.com/jmbuhr/quarto-nvim-kickstarter.git ~/.config/nvim</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="co"># 실행</span></span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="ex">nvim</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Summary for https://www.aitimes.kr/news/articleView.html?idxno=27860: Artificial Industrys AI Tech Learnig Deep Learning Neural Network</p>
+<p>Summary for https://www.aitimes.kr/news/articleView.html?idxno=27860:: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery.Please submit your best shots of our featured destinations next week.Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots .</p>
+<ul>
+<li>https://bcho.tistory.com/1383</li>
+</ul>
+<p>Summary for https://bcho.tistory.com/1383: Terise 2.3 is based on the training code of Vertex.AI and Google Cloud Storage . The trainer code is copied to the Docker image . The entry point to invoke the trainer is the entry point . Today: 991 Yesterday: 1,273 Yesterday: 991 . Total now: 12,988 . Total 12,09,70088 .</p>
+</section>
+<section id="ai-모델-레포지토리" class="level2">
+<h2 class="anchored" data-anchor-id="ai-모델-레포지토리">AI 모델 레포지토리</h2>
+<ul>
+<li><p>개발자 혹은 사용자가 최적화된 AI 모델을 학습하여 다양한 모델을 생성한 다음, AI 모델 레포지토리에 등록. 원활한 검색을 위해 모델의 특징을 등록하는데, 제안하는 시스템에서는 이를 컨텍스트라고 정의. 등록된 모델은 컨텍스트를 기반으로 관리되며, 검색 조건도 컨텍스트를 활용. IoT 디바이스는 필요 시 AI 모델 레포지토리에서 AI 모델을 검색한 다음, 배포 기능을 이용해 모델을 다운로드. 선택적으로 여러 AI 모델을 활용하여 on-device AI를 수행.</p></li>
+<li><p>참고자료: 이석준, 최충재, 성낙명.(2022).IoT 온디바이스 AI 실현을 위한 AI 모델 레포지토리.한국정보통신학회 종합학술대회 논문집,26(2),597-599.</p></li>
+</ul>
+</section>
+<section id="ai-워크벤치" class="level2">
+<h2 class="anchored" data-anchor-id="ai-워크벤치">AI 워크벤치</h2>
+<ul>
+<li><p>엔비디아 발표. 개발자는 PC 또는 워크스테이션에서 사전 학습된 생성형 AI 모델을 빠르게 생성, 테스트, 맞춤화한 후 거의 모든 데이터센터, 공용 클라우드, 엔비디아 DGX 클라우드 등으로 확장 가능. AI 프로젝트를 시작할 때 겪는 복잡성을 최소화. 로컬 시스템에서 실행되는 간소화된 인터페이스를 통해 액세스할 수 있으며, 개발자는 맞춤형 데이터를 사용해 허깅페이스(Hugging Face), 깃허브(GitHub), 엔비디아 NGC와 같은 인기 리포지토리에서 모델을 맞춤화한 다음 여러 플랫폼에서 쉽게 공유 가능.</p></li>
+<li><p>https://www.elec4.co.kr/article/articleView.asp?idx=31589</p></li>
+</ul>
+<p>Summary for https://www.elec4.co.kr/article/articleView.asp?idx=31589: ︎ (︎) ︎ (︎) ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎: ︎:</p>
+<p>Summary for https://www.elec4.co.kr/article/articleView.asp?idx=31589:: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery.Please submit your best shots of our featured destinations for next week.Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots .</p>
+</section>
+<section id="airflow" class="level2">
+<h2 class="anchored" data-anchor-id="airflow">Airflow</h2>
+<ul>
+<li><p>에어플로우는 일련을 일들을 순차적으로 진행시켜주는 프로젝트 관리자. 데이터 처리에 중점을 둔 저장소. 테스크가 이상적으로 멱등성의 법칙을 따라야 한다는 철학을 갖고 개발. 목적지 시스템에서 이중 데이터가 생성되지 않으며 테스크의 결과는 언제나 같아야 한다는 것임.</p></li>
+<li><p>https://lsjsj92.tistory.com/631</p></li>
+</ul>
+<p>Summary for https://lsjsj92.tistory.com/631: Apache Airflow is an open-source version of the Apache version of Apache’s Airflow.The code is available on GitHub.The tutorial is based on an example of a python airflow tutorial and an example.</p>
+</section>
+</section>
+<section id="section" class="level1">
+<h1></h1>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

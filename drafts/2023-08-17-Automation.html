@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Haseong">
-<meta name="dcterms.date" content="2024-10-15">
+<meta name="dcterms.date" content="2023-08-17">
 
-<title>Haseong - Linux tips</title>
+<title>Haseong - Automation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,59 +22,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
-<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../">
-<script src="../../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,7 +80,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Haseong</span>
     </a>
   </div>
@@ -125,23 +91,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../lectures.html"> 
+    <a class="nav-link" href="../lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../media.html"> 
+    <a class="nav-link" href="../media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../blog.html"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -160,10 +126,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#사용자-그룹-설정" id="toc-사용자-그룹-설정" class="nav-link active" data-scroll-target="#사용자-그룹-설정">사용자 그룹 설정</a></li>
-  <li><a href="#lazyvim-설치" id="toc-lazyvim-설치" class="nav-link" data-scroll-target="#lazyvim-설치">lazyvim 설치</a>
+  <li><a href="#automation" id="toc-automation" class="nav-link active" data-scroll-target="#automation">Automation</a>
   <ul class="collapse">
-  <li><a href="#quarto-vim-설치" id="toc-quarto-vim-설치" class="nav-link" data-scroll-target="#quarto-vim-설치">quarto-vim 설치</a></li>
+  <li><a href="#enabling-high-throughput-biology-with-flexible-open-source-automation" id="toc-enabling-high-throughput-biology-with-flexible-open-source-automation" class="nav-link" data-scroll-target="#enabling-high-throughput-biology-with-flexible-open-source-automation">Enabling high-throughput biology with flexible open-source automation</a></li>
+  <li><a href="#automated-rational-strain-construction-based-on-high-throughput-conjugation" id="toc-automated-rational-strain-construction-based-on-high-throughput-conjugation" class="nav-link" data-scroll-target="#automated-rational-strain-construction-based-on-high-throughput-conjugation">Automated Rational Strain Construction Based on High-Throughput Conjugation</a></li>
+  <li><a href="#자동화-코드-참고-저널" id="toc-자동화-코드-참고-저널" class="nav-link" data-scroll-target="#자동화-코드-참고-저널">자동화 코드 참고 저널</a></li>
+  <li><a href="#dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology" id="toc-dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology" class="nav-link" data-scroll-target="#dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology">DNA-BOT: a low-cost, automated DNA assembly platform for synthetic biology</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -173,9 +141,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Linux tips</h1>
+<h1 class="title">Automation</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">linux</div>
+    <div class="quarto-category">syntheic biology</div>
+    <div class="quarto-category">automation</div>
+    <div class="quarto-category">biofoundry</div>
   </div>
   </div>
 
@@ -193,7 +163,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 15, 2024</p>
+      <p class="date">August 17, 2023</p>
     </div>
   </div>
   
@@ -205,47 +175,26 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="사용자-그룹-설정" class="level2">
-<h2 class="anchored" data-anchor-id="사용자-그룹-설정">사용자 그룹 설정</h2>
-<section id="사용자-그릅-추가" class="level4">
-<h4 class="anchored" data-anchor-id="사용자-그릅-추가">사용자 그릅 추가</h4>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> groupadd sblabuser</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> usermod <span class="at">-aG</span> sblabuser haseong</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<section id="automation" class="level1">
+<h1>Automation</h1>
+<section id="enabling-high-throughput-biology-with-flexible-open-source-automation" class="level3">
+<h3 class="anchored" data-anchor-id="enabling-high-throughput-biology-with-flexible-open-source-automation">Enabling high-throughput biology with flexible open-source automation</h3>
+<p>복잡한 생활 시스템에 대한 우리의 이해는 높은 처리량으로 실험을 수행할 수 있는 우리의 능력에 의해 제한됩니다. 로봇 시스템은 많은 전통적인 수동 피펫팅 프로토콜을 자동화했지만 소프트웨어 제한으로 인해 수백 개의 실험을 동시에 조작, 유지 및 모니터링하는 데 필요한 고급 조작이 불가능했습니다. 여기에서는 메타 모집단 역학 시뮬레이션과 같은 사용자 지정 고처리량 실험에 필요한 복잡한 피펫팅 패턴을 실행할 수 있는 오픈 소스 Python 플랫폼인 Pyhamilton을 소개합니다. 통합 플레이트 리더를 사용하여 로봇 방법을 실시간으로 조정하기 위해 정기적인 밀도 측정을 수행함으로써 사용자 개입 없이 며칠 동안 거의 500개에 가까운 원격 모니터링 세균 배양을 대수 성장 상태로 유지합니다. 이러한 기능을 사용하여 우리는 탄소, 질소 및 인 피트니스 환경을 종합적으로 샘플링하기 위해 3중으로 100가지 연속 배양 조건의 형광 단백질 발현 및 성장률을 모니터링하여 생물 반응기 단백질 생산을 체계적으로 최적화합니다. 우리의 결과는 유연한 소프트웨어가 기존 하드웨어에 힘을 실어 새로운 유형과 규모의 실험을 가능하게 하고 생물 제조에서 기초 생물학에 이르는 영역에 힘을 실어줄 수 있음을 보여줍니다.</p>
+<p>https://www.embopress.org/doi/full/10.15252/msb.20209942</p>
 </section>
-<section id="공통-디렉토리-작성" class="level4">
-<h4 class="anchored" data-anchor-id="공통-디렉토리-작성">공통 디렉토리 작성</h4>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> mkdir /mnt/alpha</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> chown :sblabuser /mnt/alpha</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> chmod 775 /mnt/alpha</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> chmod g+s /mnt/alpha</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<section id="automated-rational-strain-construction-based-on-high-throughput-conjugation" class="level3">
+<h3 class="anchored" data-anchor-id="automated-rational-strain-construction-based-on-high-throughput-conjugation">Automated Rational Strain Construction Based on High-Throughput Conjugation</h3>
+<p>분자 복제는 DNA 조립과 표적 숙주에서의 발현으로 구성되기 때문에 합성 생물학의 핵심입니다. 그러나 현재 복제는 자동화의 이점이 큰 수동적이고 시간 소모적이며 반복적인 프로세스인 경우가 가장 많습니다. 완전한 합리적인 클로닝 절차의 자동화, 즉 DNA 생성에서 표적 숙주에서의 발현까지의 자동화에는 다양한 작업과 기계의 통합이 포함됩니다. 이러한 워크플로우의 예는 드물고, 특히 설계가 합리적이고( 즉 , DNA 서열 설계가 고정되어 있으며 무작위 라이브러리를 기반으로 하지 않음) 표적 숙주가 유전적으로 다루기 쉽지 않은 경우( 예:, 열충격 변형에 민감하지 않음). 이 연구에서는 플라스미드의 합리적인 구성과 생명공학 플랫폼 유기체인 코리네박테리움 글루타미쿰 으로의 후속 컨쥬게이티브 전송을 위한 자동화된 워크플로가 제시됩니다. 전체 작업 흐름에는 맞춤형 소프트웨어 도구가 수반됩니다. 응용 예로서 조절자 Lrp를 기반으로 합리적으로 설계된 전사 인자-바이오 센서 라이브러리를 구축하고 특성화했습니다. 동적 범위가 개선된 센서를 얻었고 스크리닝에서 얻은 통찰력은 C. 글루타미쿰 Lrp의 이중 조절기 기능에 대한 증거를 제공했습니다.</p>
+<p>https://pubs.acs.org/doi/full/10.1021/acssynbio.0c00599</p>
 </section>
+<section id="자동화-코드-참고-저널" class="level3">
+<h3 class="anchored" data-anchor-id="자동화-코드-참고-저널">자동화 코드 참고 저널</h3>
+<p>https://journal.code4lib.org/</p>
+<p>Summary for https://journal.code4lib.org/: The Code4Lib Journal is a volunteer-run organization without a revenue stream . Issue 58 was a crisis over our unintentional publication of personal information . Issue 59 is a testament to the perseverance of my colleagues on the Editorial Board, and to the wonderful articles contributed by our community . This article details the complexities of customizing an open source repository . This article steps through desired features and software settings in LibGuides to support use as an intranet . Harry Bartholomew shares his journey of creating, distributing, and dealing with the aftereffects of making Python-based applications for our users . He provides advice on what to look out for if you’re looking to do something similar . The focus is on demonstrating the practicality, adaptability, and user-friendliness of the Python-based workflow . The Python reference solution created the library, from generating</p>
 </section>
-<section id="lazyvim-설치" class="level2">
-<h2 class="anchored" data-anchor-id="lazyvim-설치">lazyvim 설치</h2>
-<ul>
-<li>https://github.com/neovim/neovim/blob/master/INSTALL.md#ubuntu</li>
-</ul>
-<p>Summary for https://github.com/neovim/neovim/blob/master/INSTALL.md#ubuntu:: GitHub Copilot is an AI-powered developer platform for GitHub . It is a free and 24-hour support service . Use the site to search code, repositories, users, issues, pull requests… Use saved searches to filter your results faster . Neovim can be installed from the community repository . The Python module is available from the AUR as python-pynvim . The following instructions assume an x86_64 architecture; on ARM Linux replace with arm64 . Neovim is available inside the MPR (MPR) Package Repository . You can install it with: git clone https://mpr.makedeb.org/neovim/ggit clone . OpenSUSE can be installed with: sudo zypper in neovim .</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt-get install software-properties-common</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> add-apt-repository ppa:neovim-ppa/unstable</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt update</span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt-get install neovim</span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt-get install ripgrep</span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> apt install fd-find</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<section id="quarto-vim-설치" class="level3">
-<h3 class="anchored" data-anchor-id="quarto-vim-설치">quarto-vim 설치</h3>
-<ul>
-<li>참고: https://github.com/jmbuhr/quarto-nvim-kickstarter</li>
-</ul>
-<p>Summary for https://github.com/jmbuhr/quarto-nvim-kickstarter: Use GitHub Copilot Enterprise-grade AI features and 24/7 support . Use the tool to write better code with AI Security Find and fix vulnerabilities . Code Review Manage code changes . Code Search Find more, search less Explore all features Documentation GitHub Skills Blog Solutions . iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of life in the gallery for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots .</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># 백업 </span></span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">mv</span> ~/.config/nvim ~/.config/nvim.bak</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># 설치</span></span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone https://github.com/jmbuhr/quarto-nvim-kickstarter.git ~/.config/nvim</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="co"># 실행</span></span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="ex">nvim</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<section id="dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology" class="level3">
+<h3 class="anchored" data-anchor-id="dna-bot-a-low-cost-automated-dna-assembly-platform-for-synthetic-biology">DNA-BOT: a low-cost, automated DNA assembly platform for synthetic biology</h3>
+<p>다중 부분 DNA 조립은 합성 및 분자 생물학의 많은 프로젝트에서 물리적 출발점입니다. 광범위한 DNA 구조 라이브러리를 구축하여 유전자 설계 공간을 탐색하는 능력은 프로그래밍된 생물학적 시스템을 만드는 데 필수적입니다. 합성 생물학 커뮤니티에서 채택된 여러 DNA 조립 방법 및 표준으로 인해 DNA 조립 프로세스의 자동화가 이제 큰 관심을 받고 있습니다. 자동화를 통해 접근 가능한 디자인 공간을 늘리는 동시에 연구자의 시간을 덜 사용하여 더 큰 빌드를 만들 수 있습니다. 그러나 이러한 이점은 현재 장비와 소모품 모두에 높은 비용을 초래합니다. 여기에서는 DNA-BOT(OpenTrons)의 BASIC을 사용하여 저비용 DNA 어셈블리를 도입하여 이러한 제한 사항을 해결합니다. 이 목적을 위해, 우리는 오픈 소스 소프트웨어 패키지를 개발하고 10개의 유전 부분으로 구성된 88개의 구성을 동시에 조립하고 3개 유전자 오페론에 대한 프로모터, 리보솜 결합 부위 및 유전자 순서 설계 공간을 평가하여 DNA-BOT의 성능을 시연했습니다. 88개의 모든 구성은 구성당 $1.50–$5.50의 소모품 비용으로 높은 정확도로 조립되었습니다. 이것은 DNA-BOT의 효율성, 정확성 및 경제성을 보여주며 대부분의 실험실에서 접근 가능하고 자동화된 DNA 조립을 민주화합니다.</p>
 
 
 </section>
