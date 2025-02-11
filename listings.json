@@ -2,8 +2,15 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/blogposts/running_20230409.html",
-      "/blogposts/running_20230225.html"
+      "/blogposts/2024/10/2024-10-15-Linux_tips.html",
+      "/blogposts/2023/08/2023-08-20-AI_레포지토리.html",
+      "/blogposts/2023/08/2023-08-17-Automation.html",
+      "/blogposts/2023/05/2023-05-03-biosensors.html",
+      "/blogposts/2023/04/2023-04-09-Running.html",
+      "/blogposts/2023/02/2023-02-09-DNA_assembly_News.html",
+      "/blogposts/2023/02/2023-02-09-Enzyme_engineering.html",
+      "/blogposts/2023/02/2023-02-09-MongoDB.html",
+      "/blogposts/2023/02/2023-02-05-Running.html"
     ]
   }
 ]
